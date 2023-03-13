@@ -20,7 +20,7 @@ Once the questions JSON file is ready, `lst_countries` dictionary inside `main.p
 ___
 
 ## Run
-In order to run this app, you need to install the dependencies first based on `environment.yml`.
+In order to run this app, you need to install the dependencies first based on `_environment.yml`.
 Once the dependencies are installed, run the dashboard using `streamlit`.
 
     streamlit run ./main.py
