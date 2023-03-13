@@ -39,7 +39,7 @@ Once you run it, you can open it in your browser on [http://127.0.0.1](http://12
 
 ### Live demo
 You can check its live demo here:
-[https://citizenship-test.streamlitapp.com/](https://citizenship-test.streamlitapp.com/)
+[https://citizenship.streamlit.app/](https://citizenship.streamlit.app/)
 
 ___
 ## Resources
