@@ -1,0 +1,998 @@
+{
+  "1":
+  {
+    "question": "What are the three main groups of Aboriginal peoples?",
+    "options": [
+      "First Nations, Métis and Inuit",
+      "Acadians, Métis and First Nations",
+      "French, English and First Nations",
+      "Early settlers, Métis and Inuit"
+    ],
+    "answer": "First Nations, Métis and Inuit",
+    "note": ""
+  },
+  "2":
+  {
+    "question": "Who was John Buchan?",
+    "options": [
+      "A popular Governor General of Canada",
+      "A famous Canadian general",
+      "A victorious Canadian army General",
+      "One of the Fathers of Confederation"
+    ],
+    "answer": "A popular Governor General of Canada",
+    "note": ""
+  },
+  "3":
+  {
+    "question": "When did the House of Commons recognize that the Quebecois form a nation within a united Canada?",
+    "options": [
+      "2006",
+      "2001",
+      "1986",
+      "1972"
+    ],
+    "answer": "2006",
+    "note": ""
+  },
+  "4":
+  {
+    "question": "Who is Marjorie Turner-Bailey?",
+    "options": [
+      "An Olympian and descendant of black Loyalists",
+      "A famous Canadian settler",
+      "The first woman to become Prime Minister",
+      "The first Canadian female athlete"
+    ],
+    "answer": "An Olympian and descendant of black Loyalists",
+    "note": ""
+  },
+  "5":
+  {
+    "question": "When did English settlement begin in Canada?",
+    "options": [
+      "1510",
+      "1497",
+      "1610",
+      "1720"
+    ],
+    "answer": "1610",
+    "note": ""
+  },
+  "6":
+  {
+    "question": "Who established the first European settlements?",
+    "options": [
+      "The English",
+      "The Irish",
+      "The French",
+      "The Spanish"
+    ],
+    "answer": "The French",
+    "note": ""
+  },
+  "7":
+  {
+    "question": "Who passed the Quebec Act of 1774?",
+    "options": [
+      "The Canadian Parliament",
+      "The British Parliament",
+      "The Quebec Parliament",
+      "The French majority"
+    ],
+    "answer": "The British Parliament",
+    "note": ""
+  },
+  "8":
+  {
+    "question": "Which Act granted to the Canadas, for the first time, legislative assemblies elected by the people?",
+    "options": [
+      "The Freedom Act",
+      "The Constitutional Act",
+      "The Legislative Act",
+      "The Confederation Act"
+    ],
+    "answer": "The Constitutional Act",
+    "note": ""
+  },
+  "9":
+  {
+    "question": "Who was Lieutenant Colonel John Graves Simcoe?",
+    "options": [
+      "Upper Canada's first Lieutenant Governor and founder of the City of Toronto",
+      "Lower Canada's first Lieutenant Governor and founder of the City of Toronto",
+      "Lower Canada's first Lieutenant Governor and founder of the City of Ottawa",
+      "The leader of the loyalists"
+    ],
+    "answer": "Upper Canada's first Lieutenant Governor and founder of the City of Toronto",
+    "note": ""
+  },
+  "10":
+  {
+    "question": "When did the British Parliament abolish slavery throughout the Empire?",
+    "options": [
+      "1833",
+      "1807",
+      "1853",
+      "1793"
+    ],
+    "answer": "1833",
+    "note": ""
+  },
+  "11":
+  {
+    "question": "Name 3 fathers of Confederation",
+    "options": [
+      "Sir Étienne-Paschal Taché, Sir George-Étienne Cartier, and Sir John A. Macdonald",
+      "La Fontaine, Robert Baldwin, and Joseph Howe",
+      "Joseph Brant, Joseph Howe, and James Macdonald",
+      "Jospeh Howe, Robert La Fontaine, and Sir Étienne-Paschal Taché"
+    ],
+    "answer": "Sir Étienne-Paschal Taché, Sir George-Étienne Cartier, and Sir John A. Macdonald",
+    "note": ""
+  },
+  "12":
+  {
+    "question": "Which phrase embodied the vision for the Dominion of Canada?",
+    "options": [
+      "Oh Canada, my home and native land",
+      "Dominion from sea to sea and from the river to the ends of the earth",
+      "Dominion from ocean to ocean",
+      "The land of the free and strong"
+    ],
+    "answer": "Dominion from sea to sea and from the river to the ends of the earth",
+    "note": ""
+  },
+  "13":
+  {
+    "question": "Whose portrait is on the Canadian $10 bill?",
+    "options": [
+      "Sir George-Étienne Cartier",
+      "Sir Louis-Hippolyte La Fontaine",
+      "Sir Étienne-Paschal Taché",
+      "Sir John Alexander Macdonald"
+    ],
+    "answer": "Sir John Alexander Macdonald",
+    "note": ""
+  },
+  "14":
+  {
+    "question": "What made it possible for immigrants to settle in Western Canada?",
+    "options": [
+      "The completion of the port of Vancouver",
+      "The completion of the Canadian National Railway",
+      "The giving of free land to new settlers",
+      "The completion of the Canadian Pacific Railway"
+    ],
+    "answer": "The completion of the Canadian Pacific Railway",
+    "note": ""
+  },
+  "15":
+  {
+    "question": "When were the Canada and Quebec Pension Plans devised?",
+    "options": [
+      "1940",
+      "1927",
+      "1965",
+      "1970"
+    ],
+    "answer": "1965",
+    "note": ""
+  },
+  "16":
+  {
+    "question": "What is \"La Francophonie\"?",
+    "options": [
+      "A region in Quebec",
+      "A French music instrument",
+      "An international association of French-speaking countries",
+      "A French music festival"
+    ],
+    "answer": "An international association of French-speaking countries",
+    "note": ""
+  },
+  "17":
+  {
+    "question": "Why is Terry Fox a Canadian national hero?",
+    "options": [
+      "He inspired people to contribute money for cancer research",
+      "He became the first elected President of Canada",
+      "He was the greatest hockey player of all time",
+      "He united Canada in the 19th century"
+    ],
+    "answer": "He inspired people to contribute money for cancer research",
+    "note": ""
+  },
+  "18":
+  {
+    "question": "What are the responsibilities of the federal government?",
+    "options": [
+      "Matters of national and international concern",
+      "Matters of national concern",
+      "Matters of international concern",
+      "Matters of provincial concern"
+    ],
+    "answer": "Matters of national and international concern",
+    "note": ""
+  },
+  "19":
+  {
+    "question": "Who has the right to vote in a federal election?",
+    "options": [
+      "A Canadian citizen, at least 18 years old on voting day and on the voters' list",
+      "An adult Canadian citizen",
+      "Adult Canadian citizens and permanent residents",
+      "Canadian citizens on the voters' list"
+    ],
+    "answer": "A Canadian citizen, at least 18 years old on voting day and on the voters' list",
+    "note": ""
+  },
+  "20":
+  {
+    "question": "Where do the majority of Canadians live?",
+    "options": [
+      "In rural areas",
+      "In small towns",
+      "In cities",
+      "Along the East Coast"
+    ],
+    "answer": "In cities",
+    "note": ""
+  },
+  "21":
+  {
+    "question": "The Constitution of Canada was amended to entrench which Canadian Charter in 1982?",
+    "options": [
+      "Canadian Charter of Right and Freedom",
+      "Canadian Charter of Crime and Punishment",
+      "Canadian Charter of Citizen's Responsibility",
+      "Canadian Charter of National Allegiance"
+    ],
+    "answer": "Ottawa",
+    "note": "The Constitution of Canada was amended in 1982 to entrench the Canadian Charter of Rights and Freedoms."
+  },
+  "22":
+  {
+    "question": "Which one of the following is not a source of the Law present in Canada?",
+    "options": [
+      "French Civil Code",
+      "Law Passed by Parliament",
+      "US Federal Law",
+      "English Common Law"
+    ],
+    "answer": "US Federal Law",
+    "note": "Canadian law has several sources, including laws passed by Parliament and the provincial legislatures, English common law, the civil code of France and the unwritten constitution that we have inherited from Great Britain."
+  },
+  "23":
+  {
+    "question": "Through Habeas Corpus, a person can challenge unlawful detention by the state. It is derived from which Law?",
+    "options": [
+      "German Common Law",
+      "English Common Law",
+      "French Common Law",
+      "Italian Common Law"
+    ],
+    "answer": "English Common Law",
+    "note": "Habeas corpus, the right to challenge unlawful detention by the state, comes from English common law."
+  },
+  "24":
+  {
+    "question": "“Whereas Canada is founded upon principles that recognize the supremacy of God and the Rule of Law”. This phrase underlines the importance of",
+    "options": [
+      "Religious Tradition",
+      "Dignity and Worth of Human Person",
+      "Both A & B",
+      "None of These"
+    ],
+    "answer": "Both A & B",
+    "note": "Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law.” This phrase indicates the importance of religious as well as moral values and traditions to Canadian society and the dignity and worth of the human person."
+  },
+  "25":
+  {
+    "question": "How old is the tradition of ordered liberty that Canada contains?",
+    "options": [
+      "1000",
+      "800",
+      "700",
+      "900"
+    ],
+    "answer": "800",
+    "note": "Canada contains an 800 years old tradition of ordered liberty, which dates back to the signing of Magna Carta in 1215 in England (also known as the Great Charter of Freedoms)."
+  },
+  "26":
+  {
+    "question": "Together with Canadian law that was inherited from the past, Canada also has an 800 years old tradition of ordered liberty, which dates back to the signing of",
+    "options": [
+      "Magna Carter",
+      "Fleur-de-lys",
+      "Charter of Independence",
+      "There was no Signing"
+    ],
+    "answer": "Magna Carter",
+    "note": "Canadian law has several sources, including laws passed by Parliament and the provincial legislatures, English common law, the civil code of France, and the unwritten constitution that we have inherited from Great Britain. Together, these secure for Canadians an 800year old tradition of ordered liberty, which dates back to the signing of Magna Carta in 1215 in England (also known as the Great Charter of Freedoms)."
+  },
+  "27":
+  {
+    "question": "According to law, which of the following gives a person the right to challenge unlawful detention by the state and imprisonment",
+    "options": [
+      "Habeas Corpus",
+      "Magna Carter",
+      "Civil Law",
+      "Parliament Law"
+    ],
+    "answer": "Habeas Corpus",
+    "note": "Habeas corpus, the right to challenge unlawful detention by the state, comes from English common law."
+  },
+  "28":
+  {
+    "question": "Who is Canada’s representative?",
+    "options": [
+      "The People",
+      "The sovereign",
+      "The Governor General",
+      "The Armed Forces"
+    ],
+    "answer": "The sovereign",
+    "note": "Canada is personified by The sovereign."
+  },
+  "29":
+  {
+    "question": "The Constitution of Canada was amended in which year?",
+    "options": [
+      "1982",
+      "1997",
+      "1947",
+      "1980"
+    ],
+    "answer": "1982",
+    "note": "The Constitution of Canada was amended in 1982."
+  },
+  "30":
+  {
+    "question": "Immigrants between the ages of 18 and 54 must have adequate knowledge of",
+    "options": [
+      "English",
+      "Metis",
+      "French",
+      "Both A & C"
+    ],
+    "answer": "Both A & C",
+    "note": "Those willing to become the part Canadian Culture, between the ages of 18 and 54 must have adequate knowledge of French and English."
+  },
+  "31":
+  {
+    "question": "Who are regulated by the Laws in Canada?",
+    "options": [
+      "Individuals",
+      "Governments",
+      "Both A & B",
+      "None of Them"
+    ],
+    "answer": "Both A & B",
+    "note": "One of Canada’s founding principles is the rule of law. Individuals and governments are regulated by laws and not by arbitrary actions."
+  },
+  "32":
+  {
+    "question": "To become a part of Canada, what is the age limit for a person that must have adequate knowledge of French and English?",
+    "options": [
+      "12 - 75",
+      "14 - 84",
+      "18 - 54",
+      "16 - 62"
+    ],
+    "answer": "18 - 54",
+    "note": "Those willing for Canadian Citizenship, between the ages of 18 and 54 must have adequate knowledge of French and English."
+  },
+  "33":
+  {
+    "question": "Under Oath of Citizenship in Canada, To which person do the Canadian Citizens swear Allegiance?",
+    "options": [
+      "Prime Minister",
+      "Governor General",
+      "Sovereign",
+      "Premier"
+    ],
+    "answer": "Sovereign",
+    "note": "In the Canadian Oath of Citizenship, we swear allegiance to the Sovereign."
+  },
+  "34":
+  {
+    "question": "A Member of Parliament from Montreal announces that she will spend her weekend in her electoral district. This means she would be:",
+    "options": [
+      "In her office on Parliament Hill",
+      "Visiting the province of Quebec",
+      "In the part of Montreal where she was elected",
+      "Going on a vacation"
+    ],
+    "answer": "In the part of Montreal where she was elected",
+    "note": ""
+  },
+  "35":
+  {
+    "question": "After a federal election, which party forms the new government?",
+    "options": [
+      "The party with the most elected representatives is invited by the Governor General to become the party in power",
+      "The King himself picks any party to run the government",
+      "The Governor General proposes a law for elected officials to become the governing body",
+      "The Premiers of each province pick a party to run the government"
+    ],
+    "answer": "The party with the most elected representatives is invited by the Governor General to become the party in power",
+    "note": ""
+  },
+  "36":
+  {
+    "question": "Approximately how many Canadians served in the First World War?",
+    "options": [
+      "7000",
+      "8 million",
+      "About 60,000",
+      "More than 600,000"
+    ],
+    "answer": "More than 600,000",
+    "note": ""
+  },
+  "37":
+  {
+    "question": "Canada has three territories and how many provinces?",
+    "options": [
+      "13",
+      "10",
+      "3",
+      "5"
+    ],
+    "answer": "10",
+    "note": ""
+  },
+  "38":
+  {
+    "question": "Fatima is a new immigrant in Canada. What law allows her to take a job at par with a man?",
+    "options": [
+      "Equality of women and men",
+      "Equality of all races",
+      "Equal pay for equal work",
+      "Equal rights"
+    ],
+    "answer": "Equality of women and men",
+    "note": ""
+  },
+  "39":
+  {
+    "question": "From where does the name “Canada” come from?",
+    "options": [
+      "From the Inuit word meaning country",
+      "From the French word meaning joining",
+      "From the Métis word meaning rivers",
+      "From 'Kanata', the Huron-Iroquois word for village"
+    ],
+    "answer": "From 'Kanata', the Huron-Iroquois word for village",
+    "note": ""
+  },
+  "40":
+  {
+    "question": "Give an example of how you can show responsibility by participating in your community.",
+    "options": [
+      "Mind your own business",
+      "Have a party",
+      "Keep your property tidy",
+      "Volunteer"
+    ],
+    "answer": "Volunteer",
+    "note": ""
+  },
+  "41":
+  {
+    "question": "Give an example of where English and French have equal status in Canada.",
+    "options": [
+      "In schools",
+      "In the workplace",
+      "In the Parliament of Canada",
+      "At City Hall"
+    ],
+    "answer": "In the Parliament of Canada",
+    "note": ""
+  },
+  "42":
+  {
+    "question": "Give the first line of Canada’s national anthem?",
+    "options": [
+      "O Canada! Our home and native land!",
+      "O Canada! Our province and native land!",
+      "O Canada! From far and wide, O Canada",
+      "O Canada! We stand on guard for thee"
+    ],
+    "answer": "O Canada! Our home and native land!",
+    "note": ""
+  },
+  "43":
+  {
+    "question": "How are Members of Parliament chosen?",
+    "options": [
+      "Appointed by the Prime Minister",
+      "Elected by Canadian citizens",
+      "Appointed by the King",
+      "Elected by the Provincial Ministers"
+    ],
+    "answer": "Elected by Canadian citizens",
+    "note": ""
+  },
+  "44":
+  {
+    "question": "How are Senators chosen?",
+    "options": [
+      "By the Governor General of Canada",
+      "By the Premiers of all provinces",
+      "Appointed by the King",
+      "Senators are appointed by the Governor General on the advice of the Prime Minister"
+    ],
+    "answer": "Senators are appointed by the Governor General on the advice of the Prime Minister",
+    "note": ""
+  },
+  "45":
+  {
+    "question": "How does a bill become a law?",
+    "options": [
+      "The Lieutenant Governor must approve the bill",
+      "Approval by a majority in the House of Commons and Senate and finally the Governor General",
+      "The King must sign the bill",
+      "Approval by the Members of the Legislative Assembly"
+    ],
+    "answer": "Approval by a majority in the House of Commons and Senate and finally the Governor General",
+    "note": ""
+  },
+  "46":
+  {
+    "question": "How is a Cabinet Minister chosen?",
+    "options": [
+      "By the King",
+      "By the voters",
+      "By other Cabinet Ministers",
+      "By the Prime Minister"
+    ],
+    "answer": "By the Prime Minister",
+    "note": ""
+  },
+  "47":
+  {
+    "question": "How is the government formed after a federal election?",
+    "options": [
+      "The party with the most elected representatives becomes the party in power. The King chooses the Prime Minister from this party",
+      "Ordinarily, the party with the most elected representatives becomes the party in power. The leader of this party becomes the Prime Minister",
+      "The Governor General picks a party and a Prime Minister to run the government",
+      "Each province elects one representative to form the government. The King then chooses the Prime Minister"
+    ],
+    "answer": "Ordinarily, the party with the most elected representatives becomes the party in power. The leader of this party becomes the Prime Minister",
+    "note": ""
+  },
+  "48":
+  {
+    "question": "How is the Prime Minister chosen?",
+    "options": [
+      "The King appoints the Prime Minister",
+      "The Governor General with the Senate appoint the Prime Minister",
+      "The leader of the party with the most elected representatives becomes the Prime Minister",
+      "The MPs vote on the Prime Minister"
+    ],
+    "answer": "The leader of the party with the most elected representatives becomes the Prime Minister",
+    "note": ""
+  },
+  "49":
+  {
+    "question": "In Canada, are you allowed to question the police about their service or conduct?",
+    "options": [
+      "No, police service and conduct is not open to discussion with Canadians",
+      "Yes, you can question their service but not their conduct",
+      "Yes, you can question their conduct but not their service",
+      "Yes, if you feel the need to"
+    ],
+    "answer": "Yes, if you feel the need to",
+    "note": ""
+  },
+  "50":
+  {
+    "question": "In Canada’s justice system what does “presumption of innocence” mean?",
+    "options": [
+      "Everyone is guilty until proven innocent",
+      "Guilt is decided by public opinion",
+      "Innocence is decided by public opinion",
+      "Everyone is innocent until proven guilty"
+    ],
+    "answer": "Everyone is innocent until proven guilty",
+    "note": ""
+  },
+  "51":
+  {
+    "question": "In the 1960s, Quebec experienced an era of rapid change. What is this called?",
+    "options": [
+      "The West Movement",
+      "The Revolution",
+      "The Quiet Revolution",
+      "La Francophonie"
+    ],
+    "answer": "The Quiet Revolution",
+    "note": ""
+  },
+  "52":
+  {
+    "question": "In what industry do most Canadians work?",
+    "options": [
+      "Natural resources",
+      "Tourism",
+      "Service",
+      "Manufacturing"
+    ],
+    "answer": "Service",
+    "note": ""
+  },
+  "53":
+  {
+    "question": "In which region do more than half the people in Canada live?",
+    "options": [
+      "Central Canada",
+      "Prairies",
+      "Atlantic Canada",
+      "Northern Canada"
+    ],
+    "answer": "Central Canada",
+    "note": ""
+  },
+  "54":
+  {
+    "question": "Name all the federal political parties in the House of Commons and their leaders",
+    "options": [
+      "Conservative (Poilievre), NDP (Singh), Liberal (Trudeau), Bloc Quebecois (Blanchet), Green Party (May)",
+      "Conservative (Poilievre), Green (May), Liberal (Trudeau), Bloc Quebecois (Duceppe)",
+      "NDP (Mulcair), Green (May), Liberal (Rae), Bloc Quebecois (Paillé)",
+      "Liberal (Ignatieff), Conservative (Ambrose), NDP (Turmel), Green (May)"
+    ],
+    "answer": "Conservative (Poilievre), NDP (Singh), Liberal (Trudeau), Bloc Quebecois (Blanchet), Green Party (May)",
+    "note": ""
+  },
+  "55":
+  {
+    "question": "Name six responsibilities of citizenship.",
+    "options": [
+      "Getting a job, making money, raising a family, paying taxes, mowing your lawn, voting in provincial elections",
+      "Voting in municipal elections only, joining a political party, getting a job, obeying the law, driving safely, picking up litter",
+      "Caring for the environment, not littering, paying taxes, obeying the law, helping others, respecting others",
+      "Obeying the law, taking responsibility for oneself and one's family, helping others in the community, voting in elections, serving on a jury, protecting and enjoying our heritage and environment"
+    ],
+    "answer": "Obeying the law, taking responsibility for oneself and one's family, helping others in the community, voting in elections, serving on a jury, protecting and enjoying our heritage and environment",
+    "note": ""
+  },
+  "56":
+  {
+    "question": "Name the five regions of Canada",
+    "options": [
+      "Midwest, North, South, East, Central",
+      "Maritimes, Ontario, Quebec, Prairies, and British Columbia",
+      "Atlantic, Central, Prairie, West Coast, and North",
+      "West, Central, East, Prairies, and Territories"
+    ],
+    "answer": "Atlantic, Central, Prairie, West Coast, and North",
+    "note": ""
+  },
+  "57":
+  {
+    "question": "Name three additional rights protected by the Canadian Charter of Rights and Freedoms",
+    "options": [
+      "Freedom of speech, Right to own land, and Right to a fair trial",
+      "Mobility rights, Multiculturalism, and Aboriginal Peoples' rights",
+      "Right to ski anywhere in Canada, Moving rights, and Right to public assembly",
+      "Right to vote, Right to speak publicly, and Security rights"
+    ],
+    "answer": "Mobility rights, Multiculturalism, and Aboriginal Peoples' rights",
+    "note": ""
+  },
+  "58":
+  {
+    "question": "Name two fundamental freedoms protected by the Canadian Charter of Rights and Freedoms.",
+    "options": [
+      "Freedom of conscience and religion, and Freedom of association",
+      "Equality rights, and to care for Canada's heritage",
+      "Basic freedoms, and obeying laws",
+      "Aboriginal peoples' rights, and to volunteer"
+    ],
+    "answer": "Freedom of conscience and religion, and Freedom of association",
+    "note": ""
+  },
+  "59":
+  {
+    "question": "Name two key documents that contain our rights and freedoms.",
+    "options": [
+      "The Canadian Constitution and English common law",
+      "Civil code of France and the Canadian Constitution",
+      "Canadian Charter of Rights and Freedoms and Magna Carta (the Great Charter of Freedoms)",
+      "Laws passed by Parliament and English common law."
+    ],
+    "answer": "Canadian Charter of Rights and Freedoms and Magna Carta (the Great Charter of Freedoms)",
+    "note": ""
+  },
+  "60":
+  {
+    "question": "Name two responsibilities of the federal government.",
+    "options": [
+      "National defence and firefighting",
+      "National defence and foreign policy",
+      "Citizenship and highways",
+      "Recycling and education"
+    ],
+    "answer": "National defence and foreign policy",
+    "note": ""
+  },
+  "61":
+  {
+    "question": "Name two responsibilities of the provincial and territorial government.",
+    "options": [
+      "Citizenship and Foreign Policy",
+      "Health and Education",
+      "Defense and Currency",
+      "Criminal Law and Interprovincial Trade"
+    ],
+    "answer": "Health and Education",
+    "note": ""
+  },
+  "62":
+  {
+    "question": "On what date did Nunavut become a territory?",
+    "options": [
+      "July 1st, 1867",
+      "April 1st, 1999",
+      "June 24th, 1995",
+      "March 31st, 1949"
+    ],
+    "answer": "April 1st, 1999",
+    "note": ""
+  },
+  "63":
+  {
+    "question": "One third of all Canadians live in which province?",
+    "options": [
+      "Quebec",
+      "Ontario",
+      "Northwest Territories",
+      "Manitoba"
+    ],
+    "answer": "Ontario",
+    "note": ""
+  },
+  "64":
+  {
+    "question": "The Canadian Coat of Arms and motto is “A Mari Usque Ad Mare.” This means:",
+    "options": [
+      "From the ocean to the sea",
+      "From sea to sea",
+      "From the sea to the ends of the earth",
+      "From the water to the earth"
+    ],
+    "answer": "From sea to sea",
+    "note": ""
+  },
+  "65":
+  {
+    "question": "What are some examples of taking responsibility for yourself and your family?",
+    "options": [
+      "Buying a house and a TV",
+      "Getting a job, taking care of one's family and working hard in keeping with one's abilities",
+      "Doing laundry and keeping the house clean",
+      "Study hard so you can earn enough money to take a vacation"
+    ],
+    "answer": "Getting a job, taking care of one's family and working hard in keeping with one's abilities",
+    "note": ""
+  },
+  "66":
+  {
+    "question": "What are the Prairie provinces and their capital cities?",
+    "options": [
+      "Alberta (Edmonton) and Saskatchewan (Regina)",
+      "Alberta (Edmonton), Saskatchewan (Regina) and Manitoba (Winnipeg)",
+      "Saskatchewan (Regina) and Manitoba (Winnipeg)",
+      "Saskatchewan (Regina), Manitoba (Winnipeg) and Ontario (Toronto)"
+    ],
+    "answer": "Alberta (Edmonton), Saskatchewan (Regina) and Manitoba (Winnipeg)",
+    "note": ""
+  },
+  "67":
+  {
+    "question": "What are the provinces of Central Canada and their capital cities?",
+    "options": [
+      "Manitoba (Winnipeg) and Ontario (Toronto)",
+      "Quebec (Quebec City) and Prince Edward Island (Charlottetown)",
+      "Ontario (Toronto) and Quebec (Quebec City)",
+      "Saskatchewan (Regina) and Manitoba Winnipeg)"
+    ],
+    "answer": "Ontario (Toronto) and Quebec (Quebec City)",
+    "note": ""
+  },
+  "68":
+  {
+    "question": "What are the provinces of the Atlantic region and their capital cities?",
+    "options": [
+      "Nova Scotia (Halifax), New Brunswick (Fredericton), Prince Edward Island (Charlottetown) and Quebec (Quebec)",
+      "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Prince Edward Island (Charlottetown)",
+      "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Quebec (Quebec)",
+      "Nova Scotia (Halifax), New Brunswick (Fredericton), Quebec (Quebec City)and Ontario (Toronto)"
+    ],
+    "answer": "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Prince Edward Island (Charlottetown)",
+    "note": ""
+  },
+  "69":
+  {
+    "question": "What are the territories of Northern Canada and their capital cities?",
+    "options": [
+      "Alaska (Juneau) and Yukon Territory ( Whitehorse)",
+      "Northwest Territories (Yellowknife) and Alaska (Juneau)",
+      "Northwest Territories (Yellowknife)",
+      "Yukon Territory (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)"
+    ],
+    "answer": "Yukon Territory (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)",
+    "note": ""
+  },
+  "70":
+  {
+    "question": "What are the three levels of government in Canada?",
+    "options": [
+      "Federal, Provincial and Territorial, Municipal (local)",
+      "Federal, Provincial and City",
+      "Federal, Territorial and Provincial",
+      "Federal, State and Local"
+    ],
+    "answer": "Federal, Provincial and Territorial, Municipal (local)",
+    "note": ""
+  },
+  "71":
+  {
+    "question": "What are the three main groups of Aboriginal peoples?",
+    "options": [
+      "First Nations, Métis and Inuit",
+      "Acadians, Métis and Inuit",
+      "United Empire Loyalists, Métis and Inuit",
+      "Inuit, Métis and Acadians"
+    ],
+    "answer": "First Nations, Métis and Inuit",
+    "note": ""
+  },
+  "72":
+  {
+    "question": "What are the three main types of industry in Canada?",
+    "options": [
+      "Natural resources, tourism and service industries",
+      "Tourism, services and manufacturing",
+      "Natural resources, tourism and manufacturing",
+      "Natural resources, manufacturing and services"
+    ],
+    "answer": "Natural resources, manufacturing and services",
+    "note": ""
+  },
+  "73":
+  {
+    "question": "What are the three parts of Parliament?",
+    "options": [
+      "The Sovereign, Governor General and Prime Minister",
+      "The House of Commons, the Legislative Assembly and the Senate",
+      "The King, the Legislative Assembly and the Senate",
+      "The Sovereign, the House of Commons and the Senate"
+    ],
+    "answer": "The Sovereign, the House of Commons and the Senate",
+    "note": ""
+  },
+  "74":
+  {
+    "question": "What are the two official languages of Canada?",
+    "options": [
+      "English and Métis",
+      "Inuktitut and French",
+      "English and French",
+      "English and Inuktitut"
+    ],
+    "answer": "English and French",
+    "note": ""
+  },
+  "75":
+  {
+    "question": "What country is Canada’s largest trading partner?",
+    "options": [
+      "Mexico",
+      "United States of America",
+      "China",
+      "Japan"
+    ],
+    "answer": "United States of America",
+    "note": ""
+  },
+  "76":
+  {
+    "question": "What did the Canadian Pacific Railway symbolize?",
+    "options": [
+      "Easy access to the West Coast",
+      "What can be achieved by working together",
+      "Unity",
+      "Ribbons of steel"
+    ],
+    "answer": "Unity",
+    "note": ""
+  },
+  "77":
+  {
+    "question": "What did the Fathers of Confederation do?",
+    "options": [
+      "What did the Fathers of Confederation do?",
+      "They were explorers who formed an expedition to survey Northern Canada",
+      "They formed a republic state in Canada",
+      "They were a group of politicians that tried to unite Canada to the United States"
+    ],
+    "answer": "What did the Fathers of Confederation do?",
+    "note": ""
+  },
+  "78":
+  {
+    "question": "What do you call a law before it is passed?",
+    "options": [
+      "A New law",
+      "A Proposed law",
+      "A Bill",
+      "A New proposal"
+    ],
+    "answer": "A Bill",
+    "note": ""
+  },
+  "79":
+  {
+    "question": "What do you call the Sovereign’s representative in the provinces?",
+    "options": [
+      "Premier",
+      "Member of the Legislative Assembly",
+      "Lieutenant-Governor",
+      "Senator"
+    ],
+    "answer": "Lieutenant-Governor",
+    "note": ""
+  },
+  "80":
+  {
+    "question": "What do you mark on a federal election ballot?",
+    "options": [
+      "The candidate's name",
+      "The number for the candidate",
+      "An `X`",
+      "The voter's name"
+    ],
+    "answer": "An `X`",
+    "note": ""
+  },
+  "81":
+  {
+    "question": "What does Confederation mean?",
+    "options": [
+      "The United States Confederate soldiers came to Canada",
+      "Joining of communities to become a province",
+      "Joining of suburbs to form a large city",
+      "Joining of provinces to make a new country"
+    ],
+    "answer": "Joining of provinces to make a new country",
+    "note": ""
+  },
+  "82":
+  {
+    "question": "What does it mean to say Canada is a constitutional monarchy?",
+    "options": [
+      "The Sovereign (Queen or King) is the law maker of Canada",
+      "Canada's Head of State is a hereditary Sovereign (Queen or King) who reigns in accordance with the Constitution",
+      "The Sovereign (Queen or King) represents Canadians in Parliament",
+      "The Sovereign (Queen or King) approves bills before becoming law"
+    ],
+    "answer": "Canada's Head of State is a hereditary Sovereign (Queen or King) who reigns in accordance with the Constitution",
+    "note": ""
+  },
+  "83":
+  {
+    "question": "What does the “right to a secret ballot” mean?",
+    "options": [
+      "No one should tell you where to vote",
+      "A secret vote used by politicians when they are voting on sensitive topics",
+      "No one can watch your vote and no one should look at how you voted",
+      "Your right to vote in secret on who to appoint to the Senate"
+    ],
+    "answer": "No one can watch your vote and no one should look at how you voted",
+    "note": ""
+  }
+}
