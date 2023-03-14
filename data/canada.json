@@ -2853,5 +2853,676 @@
     ],
     "answer": "Premier Sandy Silver",
     "note": ""
+  },
+  "260": {
+    "question": "Name two fundamental freedoms under Canadian law.",
+    "options": [
+      "Equality rights and care for the environment",
+      "Aboriginal rights and conserving water",
+      "Freedom of speech and freedom of religion",
+      "The Magna Carta and English common law"
+    ],
+    "answer": "Freedom of speech and freedom of religion",
+    "note": ""
+  },
+  "261": {
+    "question": "List four additional rights Canadian citizens have under the Canadian Charter of Rights and Freedoms.",
+    "options": [
+      "The right to be educated in either official language, the right to apply for a Canadian passport, the right to vote, the right to enter and leave Canada freely",
+      "The right of be educated in either official language, the right to apply for a Canadian passport, the right to drive, the right to enter and leave Canada freely",
+      "The right to enter and leave Canada and the United States freely, the right to apply for a Canadian passport, the right to be educated, the right to vote",
+      "The right to live and work anywhere in Canada, the right to vote, the right to be educated in either official language, the right to drive"
+    ],
+    "answer": "The right to be educated in either official language, the right to apply for a Canadian passport, the right to vote, the right to enter and leave Canada freely",
+    "note": ""
+  },
+  "262": {
+    "question": "Name three responsibilities of Canadian citizenship.",
+    "options": [
+      "Serving on a jury, keeping your yard tidy and helping others in the community",
+      "Obeying the law, voting in elections and working for the government",
+      "Obeying the law, voting in elections and taking responsibility for oneself and family",
+      "Voting in elections, taking responsibility for others and protecting the environment"
+    ],
+    "answer": "Obeying the law, voting in elections and taking responsibility for oneself and family",
+    "note": ""
+  },
+  "263": {
+    "question": "Give an example of how you can help in the community.",
+    "options": [
+      "Wear red on Canada Day",
+      "Drive to work",
+      "Volunteer at a food bank",
+      "Wash your car"
+    ],
+    "answer": "Volunteer at a food bank",
+    "note": ""
+  },
+  "264": {
+    "question": "What is meant by the \"equality of women and men\"?",
+    "options": [
+      "Men and women are treated equally under the law.",
+      "Men and women are the same",
+      "Men and women are similar",
+      "Men and women need to obey the law"
+    ],
+    "answer": "Men and women are treated equally under the law.",
+    "note": ""
+  },
+  "265": {
+    "question": "Who has the right to vote in federal elections?",
+    "options": [
+      "Canadian citizens who are at least 19 years of age and on the voters' list.",
+      "Canadian citizens who are at least 18 years of age and on the voters' list.",
+      "Canadian citizens and landed immigrants who are at least 18 years of age",
+      "Canadian citizens and landed immigrants who are at least 19 years of age"
+    ],
+    "answer": "Canadian citizens who are at least 18 years of age and on the voters' list.",
+    "note": ""
+  },
+  "266": {
+    "question": "List three ways you can protect the environment.",
+    "options": [
+      "Recycle, conserve energy and water and join a car pool",
+      "Recycle, conserve energy and drive your car to work",
+      "Recycle, conserve energy and mow your lawn",
+      "Recycle, conserve energy and buy bottled water"
+    ],
+    "answer": "Recycle, conserve energy and water and join a car pool",
+    "note": ""
+  },
+  "267": {
+    "question": "What does \"due process\" mean?",
+    "options": [
+      "You must prove your innocence in court",
+      "The government must respect all the legal rights a person is entitled to under the law",
+      "The government must respect most of the legal rights a person is entitled to under the law",
+      "The law applies to everyone in Canada, except judges and politicians"
+    ],
+    "answer": "The government must respect all the legal rights a person is entitled to under the law",
+    "note": ""
+  },
+  "268": {
+    "question": "What do you promise when you take the oath of citizenship?",
+    "options": [
+      "To pledge your loyalty to the Sovereign, His Majesty King Charles III",
+      "To pledge your allegiance to the flag and fulfill the duties of a Canadian",
+      "To pledge your allegiance to the Canadian Constitution",
+      "To pledge your loyalty to Canada from sea to sea"
+    ],
+    "answer": "To pledge your loyalty to the Sovereign, His Majesty King Charles III",
+    "note": ""
+  },
+  "269": {
+    "question": "Name the three levels of government in Canada",
+    "options": [
+      "Federal, state and municipal",
+      "Federal, provincial or territorial and state",
+      "Federal, provincial or territorial and municipal",
+      "Federal, provincial or territorial and local"
+    ],
+    "answer": "Federal, provincial or territorial and municipal",
+    "note": ""
+  },
+  "270": {
+    "question": "Name two responsibilities of the federal government?",
+    "options": [
+      "Snow removal and national defence",
+      "Foreign policy and firefighting",
+      "Emergency services and citizenship",
+      "Foreign policy and national defence"
+    ],
+    "answer": "Foreign policy and national defence",
+    "note": ""
+  },
+  "271": {
+    "question": "Who is Canada's Head of State?",
+    "options": [
+      "The Prime Minister, Justin Trudeau",
+      "The Governor General, Mary Simon",
+      "The consort of the Queen, Prince Phillip",
+      "The Sovereign, His Majesty King Charles III"
+    ],
+    "answer": "The Sovereign, His Majesty King Charles III",
+    "note": ""
+  },
+  "272": {
+    "question": "What are the three parts of Parliament?",
+    "options": [
+      "The Sovereign, the House of Commons and the Senate",
+      "The Sovereign, the Prime Minister and the Premiers",
+      "The Sovereign, the Governor General and the Prime Minister",
+      "The Prime Minister, the House of Commons and the Senate"
+    ],
+    "answer": "The Sovereign, the House of Commons and the Senate",
+    "note": ""
+  },
+  "273": {
+    "question": "Who represents the Sovereign in Canada?",
+    "options": [
+      "The Governor General, Mary Simon",
+      "The Mayor of Toronto, John Tory",
+      "The Prime Minister, Justin Trudeau",
+      "The Premier, Doug Ford"
+    ],
+    "answer": "The Governor General, Mary Simon",
+    "note": ""
+  },
+  "274": {
+    "question": "Who do Canadians vote for in a federal election?",
+    "options": [
+      "A candidate they want to represent them in Parliament",
+      "A candidate they want to be the Premier",
+      "A candidate they want to be represent them in the Senate",
+      "A candidate they want to be the Head of State"
+    ],
+    "answer": "A candidate they want to represent them in Parliament",
+    "note": ""
+  },
+  "275": {
+    "question": "How often does an election have to be held according to the Constitution?",
+    "options": [
+      "Within three years of the last election",
+      "Every four years following the most recent general election",
+      "Within five years of the last election",
+      "Whenever the Sovereign decides"
+    ],
+    "answer": "Within five years of the last election",
+    "note": ""
+  },
+  "276": {
+    "question": "How many electoral districts are there in Canada?",
+    "options": [
+      "803",
+      "338",
+      "300",
+      "305"
+    ],
+    "answer": "338",
+    "note": ""
+  },
+  "277": {
+    "question": "What is a voter information card?",
+    "options": [
+      "The written proof that you have voted",
+      "A list of all the candidates running in a federal election",
+      "A form that tells you your name is on the voters' list and where you vote.",
+      "A form that tells you who to vote for"
+    ],
+    "answer": "A form that tells you your name is on the voters' list and where you vote.",
+    "note": ""
+  },
+  "278": {
+    "question": "What should you do if you don't receive a voter's card?",
+    "options": [
+      "Call the police",
+      "Contact Elections Canada or visit their website to ensure your name is on the voter's list",
+      "Call your Member of Parliament",
+      "Assume you cannot vote"
+    ],
+    "answer": "Contact Elections Canada or visit their website to ensure your name is on the voter's list",
+    "note": ""
+  },
+  "279": {
+    "question": "What is meant by a \"secret ballot\"?",
+    "options": [
+      "An unknown voting location",
+      "A private candidates' meeting",
+      "No one can accompany you to a polling station",
+      "No one can watch you vote and no one should look at how you voted"
+    ],
+    "answer": "No one can watch you vote and no one should look at how you voted",
+    "note": ""
+  },
+  "280": {
+    "question": "What is written on a federal election ballot?",
+    "options": [
+      "The list of candidates for Prime Minister in alphabetical order  from A to Z",
+      "The names of the candidates in your electoral district in alphabetical order from A to Z.",
+      "The election results",
+      "Your name and address"
+    ],
+    "answer": "The names of the candidates in your electoral district in alphabetical order from A to Z.",
+    "note": ""
+  },
+  "281": {
+    "question": "What do you mark on a federal election ballot?",
+    "options": [
+      "Write an X in the circle beside the name of your chosen candidate.",
+      "Write your name beside your chosen candidate",
+      "Write the name of your chosen candidate",
+      "Draw a line under the name of your chosen candidate"
+    ],
+    "answer": "Write an X in the circle beside the name of your chosen candidate.",
+    "note": ""
+  },
+  "282": {
+    "question": "How is a government formed after a federal election?",
+    "options": [
+      "The party with the most elected representatives becomes the party in power. The leader of the party is chosen by the King.",
+      "The Governor General chooses a party and a Prime Minister to run the government",
+      "Each province elects one representative, one of whom is chosen by the King to be Prime Minister.",
+      "The party with the most elected representatives becomes the party in power. The leader of the party becomes the Prime Minister."
+    ],
+    "answer": "The party with the most elected representatives becomes the party in power. The leader of the party becomes the Prime Minister.",
+    "note": ""
+  },
+  "283": {
+    "question": "Which party becomes His Majesty's Loyal Opposition?",
+    "options": [
+      "The party with the second most elected representatives.",
+      "The party the King selects",
+      "The party with the fewest number of elected representatives",
+      "The party with the third most elected representatives"
+    ],
+    "answer": "The party with the second most elected representatives.",
+    "note": ""
+  },
+  "284": {
+    "question": "Name the federal political parties represented in the House of Commons and their leaders",
+    "options": [
+      "Conservative Party of Canada (Pierre Poilievre), New Democratic Party (Jagmeet Singh), Liberal Party of Canada (Justin Trudeau), Bloc Qu\u00e9b\u00e9cois (Yves-Fran\u00e7ois Blanchet), Green Party (Elizabeth May and Mike Morrice)",
+      "Conservative Party of Canada (Pierre Poilievre), Liberal Party of Canada (Justin Trudeau), New Democratic Party (Jagmeet Singh), Bloc Qu\u00e9b\u00e9cois (Yves-Fran\u00e7ois Blanchet)",
+      "Conservative Party of Canada (Pierre Poilievre), Liberal Party of Canada (Justin Trudeau), Green Party (Elizabeth May and Mike Morrice),  Bloc Qu\u00e9b\u00e9cois (Yves-Fran\u00e7ois Blanchet)",
+      "Conservative Party of Canada (Pierre Poilievre), Liberal Party of Canada (Justin Trudeau), New Democratic Party (Jagmeet Singh), Green Party (Elizabeth May and Mike Morrice)"
+    ],
+    "answer": "Conservative Party of Canada (Pierre Poilievre), New Democratic Party (Jagmeet Singh), Liberal Party of Canada (Justin Trudeau), Bloc Qu\u00e9b\u00e9cois (Yves-Fran\u00e7ois Blanchet), Green Party (Elizabeth May and Mike Morrice)",
+    "note": ""
+  },
+  "285": {
+    "question": "Which federal political party is in power?",
+    "options": [
+      "Liberal Party of Canada",
+      "Green Party",
+      "Conservative Party of Canada",
+      "New Democratic Party"
+    ],
+    "answer": "Liberal Party of Canada",
+    "note": ""
+  },
+  "286": {
+    "question": "Who is Canada's Prime Minister?",
+    "options": [
+      "Dalton McGuinty",
+      "Stephen Lewis",
+      "Micha\u00eblle Jean",
+      "Justin Trudeau"
+    ],
+    "answer": "Justin Trudeau",
+    "note": ""
+  },
+  "287": {
+    "question": "Which federal political party is His Majesty's Loyal Opposition?",
+    "options": [
+      "Liberal Party of Canada",
+      "New Democratic Party",
+      "Green Party",
+      "Conservative Party"
+    ],
+    "answer": "Conservative Party",
+    "note": ""
+  },
+  "288": {
+    "question": "What do you call a law before it is passed?",
+    "options": [
+      "A bill",
+      "A legal document",
+      "A proposal",
+      "A debate"
+    ],
+    "answer": "A bill",
+    "note": ""
+  },
+  "289": {
+    "question": "Name two responsibilities of the provincial government.",
+    "options": [
+      "Communication and education",
+      "Health and recycling",
+      "Education and health",
+      "Education and defence"
+    ],
+    "answer": "Education and health",
+    "note": ""
+  },
+  "290": {
+    "question": "Which political party is in power in Ontario?",
+    "options": [
+      "The Progressive Conservative Party",
+      "The New Democratic Party",
+      "The Liberal Party",
+      "The Green Party"
+    ],
+    "answer": "The Progressive Conservative Party",
+    "note": ""
+  },
+  "291": {
+    "question": "Who is the Premier of Ontario?",
+    "options": [
+      "Tim Hudak",
+      "Doug Ford",
+      "Andrea Horwath",
+      "Steven Del Duca"
+    ],
+    "answer": "Doug Ford",
+    "note": ""
+  },
+  "292": {
+    "question": "Who is the Lieutenant Governor of Ontario?",
+    "options": [
+      "Elizabeth Dowdeswell",
+      "James Bartleman",
+      "Micha\u00eblle Jean",
+      "David Miller"
+    ],
+    "answer": "Elizabeth Dowdeswell",
+    "note": ""
+  },
+  "293": {
+    "question": "Who is the mayor of Toronto?",
+    "options": [
+      "Rob Ford",
+      "John Tory",
+      "David Onley",
+      "David Miller"
+    ],
+    "answer": "John Tory",
+    "note": ""
+  },
+  "294": {
+    "question": "Which level of government is responsible for by-laws?",
+    "options": [
+      "Federal",
+      "Municipal",
+      "State",
+      "Territorial"
+    ],
+    "answer": "Municipal",
+    "note": ""
+  },
+  "295": {
+    "question": "Who are the aboriginal peoples of Canada?",
+    "options": [
+      "United Empire Loyalists",
+      "M\u00e9tis",
+      "Immigrants from Australia",
+      "The first inhabitants of Canada"
+    ],
+    "answer": "The first inhabitants of Canada",
+    "note": ""
+  },
+  "296": {
+    "question": "What are the three main groups of Aboriginal peoples?",
+    "options": [
+      "First Nations, Inuit, M\u00e9tis",
+      "Acadians, Inuit, M\u00e9tis",
+      "First Nations, French and Inuit",
+      "First Nations, Acadians and Inuit"
+    ],
+    "answer": "First Nations, Inuit, M\u00e9tis",
+    "note": ""
+  },
+  "297": {
+    "question": "Who are the M\u00e9tis?",
+    "options": [
+      "The distinct Aboriginal people of Atlantic Canada.",
+      "A people of mixed Inuit/First Nations ancestry most of whom live on the Prairies.",
+      "First Nations people speaking the Michif dialect.",
+      "A distinct people of mixed Aboriginal and European ancestry."
+    ],
+    "answer": "A distinct people of mixed Aboriginal and European ancestry.",
+    "note": ""
+  },
+  "298": {
+    "question": "Who are the Acadians?",
+    "options": [
+      "First Nations people of the Arctic",
+      "Descendants of French colonists who settled in what are now the Maritime provinces beginning in 1604",
+      "Descendants of United Empire Loyalists who settled in Nova Scotia in 1604",
+      "English members of la Francophonie"
+    ],
+    "answer": "Descendants of French colonists who settled in what are now the Maritime provinces beginning in 1604",
+    "note": ""
+  },
+  "299": {
+    "question": "Who are the Qu\u00e9b\u00e9cois?",
+    "options": [
+      "French-speaking Catholics",
+      "Descendants of French colonists",
+      "European settlers",
+      "People of Quebec"
+    ],
+    "answer": "People of Quebec",
+    "note": ""
+  },
+  "300": {
+    "question": "Who was the first Prime Minister of Canada?",
+    "options": [
+      "Sir John A. Macdonald",
+      "Sir Wilfrid Laurier",
+      "Louis La Fontaine",
+      "George Washington"
+    ],
+    "answer": "Sir John A. Macdonald",
+    "note": ""
+  },
+  "301": {
+    "question": "Which four provinces first formed Confederation?",
+    "options": [
+      "Ontario, Quebec, Nova Scotia and New Brunswick",
+      "Ontario, Quebec, New Brunswick and Prince Edward Island",
+      "Ontario, Quebec, Newfoundland and Labrador and Nova Scotia",
+      "Quebec, Nova Scotia, New Brunswick and Prince Edward Island"
+    ],
+    "answer": "Ontario, Quebec, Nova Scotia and New Brunswick",
+    "note": ""
+  },
+  "302": {
+    "question": "When is Canada Day and what do we celebrate?",
+    "options": [
+      "July 4th when we celebrate the anniversary of Confederation",
+      "June 24th when we celebrate multiculturalism",
+      "July 1st when celebrate the anniversary of Confederation",
+      "May 21st when we celebrate the Queen's birthday"
+    ],
+    "answer": "July 1st when celebrate the anniversary of Confederation",
+    "note": ""
+  },
+  "303": {
+    "question": "What are the first two lines of the National Anthem, O Canada?",
+    "options": [
+      "O Canada! Our home and native land!\nWith glowing hearts we see thee rise",
+      "O Canada! Our home and native land!\nTrue patriot love in all of us command",
+      "O Canada! Our home and native land!\nGod keep our land glorious and free",
+      "God keep our land glorious and free\nO Canada, we stand on guard for thee."
+    ],
+    "answer": "O Canada! Our home and native land!\nTrue patriot love in all of us command",
+    "note": ""
+  },
+  "304": {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Ottawa",
+      "Montreal",
+      "Vancouver"
+    ],
+    "answer": "Ottawa",
+    "note": ""
+  },
+  "305": {
+    "question": "What is the population of Canada?",
+    "options": [
+      "About 20 million",
+      "About 3 million",
+      "About 25 million",
+      "About 36 million"
+    ],
+    "answer": "About 36 million",
+    "note": ""
+  },
+  "306": {
+    "question": "Name the provinces in the Atlantic Region",
+    "options": [
+      "Newfoundland and Labrador, Nova Scotia, New Brunswick, Cape Breton Island",
+      "Newfoundland and Labrador, Quebec, New Brunswick, Prince Edward Island",
+      "Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoulin Island",
+      "Newfoundland and Labrador, Nova Scotia, New Brunswick, Prince Edward Island"
+    ],
+    "answer": "Newfoundland and Labrador, Nova Scotia, New Brunswick, Prince Edward Island",
+    "note": ""
+  },
+  "307": {
+    "question": "Which three oceans line Canada's frontiers?",
+    "options": [
+      "Atlantic, Pacific, Bering",
+      "Pacific, Atlantic, Arctic",
+      "Pacific, Atlantic, Antarctic",
+      "Atlantic, Hudson's Bay, Pacific"
+    ],
+    "answer": "Pacific, Atlantic, Arctic",
+    "note": ""
+  },
+  "308": {
+    "question": "Name the Prairie Provinces.",
+    "options": [
+      "Manitoba, Saskatchewan and British Columbia",
+      "Manitoba, Saskatchewan and Alberta",
+      "Manitoba, Saskatoon and Alberta",
+      "Ontario Manitoba and Saskatchewan"
+    ],
+    "answer": "Manitoba, Saskatchewan and Alberta",
+    "note": ""
+  },
+  "309": {
+    "question": "When did Nunavut become a territory?",
+    "options": [
+      "1989",
+      "1999",
+      "2001",
+      "2000"
+    ],
+    "answer": "1999",
+    "note": ""
+  },
+  "310": {
+    "question": "What is the capital of Ontario?",
+    "options": [
+      "Toronto",
+      "Hamilton",
+      "London",
+      "Mississauga"
+    ],
+    "answer": "Toronto",
+    "note": ""
+  },
+  "311": {
+    "question": "Name the five Great lakes.",
+    "options": [
+      "Erie, Huron, Michigan, Ontario and Simcoe",
+      "Erie, Huron, Michigan, Ontario and Superior",
+      "Erie, Hudson's Bay, Michigan, Ontario and Superior",
+      "Erie, Huron, Niagara, Ontario and Superior"
+    ],
+    "answer": "Erie, Huron, Michigan, Ontario and Superior",
+    "note": ""
+  },
+  "312": {
+    "question": "What are Canada's two official languages?",
+    "options": [
+      "French and English",
+      "English and Flemish",
+      "English and Chinese",
+      "French and Canadian"
+    ],
+    "answer": "French and English",
+    "note": ""
+  },
+  "313": {
+    "question": "In the 1960s Quebec experienced rapid change. What is this period called?",
+    "options": [
+      "The Riel Rebellion",
+      "The Quiet Revolution",
+      "The People's Revolution",
+      "The French Rebellion"
+    ],
+    "answer": "The Quiet Revolution",
+    "note": ""
+  },
+  "314": {
+    "question": "What is the Underground Railroad?",
+    "options": [
+      "The first railway to cross Canada",
+      "The CPR's secret railway line",
+      "The TTC subway system",
+      "A network used by slaves who escaped the United States into Canada"
+    ],
+    "answer": "A network used by slaves who escaped the United States into Canada",
+    "note": ""
+  },
+  "315": {
+    "question": "During the War of 1812 the Americans burned down the Parliament Buildings in York (now Toronto). What did the British and Canadians do in return?",
+    "options": [
+      "They attacked American merchant ships",
+      "They expanded their defence system, including Fort York",
+      "They burned down the White House in Washington D.C.",
+      "They captured Niagara Falls"
+    ],
+    "answer": "They burned down the White House in Washington D.C.",
+    "note": ""
+  },
+  "316": {
+    "question": "What was the Head Tax?",
+    "options": [
+      "A discriminatory race-based entry fee to Canada",
+      "A tax based on the number of children per family",
+      "A fee charged for riding the railroad",
+      "A discriminatory kind of property tax"
+    ],
+    "answer": "A discriminatory race-based entry fee to Canada",
+    "note": ""
+  },
+  "317": {
+    "question": "Who was Louis Riel?",
+    "options": [
+      "A M\u00e9tis leader and the Father of Manitoba",
+      "A Mounted Policeman and soldier of the Queen",
+      "A winner of the Victoria Cross",
+      "The Prime Minister of Canada during World War I"
+    ],
+    "answer": "A M\u00e9tis leader and the Father of Manitoba",
+    "note": ""
+  },
+  "318": {
+    "question": "What is the meaning of the Remembrance Day poppy?",
+    "options": [
+      "Canadians wear it on the first day of spring",
+      "Wearing it commemorates Confederation",
+      "Wearing it commemorates the sacrifice of Canadian soldiers",
+      "Wearing it commemorates Canada Day"
+    ],
+    "answer": "Wearing it commemorates the sacrifice of Canadian soldiers",
+    "note": ""
+  },
+  "319": {
+    "question": "What is the significance of the discovery of insulin by Frederick Banting and Charles Best?",
+    "options": [
+      "The discovery has saved 16 million people worldwide",
+      "It meant more money for Canada's health care system",
+      "It meant more Canadians have become doctors",
+      "It increased the number of hospitals and clinics in Canada"
+    ],
+    "answer": "The discovery has saved 16 million people worldwide",
+    "note": ""
+  },
+  "320": {
+    "question": "Why is the battle of Vimy Ridge important to Canadians?",
+    "options": [
+      "It was the last battle of the First World War",
+      "It was an important victory in the Boer War",
+      "It has come to symbolise Canada's coming of age as a nation",
+      "Out of it was formed the Canadian Corps"
+    ],
+    "answer": "It has come to symbolise Canada's coming of age as a nation",
+    "note": ""
   }
 }
