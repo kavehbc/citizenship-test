@@ -66,7 +66,7 @@ def main():
             question_key = f"q_{counter}_{question}"
             question_text = f"Q{counter}. {db[question]['question']}"
             question_options = ['-']
-            question_options.extend(db[question]["options"])
+            question_options.extend(db[question]["options"].values())
             # random.shuffle(question_options)
             user_answers[question] = st.radio(question_text, options=question_options, key=question_key)
         submit_button = st.form_submit_button(label='Submit and Check')
@@ -79,12 +79,12 @@ def main():
 
         st.subheader("Wrong Answers")
         for answer in user_answers:
-            if user_answers[answer] == db[answer]["answer"]:
+            if user_answers[answer] == db[answer]["options"][db[answer]["answer"]]:
                 correct_answers += 1
             else:
                 with st.expander(db[answer]["question"]):
-                    st.write(f"You Chose: **{user_answers[answer]}**")
-                    st.write(f"Correct Answer: **{db[answer]['answer']}**")
+                    st.write(f":red[You Chose]: **{user_answers[answer]}**")
+                    st.write(f":green[Correct Answer]: **{db[answer]['options'][db[answer]['answer']]}**")
                     st.write(db[answer]["note"])
 
         st_results.info(f"**Correct Answers:** {correct_answers} / {len(selected_questions)}")
