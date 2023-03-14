@@ -1,0 +1,242 @@
+{
+  "1":
+  {
+    "question": "What is the highest court in the United States?",
+    "options": [
+      "the Court of Appeals",
+      "the Federal Court",
+      "the Supreme Court",
+      "the District Court"
+    ],
+    "answer": "the Supreme Court",
+    "note": "The Supreme Court is the highest court of the United States. The Supreme Court decides if a law goes against the Constitution. All other courts must follow the decisions of the Supreme Court. One example is the case of Brown v. Board of Education of Topeka in 1954. The case was about racial segregation in schools. Segregation was a system that separated people based on race and ethnic group. The Supreme Court decided that segregation in schools was against the Constitution. All states had to follow the Supreme Court decision. Segregation in school became illegal in the United States."
+  },
+  "2":
+  {
+    "question": "Name one branch or part of the government.",
+    "options": [
+      "parliament",
+      "state government",
+      "Congress",
+      "United Nations"
+    ],
+    "answer": "Congress",
+    "note": "There are three branches of the federal government: Congress, the president, and the courts. Each branch has a special role. The Congress is called the legislative branch. Congress writes, debates, and makes laws. The president leads the executive branch. The president enforces the laws. The president also represents the United States to other countries. The courts are called the judicial branch. The courts explain laws. They decide if laws follow the Constitution. They also decide if people have broken laws."
+  },
+  "3":
+  {
+    "question": "Why did the colonists fight the British?",
+    "options": [
+      "because they didn't have self-government",
+      "because the British army stayed in their houses",
+      "all of these answers",
+      "because of high taxes"
+    ],
+    "answer": "all of these answers",
+    "note": "The colonists fought the British because they wanted to be free from Britain. They fought the British because of unfair taxes. They fought because they didn’t have self-government. When the American colonies formed, they were part of Britain. Britain increased taxes for colonists on things they bought and used every day, like tea. Many colonists were angry because no one represented their needs in the British government. Colonists believed they did not have self-government. The British forced colonists to allow British soldiers to sleep and eat in their homes. The colonists joined together to fight Britain and gain independence."
+  },
+  "4":
+  {
+    "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+    "options": [
+      "We the Colonists",
+      "Congress shall make",
+      "We the British",
+      "We the People"
+    ],
+    "answer": "We the People",
+    "note": "The first three words of the Constitution are \"We the People.\" The document says that the people of the United States choose to create the government. \"We the People\" also explains that people elect representatives to make laws. This is a form of self-government."
+  },
+  "5":
+  {
+    "question": "Who was President during the Great Depression and World War II?",
+    "options": [
+      "Calvin Coolidge",
+      "Harry Truman",
+      "Herbert Hoover",
+      "Franklin Roosevelt"
+    ],
+    "answer": "Franklin Roosevelt",
+    "note": "Franklin Roosevelt was president of the United States during the Great Depression and World War II. Franklin Roosevelt became president in 1933. The United States economy was weak. Banks failed. Many people did not have jobs. Franklin Roosevelt tried to fix the economy. He made rules for banks and the stock market. He started programs to create jobs and help workers across the country. The United States joined World War II in 1941. Americans joined Britain and the Soviet Union to fight against Germany, Italy, and Japan. Franklin Roosevelt was the president until he died in 1945. Roosevelt led America through the challenges of the Great Depression and World War II."
+  },
+  "6":
+  {
+    "question": "What is one right or freedom from the First Amendment?",
+    "options": [
+      "to vote",
+      "speech",
+      "trial by jury",
+      "to bear arms"
+    ],
+    "answer": "speech",
+    "note": "The First Amendment protects the right of speech, assembly, and press. It protects the right to petition the government and freedom of religion. Democracy works only if people can talk to each other and share their opinions. The First Amendment of the U.S. Constitution protects these rights."
+  },
+  "7":
+  {
+    "question": "When do we celebrate Independence Day?",
+    "options": [
+      "June 30",
+      "January 1",
+      "March 4",
+      "July 4"
+    ],
+    "answer": "July 4",
+    "note": "We celebrate Independence Day on July 4. Representatives from the colonies signed the Declaration of Independence on July 4, 1776. This is the day the United States declared independence from Great Britain. On July 4, Americans celebrate in many different ways. We have parades, picnics, and watch fireworks. We celebrate Independence Day every year on July 4."
+  },
+  "8":
+  {
+    "question": "What stops one branch of government from becoming too powerful?",
+    "options": [
+      "freedom of speech",
+      "checks and balances",
+      "the people",
+      "the President"
+    ],
+    "answer": "checks and balances",
+    "note": "The system of checks and balances stops one branch of the federal government from becoming too powerful. The United States government is divided into three separate branches. They are the president, Congress, and the courts. Here is an example of how this works. Congress makes laws. But the president can veto a law. That means the president can refuse to sign it. The law is then sent back to Congress. This is one way the president limits, or checks, the power of Congress."
+  },
+  "9":
+  {
+    "question": "We elect a U.S. Senator for how many years?",
+    "options": [
+      "two (2)",
+      "ten (10)",
+      "four (4)",
+      "six (6)"
+    ],
+    "answer": "six (6)",
+    "note": "We elect U.S. senators for six years. Senators can run for as many terms as they want. Their job is to represent all the people of their state in the Senate."
+  },
+  "10":
+  {
+    "question": "When was the Constitution written?",
+    "options": [
+      "1776",
+      "1790",
+      "1789",
+      "1787"
+    ],
+    "answer": "1787",
+    "note": "The Constitution was written in 1787. The American army won the War of Independence in 1783. For several years, the United States was governed by a congress of representatives from the states. But in 1787, delegates for the states met in Philadelphia to create a stronger federal government. They wrote the Constitution that gave the framework for the government we have today. The Constitution was written in 1787."
+  },
+  "11":
+  {
+    "question": "Name one war fought by the United States in the 1900s.",
+    "options": [
+      "War of 1812",
+      "World War 1",
+      "Civil War",
+      "Revolutionary War"
+    ],
+    "answer": "World War 1",
+    "note": "The United States fought five wars in the 1900s: World War I, World War II, the Korean War, the Vietnam War, and the Gulf War. In 1917, 2 million American soldiers went to France to help end World War I. The United States joined France, Britain, and Russia in a war against Germany and Austria-Hungary. The war ended in 1918."
+  },
+  "12":
+  {
+    "question": "Who is the Commander in Chief of the military?",
+    "options": [
+      "the Attorney General",
+      "the President",
+      "the Vice President",
+      "the Secretary of Defense"
+    ],
+    "answer": "the President",
+    "note": "The president is the commander in chief of the military. The president is a civilian, not a military official. The writers of the Constitution wanted the commander in chief to be a civilian who is elected by the people."
+  },
+  "13":
+  {
+    "question": "What is the “rule of law”?",
+    "options": [
+      "All laws must be the same in every state.",
+      "Government does not have to follow the law.",
+      "Everyone but the President must follow the law.",
+      "Everyone must follow the law"
+    ],
+    "answer": "Everyone must follow the law",
+    "note": "In the United States, everyone must follow the law. All people and groups must follow the law. Government officials must follow the law. Everyone is equal under the government. This way, the government can protect everyone's rights. The rule of law means that everyone must follow the law."
+  },
+  "14":
+  {
+    "question": "Who is the Chief Justice of the United States now?",
+    "options": [
+      "Barack Obama",
+      "Joe Biden",
+      "John G. Roberts, Jr.",
+      "Anthony Kennedy"
+    ],
+    "answer": "John G. Roberts, Jr.",
+    "note": "The Chief Justice of the United States is the leader of the judicial branch. This person is one of nine justices of the Supreme Court."
+  },
+  "15":
+  {
+    "question": "If the President can no longer serve, who becomes President?",
+    "options": [
+      "the President Pro Tempore",
+      "the Vice President",
+      "the Speaker of the House",
+      "the Secretary of State"
+    ],
+    "answer": "the Vice President",
+    "note": "If the president can no longer serve, the vice president becomes the president. This has occurred nine times in American history. For example, on November 22, 1963, President John F. Kennedy was shot in Dallas, Texas. Ninety-nine minutes after President Kennedy's death, Vice President Lyndon Johnson was sworn in as president."
+  },
+  "16":
+  {
+    "question": "Why do some states have more Representatives than other states?",
+    "options": [
+      "because of the state's location",
+      "because of the geographical size of the state",
+      "because the state's Representatives have seniority in the House of Representatives",
+      "because of the state's population"
+    ],
+    "answer": "because of the state's population",
+    "note": "Some states have more representatives than other states because they have more people. We know how many people live in each state because of the census. Every ten years, the United States government counts the people of the United States in the census. The census results decide how many representatives come from each state. The state is divided into districts. Each district elects one representative. If the number of people in a state changes, the number of representatives might change."
+  },
+  "17":
+  {
+    "question": "How many amendments does the Constitution have?",
+    "options": [
+      "ten (10)",
+      "twenty-one (21)",
+      "twenty-three (23)",
+      "twenty-seven (27)"
+    ],
+    "answer": "twenty-seven (27)",
+    "note": "The Constitution has 27 amendments. Amendments are changes to the Constitution. Congress added the first ten amendments in 1791. They are called the Bill of Rights. Since then, the government added more amendments. The Twenty-seventh Amendment was added in 1992."
+  },
+  "18":
+  {
+    "question": "What is the political party of the President now?",
+    "options": [
+      "Green Party",
+      "Democratic Party",
+      "Republican Party",
+      "Independent Party"
+    ],
+    "answer": "Democratic Party",
+    "note": "Today, there are two major political parties, the Democrats and the Republicans. The political party of the president might change in each election."
+  },
+  "19":
+  {
+    "question": "What is one thing Benjamin Franklin is famous for?",
+    "options": [
+      "third president of the United States",
+      "youngest member of the Constitutional Convention",
+      "U.S. diplomat",
+      "inventor of the airplane"
+    ],
+    "answer": "U.S. diplomat",
+    "note": "Benjamin Franklin was a famous American. He lived from 1706 to 1790. Benjamin Franklin was an inventor. He invented many things that we use today. He invented bifocal eyeglasses. He invented the Franklin stove. Franklin was the writer of Poor Richard's Almanac. It was a book with information about the weather and other topics. Franklin became the first postmaster general of the United States in 1775. He created the postal, or mail, system in the United States. Also, he started the first free libraries. Later, he was a U.S. diplomat. He was the oldest member at the Constitutional Convention."
+  },
+  "20":
+  {
+    "question": "Why does the flag have 50 stars?",
+    "options": [
+      "because there were 50 original colonies",
+      "because there were 50 people who originally came to the United States",
+      "because there is one star for each state",
+      "because there is one star for each president"
+    ],
+    "answer": "because there is one star for each state",
+    "note": "The United States flag has 50 stars because there is one star for each state. After independence from Great Britain, the United States had 13 states. Then, the United States grew. Many immigrants came from around the world. The country grew bigger. The borders expanded. New states formed. A star was added to the flag for each new state. Today we have 50 states, so the flag has 50 stars."
+  }
+}

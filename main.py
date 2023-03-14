@@ -2,7 +2,8 @@ import streamlit as st
 import random
 import json
 
-lst_countries = {"canada": "Canada"}
+lst_countries = {"canada": "Canada",
+                 "usa": "United States of America"}
 
 
 def get_random_questions_ids(db, questions_to_pick):
@@ -45,18 +46,16 @@ def main():
             del st.session_state["questions"]
 
     if "questions" in st.session_state:
-        if "questions_to_pick" in st.session_state:
-            if st.session_state["questions_to_pick"] == questions_to_pick:
-                selected_questions = st.session_state["questions"]
-            else:
-                selected_questions = get_random_questions_ids(db, questions_to_pick)
-        else:
+        if st.session_state["questions_to_pick"] != questions_to_pick or st.session_state["country"] != country:
             selected_questions = get_random_questions_ids(db, questions_to_pick)
+        else:
+            selected_questions = st.session_state["questions"]
     else:
         selected_questions = get_random_questions_ids(db, questions_to_pick)
 
     st.session_state["questions"] = selected_questions
     st.session_state["questions_to_pick"] = questions_to_pick
+    st.session_state["country"] = country
 
     # presenting questions
     user_answers = {}
@@ -100,7 +99,11 @@ if __name__ == '__main__':
         menu_items={
             'Get Help': 'https://github.com/kavehbc/citizenship-test',
             'Report a bug': "https://github.com/kavehbc/citizenship-test",
-            'About': "# Citizenship Test"
+            'About': """
+                # Citizenship Test
+                
+                Developed by [Kaveh Bakhtiyari](https://bakhtiyari.com)
+            """
         }
     )
 

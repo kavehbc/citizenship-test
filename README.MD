@@ -3,6 +3,7 @@
 This is a public repository of the citizenship questions for the following countries:
 
 - Canada
+- United States of America
 
 ## CONTRIBUTION
 
@@ -50,6 +51,9 @@ Questions are collected from the following resources:
   - https://www.citizenshipsupport.ca/free-simulation-test/
   - https://www.yourlibrary.ca/citizenship-test-answer-keys/
   - https://www.torontopubliclibrary.ca/new-to-canada/citizenship.jsp
+- United States of America
+  - https://www.uscis.gov/citizenship-resource-center/find-study-materials-and-resources/study-for-the-test-2008-version/2008-civics-practice-test
+
 
 ___
 ## GitHub Repo
