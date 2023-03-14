@@ -45,10 +45,18 @@ def main():
             del st.session_state["questions"]
 
     if "questions" in st.session_state:
-        selected_questions = st.session_state["questions"]
+        if "questions_to_pick" in st.session_state:
+            if st.session_state["questions_to_pick"] == questions_to_pick:
+                selected_questions = st.session_state["questions"]
+            else:
+                selected_questions = get_random_questions_ids(db, questions_to_pick)
+        else:
+            selected_questions = get_random_questions_ids(db, questions_to_pick)
     else:
         selected_questions = get_random_questions_ids(db, questions_to_pick)
-        st.session_state["questions"] = selected_questions
+
+    st.session_state["questions"] = selected_questions
+    st.session_state["questions_to_pick"] = questions_to_pick
 
     # presenting questions
     user_answers = {}
