@@ -1,0 +1,1155 @@
+{
+  "1": {
+    "question": "What do we celebrate on ANZAC Day?",
+    "options": {
+      "a": "The landing of the first free settlers from Europe",
+      "b": "The landing of the First Fleet at Sydney Cove",
+      "c": "The landing of the first settlers from Asia at Gallipoli",
+      "d": "The landing of the New Zealand and Australian Army Corps at Gallipoli"
+    },
+    "answer": "d",
+    "note": "ANZAC Day is observed on 25 April each year. ANZAC Day is named after the Australian and New Zealand Army Corps, which landed at Gallipoli in Turkey during World War I on 25 April 1915."
+  },
+  "2": {
+    "question": "What colours are on the Australian Aboriginal Flag?",
+    "options": {
+      "a": "Red, black, and yellow",
+      "b": "Red, black, and white",
+      "c": "Green, blue, and red",
+      "d": "Red, green, and yellow"
+    },
+    "answer": "a",
+    "note": "The Australian Aboriginal Flag is black, red and yellow. The top half is black and represents the Aboriginal people of Australia. The bottom half is red and represents the earth and a spiritual relation to the land. The yellow circle represents the sun."
+  },
+  "3": {
+    "question": "Which of the following is the official symbol for Commonwealth property?",
+    "options": {
+      "a": "The Australian Aboriginal Flag",
+      "b": "The national anthem",
+      "c": "Commonwealth Coat of Arms",
+      "d": "The Australian flag"
+    },
+    "answer": "c",
+    "note": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia. It represents our national unity. It identifies the authority and property of the Commonwealth of Australia."
+  },
+  "4": {
+    "question": "The first inhabitants of Australia were:",
+    "options": {
+      "a": "The Aboriginal",
+      "b": "British settlers",
+      "c": "Torres Strait Islander people",
+      "d": "1 and 3"
+    },
+    "answer": "d",
+    "note": "Australia&#8217;s first inhabitants were the Aboriginal and Torres Strait Islander people. They are the Indigenous people of Australia."
+  },
+  "5": {
+    "question": "What is the population of Australia?",
+    "options": {
+      "a": "12 million",
+      "b": "25 million",
+      "c": "32 million",
+      "d": "50 million"
+    },
+    "answer": "b",
+    "note": "Australia has a population of about 25illion people and one of the most diverse societies in the world."
+  },
+  "6": {
+    "question": "The national language of Australia is:",
+    "options": {
+      "a": "English",
+      "b": "French",
+      "c": "Australian",
+      "d": "Aborigine"
+    },
+    "answer": "a",
+    "note": "English is our national language. Communicating in English helps you to play a more active role inAustralian society."
+  },
+  "7": {
+    "question": "The Aboriginal people of Australia were from:",
+    "options": {
+      "a": "2 and 3",
+      "b": "Tasmania",
+      "c": "Mainland Australia",
+      "d": "China"
+    },
+    "answer": "a",
+    "note": "Historically, Aboriginal people are from mainland Australia and Tasmania. They have lived here for between 40 000 and 60 000 years."
+  },
+  "8": {
+    "question": "When did the European settlement in Australia start?",
+    "options": {
+      "a": "1700",
+      "b": "1788",
+      "c": "1888",
+      "d": "1900"
+    },
+    "answer": "b",
+    "note": "European settlement in Australia began in 1788 and we continue to welcome new migrants today."
+  },
+  "9": {
+    "question": "The first governor of the New South Wales colony was:",
+    "options": {
+      "a": "Sir Peter Sydney",
+      "b": "Sir Arthur Sydney",
+      "c": "Captain Peter Cook",
+      "d": "Captain Arthur Phillip"
+    },
+    "answer": "d",
+    "note": "The first governor of the colony of New South Wales was Captain Arthur Phillip. He overcame many problems in the first few years of European settlement."
+  },
+  "10": {
+    "question": "Who were the early free settlers of Australia?",
+    "options": {
+      "a": "The British",
+      "b": "The Ireland citizens",
+      "c": "1 and 2",
+      "d": "The Canadians"
+    },
+    "answer": "c",
+    "note": "Early free settlers were from Great Britain and Ireland. This British and Irish heritage has had a major influence on Australia&#8217;s history, culture and political institutions."
+  },
+  "11": {
+    "question": "In 1851, _________ was discovered in New South Wales and Victoria?",
+    "options": {
+      "a": "Gold",
+      "b": "Diamond",
+      "c": "Oil",
+      "d": "Granite"
+    },
+    "answer": "a",
+    "note": "In 1851, gold was discovered in the colonies of New South Wales and Victoria. People from all around the world came to these colonies to try their luck at making a fortune."
+  },
+  "12": {
+    "question": "The colonies in Australia were officially united into the Commonwealth of Australia in:",
+    "options": {
+      "a": "1701",
+      "b": "1801",
+      "c": "1901",
+      "d": "2001"
+    },
+    "answer": "c",
+    "note": "In 1901, the colonies were united into a federation of states called the Commonwealth of Australia. At that time, Australia&#8217;s population was counted at about four million people."
+  },
+  "13": {
+    "question": "Why did many non-British citizens immigrate to Australia after World War II?",
+    "options": {
+      "a": "To build a new life",
+      "b": "To dig for gold",
+      "c": "To claim free land",
+      "d": "1 and 2"
+    },
+    "answer": "a",
+    "note": "A wave of non-British migration came after World War II, when millions of people in Europe had to leave their homelands. Large numbers came to Australia to build a new life."
+  },
+  "14": {
+    "question": "How many languages are spoken in Australia?",
+    "options": {
+      "a": "1",
+      "b": "100",
+      "c": "Over 200",
+      "d": "50"
+    },
+    "answer": "c",
+    "note": "In Australia&#8217;s diverse society, over 200 languages are spoken."
+  },
+  "15": {
+    "question": "Australia is made up of:",
+    "options": {
+      "a": "2 states and 1 territory",
+      "b": "4 states and 2 territories",
+      "c": "6 states and 1 territory",
+      "d": "6 states and 2 territories"
+    },
+    "answer": "d",
+    "note": "The Commonwealth of Australia is a federation of states and territories. There are six states and two mainland territories."
+  },
+  "16": {
+    "question": "Which of the following is Australia&#8217;s capital city?",
+    "options": {
+      "a": "Canberra",
+      "b": "Sydney",
+      "c": "Perth",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "note": "Canberra is Australia&#8217;s capital city, and each state and mainland territory has its own capital."
+  },
+  "17": {
+    "question": "Which of the following is the capital of Queensland?",
+    "options": {
+      "a": "Canberra",
+      "b": "Sydney",
+      "c": "Perth",
+      "d": "Brisbane"
+    },
+    "answer": "d",
+    "note": "Brisbane is the capital of Queensland."
+  },
+  "18": {
+    "question": "Australia has ____ official flags?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3"
+    },
+    "answer": "c",
+    "note": "The Australian National Flag is the official flag of our nation. Other flags that are officially recognised and may be flown in the community include the Australian Aboriginal Flag and the Torres Strait Islander Flag."
+  },
+  "19": {
+    "question": "_________ separates Tasmania from the Australian mainland.",
+    "options": {
+      "a": "Tasmania Strait",
+      "b": "Cook Strait",
+      "c": "Torres Strait",
+      "d": "Bass Strait"
+    },
+    "answer": "d",
+    "note": "Tasmania is the smallest state, separated from the mainland by Bass Strait."
+  },
+  "20": {
+    "question": "As an Australian citizen, it is your responsibility to:",
+    "options": {
+      "a": "Ensure your passport is in good condition",
+      "b": "Volunteer in your community",
+      "c": "Join a Worker&#8217;s Union",
+      "d": "Defend Australia along with your fellow Australians when needed"
+    },
+    "answer": "d",
+    "note": "As an Australian citizen you must: obey the law,  vote in federal and state or territory elections, and in a referendum, defend Australia should the need arise, and serve on a jury if called to do so."
+  },
+  "21": {
+    "question": "ANZAC Day is celebrated on:",
+    "options": {
+      "a": "Apr.25",
+      "b": "May.25",
+      "c": "Dec.31",
+      "d": "Jan.1"
+    },
+    "answer": "a",
+    "note": "The anniversary of the landing on Gallipoli (25 April) is  a national holiday. It is called ANZAC Day."
+  },
+  "22": {
+    "question": "Aboriginal culture is:",
+    "options": {
+      "a": "A new culture in both Australia and the world",
+      "b": "The same as many other indigenous cultures",
+      "c": "The oldest discontinued indigenous culture in the world",
+      "d": "The oldest continuing indigenous culture in the world"
+    },
+    "answer": "d",
+    "note": "Australia&#8217;s first inhabitants were the Aboriginal and Torres Strait Islander people. They are the Indigenous people of Australia. Australia&#8217;s Indigenous cultures are the oldest continuing cultures in the world."
+  },
+  "23": {
+    "question": "Aboriginal people have been living in Australia for ____________ years.",
+    "options": {
+      "a": "40,000 to 60,000",
+      "b": "80,000 to 100,000",
+      "c": "110,000 to 150,000",
+      "d": "150,000 to 200,000"
+    },
+    "answer": "a",
+    "note": "Historically, Aboriginal people are from mainland Australia and Tasmania. They have lived here for between 40 000 and 60 000 years."
+  },
+  "24": {
+    "question": "Which of the following is the capital of the Northern Territory?",
+    "options": {
+      "a": "Sydney",
+      "b": "Canberra",
+      "c": "Darwin",
+      "d": "Perth"
+    },
+    "answer": "c",
+    "note": "Darwin is the capital city of the Northern Territory."
+  },
+  "25": {
+    "question": "Australia Day is celebrated on:",
+    "options": {
+      "a": "Dec.25",
+      "b": "Jan.26",
+      "c": "Mar.05",
+      "d": "Nov.15"
+    },
+    "answer": "b",
+    "note": "On 26 January each year, we celebrate Australia Day. Australia Day is a public holiday in every state and territory in Australia."
+  },
+  "26": {
+    "question": "How many states are in Australia?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "c",
+    "note": "The Commonwealth of Australia is a federation of states and territories. There are six states and two mainland territories."
+  },
+  "27": {
+    "question": "How was Australia organized before 1901?",
+    "options": {
+      "a": "By 6 self-governing Aboriginal groups",
+      "b": "By 6 self-governing British colonies",
+      "c": "By 6 British colonies that governed each other",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "note": "Before 1901, Australia was made up of six separate, self-governing British colonies."
+  },
+  "28": {
+    "question": "The capital city of Victoria is:",
+    "options": {
+      "a": "Sydney",
+      "b": "Perth",
+      "c": "Melbourne",
+      "d": "Melton"
+    },
+    "answer": "c",
+    "note": "Melbourne is the capital city of Victoria."
+  },
+  "29": {
+    "question": "The main town near the centre of Australia is:",
+    "options": {
+      "a": "Sydney",
+      "b": "Alice Springs",
+      "c": "Perth",
+      "d": "Darwin"
+    },
+    "answer": "b",
+    "note": "The Northern Territory has the tropics in the north and red desert soil in the south. Most of its small population live in the capital city, Darwin, and along the main highway between Darwin and Alice Springs, which is the main town near the centre of Australia."
+  },
+  "30": {
+    "question": "What do the green strips represent on the Torres Strait Islander Flag?",
+    "options": {
+      "a": "Freedom",
+      "b": "The land",
+      "c": "Hope",
+      "d": "All of the above"
+    },
+    "answer": "b",
+    "note": "The Torres Strait Islander Flag is green, blue, black and white. The green stripes represent the land. The blue panel in the centre represents the sea. The black lines represent the Torres Strait Islander people. The white dancer&#8217;s headdress in the centre is a symbol for all Torres Strait Islanders."
+  },
+  "31": {
+    "question": "____ was discovered in New South Wales and Victoria in 1851.",
+    "options": {
+      "a": "Gold",
+      "b": "Ice",
+      "c": "Oil",
+      "d": "Diamond"
+    },
+    "answer": "a",
+    "note": "The discovery of gold in New South Wales in early 1851 has been described as the &#8216;discovery that changed a nation&#8217;"
+  },
+  "32": {
+    "question": "Australia&#8217;s national flower is:",
+    "options": {
+      "a": "Red rose",
+      "b": "Gymea lily",
+      "c": "White wattle",
+      "d": "Golden wattle"
+    },
+    "answer": "d",
+    "note": "The background of the Commonwealth Coat of Arms is the golden wattle, Australia&#8217;s national flower."
+  },
+  "33": {
+    "question": "The first convict ships to arrive in Australia came from:",
+    "options": {
+      "a": "Canada",
+      "b": "Great Britain",
+      "c": "China",
+      "d": "Japan"
+    },
+    "answer": "b",
+    "note": "European settlement started when the first 11 convict ships, which became known as the &#8216;First Fleet&#8217;, arrived from Great Britain on 26 January 1788."
+  },
+  "34": {
+    "question": "Which of the following is the second largest state in Australia?",
+    "options": {
+      "a": "South Australia",
+      "b": "Northern Australia",
+      "c": "Western Australia",
+      "d": "Queensland"
+    },
+    "answer": "d",
+    "note": "<p class=\"p1\">Queensland is the second largest state. It has the Torres Strait Islands in the north, tropical rainforests, temperate coastal areas and an often dry inland."
+  },
+  "35": {
+    "question": "What appears on the Australia&#8217;s Coat of Arms?",
+    "options": {
+      "a": "Kangaroo",
+      "b": "Emu",
+      "c": "1 and 2",
+      "d": "Koala"
+    },
+    "answer": "c",
+    "note": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia. A kangaroo and an emu support the shield on each side. Kangaroos are native Australian animals and emus are native Australian birds."
+  },
+  "36": {
+    "question": "__________ is the capital city of New South Wales.",
+    "options": {
+      "a": "Melbourne",
+      "b": "Sydney",
+      "c": "Perth",
+      "d": "Singleton"
+    },
+    "answer": "b",
+    "note": "Sydney is the capital city of New South Wales and is the nation&#8217;s largest city."
+  },
+  "37": {
+    "question": "The British Government first transported convicts to:",
+    "options": {
+      "a": "Queensland",
+      "b": "New South Wales",
+      "c": "Tasmania",
+      "d": "All of the above"
+    },
+    "answer": "b",
+    "note": "In 1788, Great Britain decided to send the convicts to the new colony of New South Wales."
+  },
+  "38": {
+    "question": "Which of the following is Australia&#8217;s largest city?",
+    "options": {
+      "a": "Sydney",
+      "b": "Perth",
+      "c": "Canberra",
+      "d": "Melbourne"
+    },
+    "answer": "a",
+    "note": "Sydney is the capital city of New South Wales and is the nation&#8217;s largest city."
+  },
+  "39": {
+    "question": "The Torres Strait Islands mostly lie in:",
+    "options": {
+      "a": "Queensland",
+      "b": "New South Wales",
+      "c": "Tasmania",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "note": "Queensland is the second largest state. It has the Torres Strait Islands in the north, tropical rainforests, temperate coastal areas and an often dry inland. T"
+  },
+  "40": {
+    "question": "January 26 is the anniversary of:",
+    "options": {
+      "a": "The discovery of diamond in Australia",
+      "b": "The arrival of Aboriginals",
+      "c": "The arrival in Australia of the First Fleet in 1788",
+      "d": "The first elected Prime Minister"
+    },
+    "answer": "c",
+    "note": "European settlement started when the first 11 convict ships, which became known as the &#8216;First Fleet&#8217;, arrived from Great Britain on 26 January 1788."
+  },
+  "41": {
+    "question": "The capital city of the Northern Territory is:",
+    "options": {
+      "a": "Darwin",
+      "b": "Sydney",
+      "c": "Perth",
+      "d": "Alice Springs"
+    },
+    "answer": "a",
+    "note": "Darwin is the capital city of the Northern Territory."
+  },
+  "42": {
+    "question": "The typical landscape in the southern part of the Northern Territory is:",
+    "options": {
+      "a": "White sand beaches",
+      "b": "White desert",
+      "c": "Red desert",
+      "d": "Forest"
+    },
+    "answer": "c",
+    "note": "The Northern Territory has the tropics in the north and red desert soil in the south."
+  },
+  "43": {
+    "question": "______________ is the capital city of Tasmania.",
+    "options": {
+      "a": "Darwin",
+      "b": "Alice Springs",
+      "c": "Sydney",
+      "d": "Hobart"
+    },
+    "answer": "d",
+    "note": "Hobart is the capital city of Tasmania."
+  },
+  "44": {
+    "question": "British and Irish heritage has:",
+    "options": {
+      "a": "Had a major influence on Australia",
+      "b": "Had minor influence in Australia",
+      "c": "No influence in Australia",
+      "d": "Only influenced the government culture in Australia"
+    },
+    "answer": "a",
+    "note": "Early free settlers were from Great Britain and Ireland. This British and Irish heritage has had a major influence on Australia&#8217;s history, culture and political institutions."
+  },
+  "45": {
+    "question": "The national police force is called the:",
+    "options": {
+      "a": "Australian Police",
+      "b": "Australian Federal Police",
+      "c": "Australian Defence Force",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "note": "Australia  has a national police force called the Australian Federal Police. The Australian Federal Police investigates crimes against federal laws."
+  },
+  "46": {
+    "question": "The Australian nation came about by:",
+    "options": {
+      "a": "Negotiation",
+      "b": "Referendum",
+      "c": "1 and 2",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "note": "Australians are proud of the fact that their nation did not emerge through revolution or bloodshed, but by negotiation and referendum."
+  },
+  "47": {
+    "question": "Which of the following has its own flag?",
+    "options": {
+      "a": "Some states",
+      "b": "Only the territories",
+      "c": "No state or territory",
+      "d": "Each state and territory"
+    },
+    "answer": "d",
+    "note": "The Australian National Flag is the official flag of our nation. Each state and territory also has its own flag."
+  },
+  "48": {
+    "question": "___________ of Western Australia&#8217;s population lives in the capital city.",
+    "options": {
+      "a": "About 10%",
+      "b": "About 1/3",
+      "c": "About 1/2",
+      "d": "About 75%"
+    },
+    "answer": "d",
+    "note": "Western Australia is the largest state. The east of the state is mostly desert, while the south-west is a rich agricultural and wine-growing area. About three-quarters of the state&#8217;s population lives in Perth, the capital city"
+  },
+  "49": {
+    "question": "The indigenous people of Australia share:",
+    "options": {
+      "a": "Common beliefs",
+      "b": "Common traditions",
+      "c": "The same language",
+      "d": "1 and 2"
+    },
+    "answer": "d",
+    "note": "Indigenous people share common beliefs and traditions that still guide them today. They have a deep connection with the land that is expressed in their stories, art and dance."
+  },
+  "50": {
+    "question": "What colours are on the Torres Strait Islander Flag?",
+    "options": {
+      "a": "Red, black, and yellow",
+      "b": "Blue, Green, Yellow, and Black",
+      "c": "Black, white, blue, and green",
+      "d": "Black, red, blue, and lime"
+    },
+    "answer": "c",
+    "note": "The Torres Strait Islander Flag is green, blue, black and white."
+  },
+  "51": {
+    "question": "The population of Australia was ____________ when the Commonwealth of Australia was officially formed.",
+    "options": {
+      "a": "About 4 million people plus the Indigenous people",
+      "b": "About 4 million people including the Indigenous people",
+      "c": "About 6 million people plus the Indigenous people",
+      "d": "About 8 million plus the indigenous people"
+    },
+    "answer": "a",
+    "note": "In 1901, the colonies were united into a federation of states called the Commonwealth of Australia. At that time, Australia&#8217;s population was counted at about four million people. This number did not include the Indigenous people."
+  },
+  "52": {
+    "question": "The official symbol of Australia that identifies Commonwealth property is:",
+    "options": {
+      "a": "Commonwealth Coat of Arms",
+      "b": "The national anthem",
+      "c": "The national flower",
+      "d": "The Queen"
+    },
+    "answer": "a",
+    "note": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia. It represents our national unity. It identifies the authority and property of the Commonwealth of Australia."
+  },
+  "53": {
+    "question": "What does COAG stand for?",
+    "options": {
+      "a": "Council of Australian Government",
+      "b": "Council of Australian Guardians",
+      "c": "Council of Aboriginal Guardians",
+      "d": "Council of Aboriginal Government"
+    },
+    "answer": "a",
+    "note": "Some responsibilities are shared between the various levels of government. The Council of Australian Government (COAG) has been set up to encourage cooperation between the levels of government."
+  },
+  "54": {
+    "question": "The capital of Western Australia is:",
+    "options": {
+      "a": "Sydney",
+      "b": "Darwin",
+      "c": "Perth",
+      "d": "Canberra"
+    },
+    "answer": "c",
+    "note": "Perth is the capital of Western Australia."
+  },
+  "55": {
+    "question": "ANZAC Day is named after:",
+    "options": {
+      "a": "The Australian and New Zealand Army Corps",
+      "b": "The Australian and New Zealand Cadets",
+      "c": "The Australian and Aboriginal Culture",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "note": "ANZAC Day is observed on 25 April each year. ANZAC Day is named after the Australian and New Zealand Army Corps, which landed at Gallipoli in Turkey during World War I on 25 April 1915."
+  },
+  "56": {
+    "question": "The national gemstone of Australia is:",
+    "options": {
+      "a": "Gold",
+      "b": "Opal",
+      "c": "Zinc",
+      "d": "Diamond"
+    },
+    "answer": "b",
+    "note": "The opal is Australia&#8217;s national gemstone. In Aboriginal legend, a rainbow touched the earth and created the colours of the opal."
+  },
+  "57": {
+    "question": "Which of the following is Australia&#8217;s national anthem?",
+    "options": {
+      "a": "God Save the Queen",
+      "b": "O Canada",
+      "c": "Waltzing Matilda",
+      "d": "Advance Australia Fair"
+    },
+    "answer": "d",
+    "note": "The colonies had developed separately, but by the late 19th century a common sense of national belonging had developed. This feeling was expressed in the words of &#8216;Advance Australia Fair&#8217;. This song was written by Peter Dodds McCormick and first sung in Sydney in 1878. It is now our national anthem."
+  },
+  "58": {
+    "question": "The population of New South Wales and Victoria in the 10 years from 1851:",
+    "options": {
+      "a": "Decreased by 1/2",
+      "b": "Did not change",
+      "c": "Increased by about 1/3",
+      "d": "Increased by more than doubled"
+    },
+    "answer": "d",
+    "note": "In 1851, gold was discovered in the colonies of New South Wales and Victoria.  In 10 years, the population more than doubled."
+  },
+  "59": {
+    "question": "Who can apply for an Australian passport?",
+    "options": {
+      "a": "Permanent residents of Australia",
+      "b": "Citizens of Australia",
+      "c": "Visa students of Australia",
+      "d": "All of the above"
+    },
+    "answer": "b",
+    "note": "As an Australian citizen, you have the right to apply for an Australian passport and re-enter Australia freely."
+  },
+  "60": {
+    "question": "Which of the following is Australia&#8217;s smallest mainland state?",
+    "options": {
+      "a": "Victoria",
+      "b": "Queensland",
+      "c": "Tasmania",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "note": "Victoria is the smallest of the mainland states. Many fine buildings in Victoria were built from the wealth created by the gold rush of the 1850s."
+  },
+  "61": {
+    "question": "Which of the following is Australia&#8217;s largest state?",
+    "options": {
+      "a": "Victoria",
+      "b": "Tasmania",
+      "c": "Queensland",
+      "d": "Western Australia"
+    },
+    "answer": "d",
+    "note": "Western Australia is the largest state. The east of the state is mostly desert, while the south-west is a rich agricultural and wine-growing area."
+  },
+  "62": {
+    "question": "_____ of Australians were born overseas.",
+    "options": {
+      "a": "Over 50%",
+      "b": "Less than 20%",
+      "c": "Less than 10%",
+      "d": "Over 25%"
+    },
+    "answer": "d",
+    "note": "Since 1945, 6.5 million people have come to Australia. Over one quarter of Australians were born overseas."
+  },
+  "63": {
+    "question": "Australia was a colony of:",
+    "options": {
+      "a": "Britain",
+      "b": "France",
+      "c": "German",
+      "d": "China"
+    },
+    "answer": "a",
+    "note": "Australia was a colony of the Great Britain."
+  },
+  "64": {
+    "question": "The capital of Queensland is:",
+    "options": {
+      "a": "Sydney",
+      "b": "Darwin",
+      "c": "Brisbane",
+      "d": "Perth"
+    },
+    "answer": "c",
+    "note": "Brisbane is the capital of Queensland."
+  },
+  "65": {
+    "question": "The colour of the Australian National Flag is:",
+    "options": {
+      "a": "Red, black, and yellow",
+      "b": "Red, black, and white",
+      "c": "Blue, white, and red",
+      "d": "Blue, white, and green"
+    },
+    "answer": "c",
+    "note": "The Australian National Flag is blue, white and red."
+  },
+  "66": {
+    "question": "How many official flags does Australia have?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "note": "The Australian National Flag is the official flag of our nation. Other flags that are officially recognised and may be flown in the community include the Australian Aboriginal Flag and the Torres Strait Islander Flag."
+  },
+  "67": {
+    "question": "European settlement in Australia began in :",
+    "options": {
+      "a": "1900",
+      "b": "1888",
+      "c": "1850",
+      "d": "1788"
+    },
+    "answer": "d",
+    "note": "European settlement started when the first 11 convict ships, which became known as the &#8216;First Fleet&#8217;, arrived from Great Britain on 26 January 1788."
+  },
+  "68": {
+    "question": "The capital of South Australia is:",
+    "options": {
+      "a": "Sydney",
+      "b": "Melbourne",
+      "c": "Perth",
+      "d": "Adelaide"
+    },
+    "answer": "d",
+    "note": "Adelaide is the capital of South Australia."
+  },
+  "69": {
+    "question": "What Percentage of people living in Australia were born overseas",
+    "options": {
+      "a": "More than 25%",
+      "b": "Less than 25%",
+      "c": "Exactly 25%"
+    },
+    "answer": "a",
+    "note": "Over one quarter of Australia&#8217;s residents were born overseas, and have migrated from over 200 countries."
+  },
+  "70": {
+    "question": "Which of the following statements is correct about Australia&#8217;s government system?",
+    "options": {
+      "a": "The Queen of Australia appoints the government",
+      "b": "The government is elected by the citizens of Australia",
+      "c": "The Queen of Australia is elected by the government of Australia",
+      "d": "2 and 3"
+    },
+    "answer": "b",
+    "note": "The Australian Government is also called the Federal Government or the Commonwealth Government. It is elected by the citizens of Australia."
+  },
+  "71": {
+    "question": "Which of the following demonstrates freedom of speech?",
+    "options": {
+      "a": "Australians are free to follow any religion",
+      "b": "Newspapers and other media can write about any topic",
+      "c": "Australians can choose to read any newspapers",
+      "d": "Australians can speak in any language"
+    },
+    "answer": "b",
+    "note": "Australians must respect other people&#8217;s freedom of speech and freedom of expression. Newspapers, television and radio have the same freedom."
+  },
+  "72": {
+    "question": "The government in Australia is:",
+    "options": {
+      "a": "Secular",
+      "b": "Appointed by the Queen of Australia",
+      "c": "Elected by the Royal family of Australia",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "note": "The government in Australia is secular. This means that there is no official national religion."
+  },
+  "73": {
+    "question": "Which of the following demonstrates equality in Australia?",
+    "options": {
+      "a": "Adults and children have the same rights",
+      "b": "Men and women have the same rights",
+      "c": "Everyone speaks the same language",
+      "d": "Everyone follows the same religion"
+    },
+    "answer": "b",
+    "note": "Men and women have equal rights in Australia. It is against the law to discriminate against a person because of their gender."
+  },
+  "74": {
+    "question": "Which of the following is a responsibility for Australians 18 years old or over?",
+    "options": {
+      "a": "To attend university",
+      "b": "To get married",
+      "c": "To vote in elections",
+      "d": "To apply for Australian passport"
+    },
+    "answer": "c",
+    "note": "As an Australian citizen you must: obey the law,  vote in federal and state or territory elections, and in a referendum, defend Australia should the need arise, and serve on a jury if called to do so."
+  },
+  "75": {
+    "question": "Which of the following is a responsibility for Australians 18 years old or over?",
+    "options": {
+      "a": "To attend university",
+      "b": "To serve on a jury if called to do so",
+      "c": "To volunteer in his or her community",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "note": "As an Australian citizen you must: obey the law,  vote in federal and state or territory elections, and in a referendum, defend Australia should the need arise, and serve on a jury if called to do so."
+  },
+  "76": {
+    "question": "Who can apply and hold an Australian passport?",
+    "options": {
+      "a": "Permanent residents in Australia",
+      "b": "Visa students in Australia",
+      "c": "Australian citizens",
+      "d": "1 and 3"
+    },
+    "answer": "c",
+    "note": "When you become an Australian citizen, you have the right to live freely in Australia."
+  },
+  "77": {
+    "question": "Which of the following statement is INCORRECT?",
+    "options": {
+      "a": "Australians are required to follow Judaeo-Christian ethics",
+      "b": "Australians are free  to follow any religion",
+      "c": "Australian men and women have the same rights",
+      "d": "Australian citizens can vote in all elections"
+    },
+    "answer": "a",
+    "note": "Australia has a Judaeo-Christian heritage. However, the government in Australia is secular. This means that there is no official national religion."
+  },
+  "78": {
+    "question": "Who can vote in Australia?",
+    "options": {
+      "a": "Citizens 16 years of age or over",
+      "b": "Citizens 17 years of age or over",
+      "c": "Citizens 18 years of age or over",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "note": "Australian citizens aged 18 years or over must register their name and address on the electoral roll. Once you are on the electoral roll, voting is compulsory for Australian citizens aged 18 years or over in federal and state or territory elections."
+  },
+  "79": {
+    "question": "Which of the following statements is correct about education in Australia?",
+    "options": {
+      "a": "Only men can attend university in Australia",
+      "b": "Everyone is required to attend university in Australia",
+      "c": "Both Australian men and women may go to university if they choose to",
+      "d": "2 and 3"
+    },
+    "answer": "c",
+    "note": "All Australians have the opportunity to go to university."
+  },
+  "80": {
+    "question": "&#8220;Fair go&#8221; means:",
+    "options": {
+      "a": "2 and 3",
+      "b": "Everyone has equality of opportunity",
+      "c": "One&#8217;s achievements should be based on talent and effort",
+      "d": "Australians can live in any parts of Australia"
+    },
+    "answer": "a",
+    "note": "Australians do not believe in class distinctions in our society. Instead, we believe in a fair society, where everyone deserves a &#8216;fair go&#8217;. This means that what someone achieves in life should be a result of their hard work and talents, rather than their wealth or background"
+  },
+  "81": {
+    "question": "Being an Australian means that you have the right to:",
+    "options": {
+      "a": "Travel internationally without a passport",
+      "b": "Live in Australia",
+      "c": "Live in Australia if you are in school or working",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "note": "When you become an Australian citizen, you have the right to live freely in Australia."
+  },
+  "82": {
+    "question": "Which of the following is correct about Defence Force in Australia?",
+    "options": {
+      "a": "Service in the Australian Defence Force is compulsory if you want to apply for a passport",
+      "b": "Service in the Australian Defence Force is voluntary",
+      "c": "Service in the Australian Defence Force is compulsory if you are not in school at the age of 18 -21",
+      "d": "Service in the Australian Defence Force is voluntary for women"
+    },
+    "answer": "b",
+    "note": "While service in the Australian Defence Force is voluntary, should the need arise it is vital that all Australian citizens be committed to joining together to defend the nation and its way of life."
+  },
+  "83": {
+    "question": "Children of Australian citizens who were born outside of Australia may:",
+    "options": {
+      "a": "Not be recognized as Australian citizens",
+      "b": "Be registered as Australian citizens only if they pass the citizenship test",
+      "c": "Be registered as Australian citizens only if they study or work in Australia for 3 years or more",
+      "d": "Be registered as Australian citizens"
+    },
+    "answer": "d",
+    "note": "Australian citizens may have children born overseas. They can register their children as Australian citizens. The children then have the same rights and responsibilities of citizenship as children born in Australia."
+  },
+  "84": {
+    "question": "What does equality under the law means for Australians?",
+    "options": {
+      "a": "2 and 3",
+      "b": "Everyone earns the equal amount of money, regardless of race or ethnicity",
+      "c": "People of other race or ethnicity should not be discriminated against",
+      "d": "People can be treated differently depending on their race"
+    },
+    "answer": "c",
+    "note": "It is against the law to try to make other people hate or act violently towards others because of their culture, ethnicity or background."
+  },
+  "85": {
+    "question": "What is the consequence of not attending a polling booth to vote?",
+    "options": {
+      "a": "You will be sent to jail",
+      "b": "You will have to vote twice next time",
+      "c": "You will be fined if you do not provide a good reason",
+      "d": "There is no consequence"
+    },
+    "answer": "c",
+    "note": "Voting is compulsory for Australian citizens aged 18 years or over in federal and state or territory elections. You will be fined if you do not provide a good reason for not voting."
+  },
+  "86": {
+    "question": "Which of the following ideas demonstrates compassion for those who need help in the Australian society?",
+    "options": {
+      "a": "A spirit of &#8220;mateship&#8221;",
+      "b": "A thought of &#8220;peace&#8221;",
+      "c": "A feeling of &#8220;righteousness&#8221;",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "note": "In Australia, there is a spirit of &#8216;mateship&#8217;. This means we help and receive help from each other in times of need."
+  },
+  "87": {
+    "question": "How does the government help Australians in need?",
+    "options": {
+      "a": "Through social security and other services",
+      "b": "Government members donating part of their income to people in need",
+      "c": "The Queen of Australia giving money to people in need",
+      "d": "All of the above"
+    },
+    "answer": "a",
+    "note": "Our government supports Australians in need through social security and other services."
+  },
+  "88": {
+    "question": "Freedom of expression means:",
+    "options": {
+      "a": "People have the freedom to make facial expressions",
+      "b": "People may swear at anyone",
+      "c": "People may express their views freely through violent actions",
+      "d": "People may express their views freely through any media"
+    },
+    "answer": "d",
+    "note": "Freedom of expression allows people to express their views through art, film, music and literature."
+  },
+  "89": {
+    "question": "Which of the following is true about freedom of speech in Australia?",
+    "options": {
+      "a": "Australians can say whatever they want, even if it damages another person&#8217;s good name",
+      "b": "Australians may swear at anyone any time",
+      "c": "1 and 2",
+      "d": "Australian citizens may not damage another person&#8217;s good name"
+    },
+    "answer": "d",
+    "note": "We cannot make false allegations, encourage others to break the law or damage another person&#8217;s reputation. There are laws to protect a person&#8217;s good name against false information."
+  },
+  "90": {
+    "question": "Which of the following is correct about freedoms in Australia?",
+    "options": {
+      "a": "Australians are free to join any organization",
+      "b": "Australians are free to join any legal organization",
+      "c": "Australians are free to swear at anyone",
+      "d": "All of the above"
+    },
+    "answer": "b",
+    "note": "Australians are free to join any legal organisation, such as a political party, trade union, religious, cultural or social group. People can also decide not to join."
+  },
+  "91": {
+    "question": "Which of the following is true about freedom of association in Australia?",
+    "options": {
+      "a": "Australians cannot hold any protests against the government",
+      "b": "Australians are required to get the approval from the Queen before holding any protests",
+      "c": "Australians can hold protests only in poor economic times",
+      "d": "As long as they act legally, Australians can protest against the government"
+    },
+    "answer": "d",
+    "note": "Australians can gather with others to protest against a government action or an organisation. However, all protests must be within the law. This means they must be peaceful, and must not injure any person or damage property."
+  },
+  "92": {
+    "question": "Which of the following is the heritage of Australia?",
+    "options": {
+      "a": "Judaeo-Christian",
+      "b": "Christian-Atheist",
+      "c": "Christian-Buddhism",
+      "d": "Atheist"
+    },
+    "answer": "a",
+    "note": "Australia has a Judaeo-Christian heritage, and many Australians describe themselves as Christians."
+  },
+  "93": {
+    "question": "Australia is described as:",
+    "options": {
+      "a": "Monocultural",
+      "b": "Bicultural",
+      "c": "Anticultural",
+      "d": "Multicultural"
+    },
+    "answer": "d",
+    "note": "This mix of religions contributes to making Australia a vibrant multicultural society."
+  },
+  "94": {
+    "question": "Which of the following have legal status in Australia?",
+    "options": {
+      "a": "Laws that are passed by the Australian Parliament",
+      "b": "Laws that are passed by the Australian Queen",
+      "c": "Laws that are passed by the citizens",
+      "d": "1 and 2"
+    },
+    "answer": "a",
+    "note": "Most religions have rules, but these are not laws in Australia. For example, the process of divorce, including custody of children and property settlement, must follow laws passed by the Australian Parliament. All Australians have the right to be protected by these laws."
+  },
+  "95": {
+    "question": "Which of the following is true about jury service in Australia?",
+    "options": {
+      "a": "Serving on a jury is voluntary",
+      "b": "Only Aboriginals can serve on a jury",
+      "c": "Australian citizens must serve on a jury if called to do so",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "note": "As an Australian citizen you must: obey the law,  vote in federal and state or territory elections, and in a referendum, defend Australia should the need arise, and serve on a jury if called to do so."
+  },
+  "96": {
+    "question": "Citizens of Australia:",
+    "options": {
+      "a": "Must join a political party",
+      "b": "Do not have to join a political party",
+      "c": "Must join a political party if they want a job in Australia",
+      "d": "Do not have to join a political party only if they are in school"
+    },
+    "answer": "b",
+    "note": "In Australia, you are free to join a political party if you choose."
+  },
+  "97": {
+    "question": "Who can stand for parliament in Australia?",
+    "options": {
+      "a": "Men",
+      "b": "Both men and women",
+      "c": "Women",
+      "d": "No one"
+    },
+    "answer": "b",
+    "note": "Men and women have equal rights in Australia. It is against the law to discriminate against a person because of their gender. Both men and women can vote and stand for parliament."
+  },
+  "98": {
+    "question": "At the Australian citizenship ceremony, people pledge to:",
+    "options": {
+      "a": "Obey the laws of Australia",
+      "b": "Volunteer in their community",
+      "c": "Pay taxes",
+      "d": "Obey the government unconditionally"
+    },
+    "answer": "a",
+    "note": "At the citizenship ceremony, you pledge to uphold and obey the laws of Australia."
+  },
+  "99": {
+    "question": "People pledge to ______________ at the Australian citizenship ceremony.",
+    "options": {
+      "a": "Join the army",
+      "b": "Work for the government",
+      "c": "Get a passport",
+      "d": "Respect the rights and liberties of all Australians"
+    },
+    "answer": "d",
+    "note": "At the citizenship ceremony, you pledge that you share Australia&#8217;s democratic beliefs and that you respect the rights and liberties of the people of Australia."
+  },
+  "100": {
+    "question": "Which of the following statements is true?",
+    "options": {
+      "a": "Citizens 16 years of age or over can protest against the government",
+      "b": "No one can protest against the government",
+      "c": "Only politicians can protest",
+      "d": "Citizens can protest against the government, as long as they do it legally"
+    },
+    "answer": "d",
+    "note": "Australians can gather with others to protest against a government action or an organisation. However, all protests must be within the law. This means they must be peaceful, and must not injure any person or damage property."
+  },
+  "101": {
+    "question": "Which of the following is the official national religion of Australia?",
+    "options": {
+      "a": "Christianity",
+      "b": "Judaism",
+      "c": "Buddhism",
+      "d": "Australia has no official national religion"
+    },
+    "answer": "d",
+    "note": "The government in Australia is secular. This means that there is no official national religion."
+  },
+  "102": {
+    "question": "Which of the following describes women&#8217;s rights in Australia?",
+    "options": {
+      "a": "All Australian women must get married before the age of 35",
+      "b": "All Australian women must get their father&#8217;s permission to marry.",
+      "c": "Australian women under the age of 20 must not get married",
+      "d": "Australian women have the right to make their own decision about marriage"
+    },
+    "answer": "d",
+    "note": "Both men and women have the right to make their own independent choices about personal matters such as marriage, and are protected by the law from intimidation or violence."
+  },
+  "103": {
+    "question": "Australians are free to follow any belief of their choosing:",
+    "options": {
+      "a": "Unconditionally",
+      "b": "Only if their belief is approved by the police",
+      "c": "Only if they do not break the law",
+      "d": "Only if their belief is accepted by the Queen"
+    },
+    "answer": "c",
+    "note": "Many people have a different cultural heritage with different beliefs and traditions. In our democratic society, we are all free to follow and share these beliefs and traditions as long as they do not break Australian laws."
+  },
+  "104": {
+    "question": "Equality of opportunity in Australia means:",
+    "options": {
+      "a": "People should get jobs based on their skills and abilities",
+      "b": "Men should be chosen for jobs more than women",
+      "c": "Women should be chosen for jobs more than men",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "note": "Australians do not believe in class distinctions in our society. For example, a person should get a job or a promotion on the basis of their skills, ability and experience, not because of their background."
+  },
+  "105": {
+    "question": "Which of the following statements is correct?",
+    "options": {
+      "a": "The states  and the Northern Territory have their own police forces",
+      "b": "The states and the Northern Territory have their own army",
+      "c": "Only Sydney has its own police force",
+      "d": "Territories do not have their own police forces"
+    },
+    "answer": "a",
+    "note": "The states and the Northern Territory have their own police forces. They deal with crimes under state and territory laws."
+  }
+}

@@ -1,222 +1,1674 @@
 {
-    "1": {
-        "question": "What is the highest court in the United States?",
-        "options": {
-            "a": "the Court of Appeals",
-            "b": "the Federal Court",
-            "c": "the Supreme Court",
-            "d": "the District Court"
-        },
-        "answer": "c",
-        "note": "The Supreme Court is the highest court of the United States. The Supreme Court decides if a law goes against the Constitution. All other courts must follow the decisions of the Supreme Court. One example is the case of Brown v. Board of Education of Topeka in 1954. The case was about racial segregation in schools. Segregation was a system that separated people based on race and ethnic group. The Supreme Court decided that segregation in schools was against the Constitution. All states had to follow the Supreme Court decision. Segregation in school became illegal in the United States."
+  "1": {
+    "question": "What is the highest court in the United States?",
+    "options": {
+      "a": "the Court of Appeals",
+      "b": "the Federal Court",
+      "c": "the Supreme Court",
+      "d": "the District Court"
     },
-    "2": {
-        "question": "Name one branch or part of the government.",
-        "options": {
-            "a": "parliament",
-            "b": "state government",
-            "c": "Congress",
-            "d": "United Nations"
-        },
-        "answer": "c",
-        "note": "There are three branches of the federal government: Congress, the president, and the courts. Each branch has a special role. The Congress is called the legislative branch. Congress writes, debates, and makes laws. The president leads the executive branch. The president enforces the laws. The president also represents the United States to other countries. The courts are called the judicial branch. The courts explain laws. They decide if laws follow the Constitution. They also decide if people have broken laws."
+    "answer": "c",
+    "note": "The Supreme Court is the highest court of the United States. The Supreme Court decides if a law goes against the Constitution. All other courts must follow the decisions of the Supreme Court. One example is the case of Brown v. Board of Education of Topeka in 1954. The case was about racial segregation in schools. Segregation was a system that separated people based on race and ethnic group. The Supreme Court decided that segregation in schools was against the Constitution. All states had to follow the Supreme Court decision. Segregation in school became illegal in the United States."
+  },
+  "2": {
+    "question": "Name one branch or part of the government.",
+    "options": {
+      "a": "parliament",
+      "b": "state government",
+      "c": "Congress",
+      "d": "United Nations"
     },
-    "3": {
-        "question": "Why did the colonists fight the British?",
-        "options": {
-            "a": "because they didn't have self-government",
-            "b": "because the British army stayed in their houses",
-            "c": "all of these answers",
-            "d": "because of high taxes"
-        },
-        "answer": "c",
-        "note": "The colonists fought the British because they wanted to be free from Britain. They fought the British because of unfair taxes. They fought because they didn\u2019t have self-government. When the American colonies formed, they were part of Britain. Britain increased taxes for colonists on things they bought and used every day, like tea. Many colonists were angry because no one represented their needs in the British government. Colonists believed they did not have self-government. The British forced colonists to allow British soldiers to sleep and eat in their homes. The colonists joined together to fight Britain and gain independence."
+    "answer": "c",
+    "note": "There are three branches of the federal government: Congress, the president, and the courts. Each branch has a special role. The Congress is called the legislative branch. Congress writes, debates, and makes laws. The president leads the executive branch. The president enforces the laws. The president also represents the United States to other countries. The courts are called the judicial branch. The courts explain laws. They decide if laws follow the Constitution. They also decide if people have broken laws."
+  },
+  "3": {
+    "question": "Why did the colonists fight the British?",
+    "options": {
+      "a": "because they didn't have self-government",
+      "b": "because the British army stayed in their houses",
+      "c": "all of these answers",
+      "d": "because of high taxes"
     },
-    "4": {
-        "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
-        "options": {
-            "a": "We the Colonists",
-            "b": "Congress shall make",
-            "c": "We the British",
-            "d": "We the People"
-        },
-        "answer": "d",
-        "note": "The first three words of the Constitution are \"We the People.\" The document says that the people of the United States choose to create the government. \"We the People\" also explains that people elect representatives to make laws. This is a form of self-government."
+    "answer": "c",
+    "note": "The colonists fought the British because they wanted to be free from Britain. They fought the British because of unfair taxes. They fought because they didn\u2019t have self-government. When the American colonies formed, they were part of Britain. Britain increased taxes for colonists on things they bought and used every day, like tea. Many colonists were angry because no one represented their needs in the British government. Colonists believed they did not have self-government. The British forced colonists to allow British soldiers to sleep and eat in their homes. The colonists joined together to fight Britain and gain independence."
+  },
+  "4": {
+    "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+    "options": {
+      "a": "We the Colonists",
+      "b": "Congress shall make",
+      "c": "We the British",
+      "d": "We the People"
     },
-    "5": {
-        "question": "Who was President during the Great Depression and World War II?",
-        "options": {
-            "a": "Calvin Coolidge",
-            "b": "Harry Truman",
-            "c": "Herbert Hoover",
-            "d": "Franklin Roosevelt"
-        },
-        "answer": "d",
-        "note": "Franklin Roosevelt was president of the United States during the Great Depression and World War II. Franklin Roosevelt became president in 1933. The United States economy was weak. Banks failed. Many people did not have jobs. Franklin Roosevelt tried to fix the economy. He made rules for banks and the stock market. He started programs to create jobs and help workers across the country. The United States joined World War II in 1941. Americans joined Britain and the Soviet Union to fight against Germany, Italy, and Japan. Franklin Roosevelt was the president until he died in 1945. Roosevelt led America through the challenges of the Great Depression and World War II."
+    "answer": "d",
+    "note": "The first three words of the Constitution are \"We the People.\" The document says that the people of the United States choose to create the government. \"We the People\" also explains that people elect representatives to make laws. This is a form of self-government."
+  },
+  "5": {
+    "question": "Who was President during the Great Depression and World War II?",
+    "options": {
+      "a": "Calvin Coolidge",
+      "b": "Harry Truman",
+      "c": "Herbert Hoover",
+      "d": "Franklin Roosevelt"
     },
-    "6": {
-        "question": "What is one right or freedom from the First Amendment?",
-        "options": {
-            "a": "to vote",
-            "b": "speech",
-            "c": "trial by jury",
-            "d": "to bear arms"
-        },
-        "answer": "b",
-        "note": "The First Amendment protects the right of speech, assembly, and press. It protects the right to petition the government and freedom of religion. Democracy works only if people can talk to each other and share their opinions. The First Amendment of the U.S. Constitution protects these rights."
+    "answer": "d",
+    "note": "Franklin Roosevelt was president of the United States during the Great Depression and World War II. Franklin Roosevelt became president in 1933. The United States economy was weak. Banks failed. Many people did not have jobs. Franklin Roosevelt tried to fix the economy. He made rules for banks and the stock market. He started programs to create jobs and help workers across the country. The United States joined World War II in 1941. Americans joined Britain and the Soviet Union to fight against Germany, Italy, and Japan. Franklin Roosevelt was the president until he died in 1945. Roosevelt led America through the challenges of the Great Depression and World War II."
+  },
+  "6": {
+    "question": "What is one right or freedom from the First Amendment?",
+    "options": {
+      "a": "to vote",
+      "b": "speech",
+      "c": "trial by jury",
+      "d": "to bear arms"
     },
-    "7": {
-        "question": "When do we celebrate Independence Day?",
-        "options": {
-            "a": "June 30",
-            "b": "January 1",
-            "c": "March 4",
-            "d": "July 4"
-        },
-        "answer": "d",
-        "note": "We celebrate Independence Day on July 4. Representatives from the colonies signed the Declaration of Independence on July 4, 1776. This is the day the United States declared independence from Great Britain. On July 4, Americans celebrate in many different ways. We have parades, picnics, and watch fireworks. We celebrate Independence Day every year on July 4."
+    "answer": "b",
+    "note": "The First Amendment protects the right of speech, assembly, and press. It protects the right to petition the government and freedom of religion. Democracy works only if people can talk to each other and share their opinions. The First Amendment of the U.S. Constitution protects these rights."
+  },
+  "7": {
+    "question": "When do we celebrate Independence Day?",
+    "options": {
+      "a": "June 30",
+      "b": "January 1",
+      "c": "March 4",
+      "d": "July 4"
     },
-    "8": {
-        "question": "What stops one branch of government from becoming too powerful?",
-        "options": {
-            "a": "freedom of speech",
-            "b": "checks and balances",
-            "c": "the people",
-            "d": "the President"
-        },
-        "answer": "b",
-        "note": "The system of checks and balances stops one branch of the federal government from becoming too powerful. The United States government is divided into three separate branches. They are the president, Congress, and the courts. Here is an example of how this works. Congress makes laws. But the president can veto a law. That means the president can refuse to sign it. The law is then sent back to Congress. This is one way the president limits, or checks, the power of Congress."
+    "answer": "d",
+    "note": "We celebrate Independence Day on July 4. Representatives from the colonies signed the Declaration of Independence on July 4, 1776. This is the day the United States declared independence from Great Britain. On July 4, Americans celebrate in many different ways. We have parades, picnics, and watch fireworks. We celebrate Independence Day every year on July 4."
+  },
+  "8": {
+    "question": "What stops one branch of government from becoming too powerful?",
+    "options": {
+      "a": "freedom of speech",
+      "b": "checks and balances",
+      "c": "the people",
+      "d": "the President"
     },
-    "9": {
-        "question": "We elect a U.S. Senator for how many years?",
-        "options": {
-            "a": "two (2)",
-            "b": "ten (10)",
-            "c": "four (4)",
-            "d": "six (6)"
-        },
-        "answer": "d",
-        "note": "We elect U.S. senators for six years. Senators can run for as many terms as they want. Their job is to represent all the people of their state in the Senate."
+    "answer": "b",
+    "note": "The system of checks and balances stops one branch of the federal government from becoming too powerful. The United States government is divided into three separate branches. They are the president, Congress, and the courts. Here is an example of how this works. Congress makes laws. But the president can veto a law. That means the president can refuse to sign it. The law is then sent back to Congress. This is one way the president limits, or checks, the power of Congress."
+  },
+  "9": {
+    "question": "We elect a U.S. Senator for how many years?",
+    "options": {
+      "a": "two (2)",
+      "b": "ten (10)",
+      "c": "four (4)",
+      "d": "six (6)"
     },
-    "10": {
-        "question": "When was the Constitution written?",
-        "options": {
-            "a": "1776",
-            "b": "1790",
-            "c": "1789",
-            "d": "1787"
-        },
-        "answer": "d",
-        "note": "The Constitution was written in 1787. The American army won the War of Independence in 1783. For several years, the United States was governed by a congress of representatives from the states. But in 1787, delegates for the states met in Philadelphia to create a stronger federal government. They wrote the Constitution that gave the framework for the government we have today. The Constitution was written in 1787."
+    "answer": "d",
+    "note": "We elect U.S. senators for six years. Senators can run for as many terms as they want. Their job is to represent all the people of their state in the Senate."
+  },
+  "10": {
+    "question": "When was the Constitution written?",
+    "options": {
+      "a": "1776",
+      "b": "1790",
+      "c": "1789",
+      "d": "1787"
     },
-    "11": {
-        "question": "Name one war fought by the United States in the 1900s.",
-        "options": {
-            "a": "War of 1812",
-            "b": "World War 1",
-            "c": "Civil War",
-            "d": "Revolutionary War"
-        },
-        "answer": "b",
-        "note": "The United States fought five wars in the 1900s: World War I, World War II, the Korean War, the Vietnam War, and the Gulf War. In 1917, 2 million American soldiers went to France to help end World War I. The United States joined France, Britain, and Russia in a war against Germany and Austria-Hungary. The war ended in 1918."
+    "answer": "d",
+    "note": "The Constitution was written in 1787. The American army won the War of Independence in 1783. For several years, the United States was governed by a congress of representatives from the states. But in 1787, delegates for the states met in Philadelphia to create a stronger federal government. They wrote the Constitution that gave the framework for the government we have today. The Constitution was written in 1787."
+  },
+  "11": {
+    "question": "Name one war fought by the United States in the 1900s.",
+    "options": {
+      "a": "War of 1812",
+      "b": "World War 1",
+      "c": "Civil War",
+      "d": "Revolutionary War"
     },
-    "12": {
-        "question": "Who is the Commander in Chief of the military?",
-        "options": {
-            "a": "the Attorney General",
-            "b": "the President",
-            "c": "the Vice President",
-            "d": "the Secretary of Defense"
-        },
-        "answer": "b",
-        "note": "The president is the commander in chief of the military. The president is a civilian, not a military official. The writers of the Constitution wanted the commander in chief to be a civilian who is elected by the people."
+    "answer": "b",
+    "note": "The United States fought five wars in the 1900s: World War I, World War II, the Korean War, the Vietnam War, and the Gulf War. In 1917, 2 million American soldiers went to France to help end World War I. The United States joined France, Britain, and Russia in a war against Germany and Austria-Hungary. The war ended in 1918."
+  },
+  "12": {
+    "question": "Who is the Commander in Chief of the military?",
+    "options": {
+      "a": "the Attorney General",
+      "b": "the President",
+      "c": "the Vice President",
+      "d": "the Secretary of Defense"
     },
-    "13": {
-        "question": "What is the \u201crule of law\u201d?",
-        "options": {
-            "a": "All laws must be the same in every state.",
-            "b": "Government does not have to follow the law.",
-            "c": "Everyone but the President must follow the law.",
-            "d": "Everyone must follow the law"
-        },
-        "answer": "d",
-        "note": "In the United States, everyone must follow the law. All people and groups must follow the law. Government officials must follow the law. Everyone is equal under the government. This way, the government can protect everyone's rights. The rule of law means that everyone must follow the law."
+    "answer": "b",
+    "note": "The president is the commander in chief of the military. The president is a civilian, not a military official. The writers of the Constitution wanted the commander in chief to be a civilian who is elected by the people."
+  },
+  "13": {
+    "question": "What is the \u201crule of law\u201d?",
+    "options": {
+      "a": "All laws must be the same in every state.",
+      "b": "Government does not have to follow the law.",
+      "c": "Everyone but the President must follow the law.",
+      "d": "Everyone must follow the law"
     },
-    "14": {
-        "question": "Who is the Chief Justice of the United States now?",
-        "options": {
-            "a": "Barack Obama",
-            "b": "Joe Biden",
-            "c": "John G. Roberts, Jr.",
-            "d": "Anthony Kennedy"
-        },
-        "answer": "c",
-        "note": "The Chief Justice of the United States is the leader of the judicial branch. This person is one of nine justices of the Supreme Court."
+    "answer": "d",
+    "note": "In the United States, everyone must follow the law. All people and groups must follow the law. Government officials must follow the law. Everyone is equal under the government. This way, the government can protect everyone's rights. The rule of law means that everyone must follow the law."
+  },
+  "14": {
+    "question": "Who is the Chief Justice of the United States now?",
+    "options": {
+      "a": "Barack Obama",
+      "b": "Joe Biden",
+      "c": "John G. Roberts, Jr.",
+      "d": "Anthony Kennedy"
     },
-    "15": {
-        "question": "If the President can no longer serve, who becomes President?",
-        "options": {
-            "a": "the President Pro Tempore",
-            "b": "the Vice President",
-            "c": "the Speaker of the House",
-            "d": "the Secretary of State"
-        },
-        "answer": "b",
-        "note": "If the president can no longer serve, the vice president becomes the president. This has occurred nine times in American history. For example, on November 22, 1963, President John F. Kennedy was shot in Dallas, Texas. Ninety-nine minutes after President Kennedy's death, Vice President Lyndon Johnson was sworn in as president."
+    "answer": "c",
+    "note": "The Chief Justice of the United States is the leader of the judicial branch. This person is one of nine justices of the Supreme Court."
+  },
+  "15": {
+    "question": "If the President can no longer serve, who becomes President?",
+    "options": {
+      "a": "the President Pro Tempore",
+      "b": "the Vice President",
+      "c": "the Speaker of the House",
+      "d": "the Secretary of State"
     },
-    "16": {
-        "question": "Why do some states have more Representatives than other states?",
-        "options": {
-            "a": "because of the state's location",
-            "b": "because of the geographical size of the state",
-            "c": "because the state's Representatives have seniority in the House of Representatives",
-            "d": "because of the state's population"
-        },
-        "answer": "d",
-        "note": "Some states have more representatives than other states because they have more people. We know how many people live in each state because of the census. Every ten years, the United States government counts the people of the United States in the census. The census results decide how many representatives come from each state. The state is divided into districts. Each district elects one representative. If the number of people in a state changes, the number of representatives might change."
+    "answer": "b",
+    "note": "If the president can no longer serve, the vice president becomes the president. This has occurred nine times in American history. For example, on November 22, 1963, President John F. Kennedy was shot in Dallas, Texas. Ninety-nine minutes after President Kennedy's death, Vice President Lyndon Johnson was sworn in as president."
+  },
+  "16": {
+    "question": "Why do some states have more Representatives than other states?",
+    "options": {
+      "a": "because of the state's location",
+      "b": "because of the geographical size of the state",
+      "c": "because the state's Representatives have seniority in the House of Representatives",
+      "d": "because of the state's population"
     },
-    "17": {
-        "question": "How many amendments does the Constitution have?",
-        "options": {
-            "a": "ten (10)",
-            "b": "twenty-one (21)",
-            "c": "twenty-three (23)",
-            "d": "twenty-seven (27)"
-        },
-        "answer": "d",
-        "note": "The Constitution has 27 amendments. Amendments are changes to the Constitution. Congress added the first ten amendments in 1791. They are called the Bill of Rights. Since then, the government added more amendments. The Twenty-seventh Amendment was added in 1992."
+    "answer": "d",
+    "note": "Some states have more representatives than other states because they have more people. We know how many people live in each state because of the census. Every ten years, the United States government counts the people of the United States in the census. The census results decide how many representatives come from each state. The state is divided into districts. Each district elects one representative. If the number of people in a state changes, the number of representatives might change."
+  },
+  "17": {
+    "question": "How many amendments does the Constitution have?",
+    "options": {
+      "a": "ten (10)",
+      "b": "twenty-one (21)",
+      "c": "twenty-three (23)",
+      "d": "twenty-seven (27)"
     },
-    "18": {
-        "question": "What is the political party of the President now?",
-        "options": {
-            "a": "Green Party",
-            "b": "Democratic Party",
-            "c": "Republican Party",
-            "d": "Independent Party"
-        },
-        "answer": "b",
-        "note": "Today, there are two major political parties, the Democrats and the Republicans. The political party of the president might change in each election."
+    "answer": "d",
+    "note": "The Constitution has 27 amendments. Amendments are changes to the Constitution. Congress added the first ten amendments in 1791. They are called the Bill of Rights. Since then, the government added more amendments. The Twenty-seventh Amendment was added in 1992."
+  },
+  "18": {
+    "question": "What is the political party of the President now?",
+    "options": {
+      "a": "Green Party",
+      "b": "Democratic Party",
+      "c": "Republican Party",
+      "d": "Independent Party"
     },
-    "19": {
-        "question": "What is one thing Benjamin Franklin is famous for?",
-        "options": {
-            "a": "third president of the United States",
-            "b": "youngest member of the Constitutional Convention",
-            "c": "U.S. diplomat",
-            "d": "inventor of the airplane"
-        },
-        "answer": "c",
-        "note": "Benjamin Franklin was a famous American. He lived from 1706 to 1790. Benjamin Franklin was an inventor. He invented many things that we use today. He invented bifocal eyeglasses. He invented the Franklin stove. Franklin was the writer of Poor Richard's Almanac. It was a book with information about the weather and other topics. Franklin became the first postmaster general of the United States in 1775. He created the postal, or mail, system in the United States. Also, he started the first free libraries. Later, he was a U.S. diplomat. He was the oldest member at the Constitutional Convention."
+    "answer": "b",
+    "note": "Today, there are two major political parties, the Democrats and the Republicans. The political party of the president might change in each election."
+  },
+  "19": {
+    "question": "What is one thing Benjamin Franklin is famous for?",
+    "options": {
+      "a": "third president of the United States",
+      "b": "youngest member of the Constitutional Convention",
+      "c": "U.S. diplomat",
+      "d": "inventor of the airplane"
     },
-    "20": {
-        "question": "Why does the flag have 50 stars?",
-        "options": {
-            "a": "because there were 50 original colonies",
-            "b": "because there were 50 people who originally came to the United States",
-            "c": "because there is one star for each state",
-            "d": "because there is one star for each president"
-        },
-        "answer": "c",
-        "note": "The United States flag has 50 stars because there is one star for each state. After independence from Great Britain, the United States had 13 states. Then, the United States grew. Many immigrants came from around the world. The country grew bigger. The borders expanded. New states formed. A star was added to the flag for each new state. Today we have 50 states, so the flag has 50 stars."
-    }
+    "answer": "c",
+    "note": "Benjamin Franklin was a famous American. He lived from 1706 to 1790. Benjamin Franklin was an inventor. He invented many things that we use today. He invented bifocal eyeglasses. He invented the Franklin stove. Franklin was the writer of Poor Richard's Almanac. It was a book with information about the weather and other topics. Franklin became the first postmaster general of the United States in 1775. He created the postal, or mail, system in the United States. Also, he started the first free libraries. Later, he was a U.S. diplomat. He was the oldest member at the Constitutional Convention."
+  },
+  "20": {
+    "question": "Why does the flag have 50 stars?",
+    "options": {
+      "a": "because there were 50 original colonies",
+      "b": "because there were 50 people who originally came to the United States",
+      "c": "because there is one star for each state",
+      "d": "because there is one star for each president"
+    },
+    "answer": "c",
+    "note": "The United States flag has 50 stars because there is one star for each state. After independence from Great Britain, the United States had 13 states. Then, the United States grew. Many immigrants came from around the world. The country grew bigger. The borders expanded. New states formed. A star was added to the flag for each new state. Today we have 50 states, so the flag has 50 stars."
+  },
+  "21": {
+    "question": "Name the U.S. War between the North and the South.",
+    "options": {
+      "a": "The War of 1812",
+      "b": "World War I",
+      "c": "The Civil War",
+      "d": "The Revolutionary War"
+    },
+    "answer": "c",
+    "note": "The war between the states in the North and the states in the South is called the Civil War. The Civil War started in 1861. It ended in 1865. Southern states disagreed with the North over slavery and other issues. They did not want to be part of the United States. They formed their own country called the Confederate States of America, or the Confederacy. States in the North wanted to keep the United States together. They were the Union. The North won the war. The Confederacy became part of the United States again."
+  },
+  "22": {
+    "question": "What was one important thing that Abraham Lincoln did?",
+    "options": {
+      "a": "Purchased Alaska",
+      "b": "Declared war on Great Britain",
+      "c": "Established the United Nations",
+      "d": "Saved (or preserved) the Union"
+    },
+    "answer": "d",
+    "note": "President Abraham Lincoln was also famous for leading the United States during the Civil War. Abraham Lincoln was president from 1861 to 1865. He issued the Emancipation Proclamation. This document freed the slaves in the Southern states. Lincoln worked to keep the country together. He stopped the states in the South from separating the United States. People say he saved the Union. Soon after the war ended in 1865, a supporter of the South shot and killed Lincoln. Abraham Lincoln freed the slaves in the Southern states. He saved the Union and led the United States during the Civil War."
+  },
+  "23": {
+    "question": "Name one leader of the women\u2019s rights movement in the 1800s.",
+    "options": {
+      "a": "Susan B. Anthony",
+      "b": "Jane Austen",
+      "c": "Anne Frank",
+      "d": "Maya Angelou"
+    },
+    "answer": "a",
+    "note": "Susan B. Anthony was an important leader in the women&#8217;s rights movement. She fought for women&#8217;s rights and for civil rights. She gave speeches to support women&#8217;s rights, especially the right to vote. Other leaders of women&#8217;s rights movement include: Elizabeth Cady Stanton, Sojourner Truth, Harriet Tubman,  Lucretia Mott and Lucy Stone."
+  },
+  "24": {
+    "question": "What did the Emancipation Proclamation do?",
+    "options": {
+      "a": "Gave women the right to vote",
+      "b": "Freed slaves in most Southern states",
+      "c": "Gave the United States independence from Great Britain",
+      "d": "Ended World War I"
+    },
+    "answer": "b",
+    "note": "The Emancipation Proclamation freed the slaves. Abraham Lincoln issued the Emancipation Proclamation in 1863, during the Civil War. It said that slaves in the Southern states were free. Slaves could then join the United States Army. 185,000 African Americans fought in the Civil War. They fought for the Union and for freedom."
+  },
+  "25": {
+    "question": "The Civil War had many important events. Name one.",
+    "options": {
+      "a": "War of 1812",
+      "b": "Emancipation Proclamation",
+      "c": "Lincoln assassination",
+      "d": "14th amendment"
+    },
+    "answer": "b",
+    "note": "The Civil War had many important events, these included: Battle of Fort Sumter, Emancipation Proclamation, Battle of Vicksburg, Battle of Gettysburg, Sherman&#8217;s March, (Surrender at) Appomattox, Battle of Antietam/Sharpsburg, and Lincoln was assassinated."
+  },
+  "26": {
+    "question": "What territory did the U.S. Buy from France in 1803?",
+    "options": {
+      "a": "Louisiana",
+      "b": "Minnesota",
+      "c": "Colorado",
+      "d": "Alabama"
+    },
+    "answer": "a",
+    "note": "The United States bought the Louisiana Territory and Louisiana from France in 1803."
+  },
+  "27": {
+    "question": "Name one war fought by the United States in the 1800s.",
+    "options": {
+      "a": "Korean War",
+      "b": "World War I",
+      "c": "World War II",
+      "d": "Mexican-American War"
+    },
+    "answer": "d",
+    "note": "The United States fought four wars in the 1800s: the War of 1812, the Mexican-American War, the Civil War, and the Spanish-American War. The United States fought Mexico in the Mexican-American War from 1846 to 1848. The United States wanted to expand west. In 1846, the government of the United States decided it wanted the land that belonged to Mexico. Many citizens of the United States and Mexico lived on that land. The United States won the war. The land that was once part of Mexico became part of the United States. That land now forms the states of California, New Mexico, Utah, Nevada, Arizona, and parts of Colorado and Wyoming."
+  },
+  "28": {
+    "question": "How many amendments does the U.S. Constitution have?",
+    "options": {
+      "a": "20",
+      "b": "23",
+      "c": "25",
+      "d": "27"
+    },
+    "answer": "d",
+    "note": "The U.S. Constitution has 27 amendments"
+  },
+  "29": {
+    "question": "The &#8220;Rule of law&#8221; is:",
+    "options": {
+      "a": "Everyone must follow the law. Leaders obey some laws but not all. Government must obey the law. No one is above the law.",
+      "b": "Everyone must follow the law. Leaders must obey the law. Government is exempt from some laws. No one is above the law.",
+      "c": "Everyone must follow the law. Leaders must obey the law. Government must obey the law. The president is above the law.",
+      "d": "Everyone must follow the law. Leaders must obey the law. Government must obey the law. No one is above the law."
+    },
+    "answer": "d",
+    "note": "Rule of law refers to an end state in which all individuals and institutions, public and private, and the state itself are held accountable to the law, which is supreme."
+  },
+  "30": {
+    "question": "How many amendments does the U.S. Constitution have?",
+    "options": {
+      "a": "10",
+      "b": "21",
+      "c": "23",
+      "d": "27"
+    },
+    "answer": "d",
+    "note": "The Constitution has 27 amendments. Amendments are changes to the Constitution. Congress added the first ten amendments in 1791. They are called the Bill of Rights. Since then, Congress and the states added more amendments. The Twenty-seventh Amendment was added in 1992."
+  },
+  "31": {
+    "question": "The U.S. Constitution starts with the words &#8220;We the People&#8221;. What does &#8220;We the People&#8221; mean?",
+    "options": {
+      "a": "Self government",
+      "b": "Popular sovereignty",
+      "c": "Human rights",
+      "d": "both a &amp; b"
+    },
+    "answer": "d",
+    "note": "&#8220;We the People&#8221; means self government, popular sovereignty, consent of the governed, people should govern themselves, and an example of social contract"
+  },
+  "32": {
+    "question": "Why is the Declaration of Independence important?",
+    "options": {
+      "a": "It says America is free from British Control",
+      "b": "It identifies inherent rights",
+      "c": "It established another country up north",
+      "d": "Both a &amp; b"
+    },
+    "answer": "d",
+    "note": "The Declaration of Independence announced the United States&#8217; independence from Britain. The colonies adopted the Declaration of Independence on July 4, 1776. The Declaration of Independence said that the United States was free from Britain. It says all people are created equal, It identifies inherent rights and it identifies individual freedoms."
+  },
+  "33": {
+    "question": "Name one thing the U.S. Constitution does",
+    "options": {
+      "a": "forms the government",
+      "b": "protects the people",
+      "c": "defines powers of government",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "note": "The U.S. Constitution forms the government, defines the powers of government, defines the parts of government and protects of the people"
+  },
+  "34": {
+    "question": "There are three branches of government. Why?",
+    "options": {
+      "a": "Checks and Balances",
+      "b": "Separation of powers",
+      "c": "Both a &amp; b",
+      "d": "Reduce bureaucracy"
+    },
+    "answer": "c",
+    "note": "The reasons there are three branches of government are: So one part does not become too powerful, checks and balances, and separation of powers."
+  },
+  "35": {
+    "question": "What is the economic system of the United States?",
+    "options": {
+      "a": "Capitalism",
+      "b": "Communism",
+      "c": "Socialism",
+      "d": "Feudalism"
+    },
+    "answer": "a",
+    "note": "The economic system of the United States are Capitalism and the Free market economy"
+  },
+  "36": {
+    "question": "What is the supreme law of the land?",
+    "options": {
+      "a": "UN Charter of Rights and Freedoms",
+      "b": "The Constitution",
+      "c": "Bill of Rights",
+      "d": "Universal Declaration of Human Rights"
+    },
+    "answer": "b",
+    "note": "The supreme law of the land is the (U.S.) Constitution"
+  },
+  "37": {
+    "question": "Name two important ideas from the Declaration of Independence and the U.S. Constitution",
+    "options": {
+      "a": "Equality and Liberty",
+      "b": "Limited government and Socialism",
+      "c": "Monarchy and Socialism",
+      "d": "Religion and Natural rights"
+    },
+    "answer": "a",
+    "note": "The important ideas from the Declaration of Independence and the U.S. Constitution include but are not limited to: Equality, Liberty, Social contract, Natural rights, Limited government, and Self-government."
+  },
+  "38": {
+    "question": "Many documents influenced the U.S. Constitution. Name two",
+    "options": {
+      "a": "Declaration of Independence and UN Charter of Human Rights",
+      "b": "Articles of Federation and  Fundamental Orders of New York",
+      "c": "Articles of Confederation and Federalist Papers",
+      "d": "Anti-Federalist Papers and Virginia Law of Peace"
+    },
+    "answer": "c",
+    "note": "Many documents influenced the U.S. Constitution. These documents include Declaration of Independence, Articles of Confederation, Federalist Papers, Anti-Federalist Papers, Virginia Declaration of Rights, Fundamental Orders of Connecticut, Mayflower Compact and Iroquois Great Law of Peace"
+  },
+  "39": {
+    "question": "The words &#8220;Life, Liberty and the pursuit of Happiness&#8221; are in what founding document?",
+    "options": {
+      "a": "The U.S. Constitution",
+      "b": "Declaration of Independence",
+      "c": "Bill of Rights",
+      "d": "Articles of Confederation"
+    },
+    "answer": "b",
+    "note": "The words &#8220;Life, Liberty, and the pursuit of Happiness&#8221; are from the Declaration of Independence"
+  },
+  "40": {
+    "question": "What founding document said the American colonies were free from Britain?",
+    "options": {
+      "a": "The U.S. Constitution",
+      "b": "Declaration of Independence",
+      "c": "Bill of Rights",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "note": "The Declaration of Independence announced the United States&#8217; independence from Britain. The colonies adopted the Declaration of Independence on July 4, 1776. The Declaration of Independence said that the United States was free from Britain"
+  },
+  "41": {
+    "question": "What is one thing Benjamin Franklin is famous for?",
+    "options": {
+      "a": "U.S. diplomat",
+      "b": "The youngest member of the Constitutional Convention  ",
+      "c": "Third president of the United States",
+      "d": "Inventor of the airplane"
+    },
+    "answer": "a",
+    "note": "Benjamin Franklin was a famous American. He lived from 1706 to 1790. Benjamin Franklin was an inventor. He invented many things that we use today. He invented bifocal eyeglasses. He invented the Franklin stove. Franklin was the writer of Poor Richard&#8217;s Almanac. It was a book with information about the weather and other topics. Franklin became the first postmaster general of the United States in 1775. He created the postal, or mail system in the United States. Also, he started the first free libraries. Later, he was a U.S. diplomat. He was the oldest member of the Constitutional Convention."
+  },
+  "42": {
+    "question": "The colonists fought the British because:",
+    "options": {
+      "a": "Of high taxes, no freedom of speech and they didn&#039;t have self-government",
+      "b": "Of poor infrastructure, the British army stayed in their houses and they didn&#039;t have self-government",
+      "c": "Of high taxes, the British army stayed in their houses and they didn&#039;t have healthcare",
+      "d": "Of high taxes, the British army stayed in their houses and they didn&#039;t have their own self-government"
+    },
+    "answer": "d",
+    "note": "The colonists fought the British because they wanted to be free from Britain. They fought the British because of unfair taxes. They fought because they didn&#8217;t have self-government. When the American colonies formed, they were part of Britain. Britain increased taxes for colonists on things they bought and used every day, like tea. Many colonists were angry because no one represented their needs in the British government. Colonists believed they did not have self-government. The British forced colonists to allow British soldiers to sleep and eat in their homes. The colonists joined together to fight Britain and gain independence."
+  },
+  "43": {
+    "question": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+    "options": {
+      "a": "John Adams",
+      "b": "George Washington",
+      "c": "Thomas Jefferson",
+      "d": "James Madison"
+    },
+    "answer": "d",
+    "note": "James Madison, Alexander Hamilton, and John Jay wrote the Federalist Papers. The U.S. Constitution was written at the Constitutional Convention in 1787. People at the Constitutional Convention decided how the government should work. Then James Madison, Alexander Hamilton, and John Jay wrote the Federalist Papers. The Federalist Papers explained the new government. They said that the new United States needed the Constitution. Newspapers all over the United States published the Federalist Papers."
+  },
+  "44": {
+    "question": "There were ____ original states?",
+    "options": {
+      "a": "13",
+      "b": "10",
+      "c": "7",
+      "d": "5"
+    },
+    "answer": "a",
+    "note": "The 13 original states were New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, and Georgia. The 13 original states were the first 13 British colonies. British colonists traveled across the Atlantic Ocean from Europe. They came to the East Coast of the United States. They founded colonies there. Maryland, Virginia, and North Carolina are three of the 13 original states."
+  },
+  "45": {
+    "question": "Alexander Hamilton is famous for many things. Name one.",
+    "options": {
+      "a": "First Secretary of the Treasury",
+      "b": "Fourth president of the United States",
+      "c": "President during the War of 1812",
+      "d": "&quot;Father of the Constitution&quot;"
+    },
+    "answer": "a",
+    "note": "Alexander Hamilton is also famous for being One of the writers of the Federalist Papers, Helped establish the First Bank of the United States, Aide to General George Washington and being a Member of the Continental Congress"
+  },
+  "46": {
+    "question": "James Madison is famous for many things. Name one.",
+    "options": {
+      "a": "&quot;Father of the Constitution&quot;",
+      "b": "Third president of the United States",
+      "c": "Doubled the size of the United States",
+      "d": "Writer of the Declaration of Independence"
+    },
+    "answer": "a",
+    "note": "James Madison is also famous for being the Fourth president of the United States, President during the War of 1812 and one of the writers of the Federalist Papers."
+  },
+  "47": {
+    "question": "When was the Constitution written?",
+    "options": {
+      "a": "1776",
+      "b": "1786",
+      "c": "1787",
+      "d": "1790"
+    },
+    "answer": "c",
+    "note": "The Constitution was written in 1787. The American army won the War of Independence in 1783. For several years, the United States was governed by a congress of representatives from the states. But in 1787, delegates for the states met in Philadelphia to create a stronger federal government. They wrote the Constitution that gave the framework for the government we have today. The Constitution was written in 1787."
+  },
+  "48": {
+    "question": "When was the Declaration of Independence adopted?",
+    "options": {
+      "a": "December 7, 1787",
+      "b": "July 4, 1776",
+      "c": "July 4, 1876",
+      "d": "March 4, 1789"
+    },
+    "answer": "b",
+    "note": "On July 4, 1776, the colonists adopted the Declaration of Independence. Thomas Jefferson wrote the Declaration of Independence. It said the colonies were free from Great Britain. Representatives from the 13 colonies signed the Declaration. July 4, 1776, is a special date in American history. It is the day that the United States became an independent country, separate from Britain."
+  },
+  "49": {
+    "question": "There were 13 original states. Name 5.",
+    "options": {
+      "a": "New York, Kentucky, California, Virginia and Georgia",
+      "b": "Virginia, North Carolina, California, New York and Florida",
+      "c": "Washington, Oregon, New York, Florida and California",
+      "d": "Maryland, Virginia, New York, Delaware and North Carolina"
+    },
+    "answer": "d",
+    "note": "The 13 original states were New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, and Georgia. The 13 original states were the first 13 British colonies. British colonists traveled across the Atlantic Ocean from Europe. They came to the East Coast of the United States. They founded colonies there. Maryland, Virginia, and North Carolina are three of the 13 original states."
+  },
+  "50": {
+    "question": "George Washington is famous for many things. Name one:",
+    "options": {
+      "a": "First president of the United States",
+      "b": "One of the writers of the Federalist Papers",
+      "c": "Helped establish the First Bank of the United States",
+      "d": "First Secretary of the Treasury"
+    },
+    "answer": "a",
+    "note": "George Washington was also famous for General of the Continental Army, President of the Constitutional Convention and being considered Father of Our Country."
+  },
+  "51": {
+    "question": "Thomas Jefferson is famous for many things. Name one.",
+    "options": {
+      "a": "Writer of the Declaration of Independence",
+      "b": "General of the Continental Army",
+      "c": "President of the Constitutional Convention",
+      "d": "First president of the United States"
+    },
+    "answer": "a",
+    "note": "Thomas Jefferson was also famous for being Third president of the United States, Doubled the size of the United States (Louisiana Purchase), First Secretary of State, Founded the University of Virginia and Writer of the Virginia Statute on Religious Freedom"
+  },
+  "52": {
+    "question": "Who lived in America before the Europeans arrived?",
+    "options": {
+      "a": "Native Americans/ American Indians",
+      "b": "Canadians",
+      "c": "Floridians",
+      "d": "No one"
+    },
+    "answer": "a",
+    "note": "American Indians lived in America before the Europeans arrived. There were, and still are, many nations and tribes of American Indians. Each tribe has different religions, customs, and languages. Europeans arrived in America in the 1500s and later. Life changed for the American Indians who met the Europeans. Colonial settlers spread diseases to American Indians. Settlers fought American Indians and took their land. American Indians reacted in different ways to the Europeans. Some American Indians helped them. Some tribes signed treaties that gave land to the Europeans. Other tribes fought against Europeans in wars over land. American Indians lived in America before the Europeans arrived."
+  },
+  "53": {
+    "question": "Who was the first President?",
+    "options": {
+      "a": "Thomas Jefferson",
+      "b": "George Washington",
+      "c": "Barack Obama",
+      "d": "Theodore Roosevelt"
+    },
+    "answer": "b",
+    "note": "George Washington is the Father of Our Country. He is also the first president of the United States."
+  },
+  "54": {
+    "question": "Who wrote the Declaration of Independence?",
+    "options": {
+      "a": "George Washington",
+      "b": "James Madison",
+      "c": "Thomas Jefferson",
+      "d": "Abraham Lincoln"
+    },
+    "answer": "c",
+    "note": "Thomas Jefferson wrote the Declaration of Independence. Thomas Jefferson was an important political leader and thinker. He wanted to create a government for the United States that protected individual rights. Thomas Jefferson wrote that the United States was free from Britain. He wrote that all men are created equal. He wrote that everyone has the right to life, liberty, and the pursuit of happiness. The ideas in the Declaration helped shape the American government. These ideas are still important today."
+  },
+  "55": {
+    "question": "Why did colonists come to America?",
+    "options": {
+      "a": "For freedom, for economic opportunity and for education",
+      "b": "For freedom, for economic opportunity and for better healthcare",
+      "c": "For freedom, for education and to escape persecution",
+      "d": "For freedom, for economic opportunity and to escape persecution"
+    },
+    "answer": "d",
+    "note": "There were many reasons for colonists to come to America; they include freedom, political liberty, religious freedom, economic opportunity, practice their religion, and escape prosecution."
+  },
+  "56": {
+    "question": "Why is it important to pay federal taxes?",
+    "options": {
+      "a": "It&#039;s required by law (16th Amendment) and to fund the federal government",
+      "b": "To support our military",
+      "c": "Federal tax is optional and not mandatory",
+      "d": "To support the president of the United States"
+    },
+    "answer": "a",
+    "note": "Federal taxes are required by law to fund the federal government. It is also your civic duty."
+  },
+  "57": {
+    "question": "What is the capital of the United States?",
+    "options": {
+      "a": "Boston, MA",
+      "b": "New York, NY",
+      "c": "Washington, D.C.",
+      "d": "Philadelphia, PA"
+    },
+    "answer": "c",
+    "note": "Washington, D.C., is the capital of the United States. In 1800, the federal government moved to Washington, D.C. D.C. stands for District of Columbia. Senators and representatives meet at the Capitol building in Washington, D.C., to make laws. The president lives and works at the White House in Washington, D.C. Supreme Court judges make decisions at the Supreme Court building in Washington, D.C."
+  },
+  "58": {
+    "question": "Who can vote in federal elections, run for federal office, and serve on a jury in the United States?",
+    "options": {
+      "a": "Citizens of the United States",
+      "b": "Permanent Residence of the United States",
+      "c": "Anyone in the United States during time of election",
+      "d": "Anyone"
+    },
+    "answer": "a",
+    "note": "Only US Citizens can vote in federal election, run for federal office and serve on a jury in the United States."
+  },
+  "59": {
+    "question": "Where is the Statue of Liberty?",
+    "options": {
+      "a": "Long Island",
+      "b": "Boston Harbor",
+      "c": "San Francisco Bay",
+      "d": "New York Harbor"
+    },
+    "answer": "d",
+    "note": "The Statue of Liberty is on an island in New York Harbor. In 1886, France gave the statue to the United States. Many immigrants came by boat to New York. The Statue of Liberty was the first symbol of the United States they saw. The statue represents liberty. The statue is a famous symbol of hope. It is a symbol of starting a new life in the United States."
+  },
+  "60": {
+    "question": "What is Independence Day?",
+    "options": {
+      "a": "A holiday to celebrate U.S. independence (from Britain)",
+      "b": "The day when the South seceded from the Union",
+      "c": "The country&#039;s birthday",
+      "d": "Both a &amp; c"
+    },
+    "answer": "d",
+    "note": "We celebrate Independence Day on July 4. Representatives from the colonies signed the Declaration of Independence on July 4, 1776. This is the day the United States declared independence from Great Britain. On July 4, Americans celebrate in many different ways. We have parades, picnics, and watch fireworks. We celebrate Independence Day every year on July 4."
+  },
+  "61": {
+    "question": "What is Memorial Day?",
+    "options": {
+      "a": "A holiday to honor soldiers who died in military service",
+      "b": "A holiday to honor the victims of 9/11",
+      "c": "A holiday that recognizes everyone who served in the Armed Forces",
+      "d": "A holiday to honor the people who died fighting for civil rights"
+    },
+    "answer": "a",
+    "note": "Memorial Day is a holiday that honors soldiers who died in military service. It usually takes place on the last Monday of May."
+  },
+  "62": {
+    "question": "What is Veterans Day?",
+    "options": {
+      "a": "A holiday to honor soldiers who died in military service",
+      "b": "A holiday to honor the victims of 9/11",
+      "c": "A holiday that recognizes everyone who served in the Armed Forces",
+      "d": "A holiday to honor the people who died fighting for civil rights"
+    },
+    "answer": "c",
+    "note": "Veterans Day is a holiday that honors all who served in the United States Armed Forces (that were discharged under conditions other than dishonorable)"
+  },
+  "63": {
+    "question": "The Nation&#8217;s first motto was &#8220;E Pluribus Unum.&#8221; What does that mean?",
+    "options": {
+      "a": "Out of many, one",
+      "b": "We all become one",
+      "c": "Both a &amp; b",
+      "d": "We must become one"
+    },
+    "answer": "c",
+    "note": "The Nation&#8217;s first motto was &#8220;E Pluribus Unum.&#8221; which is Latin phrase that means &#8220;out of many, one&#8221; or &#8220;we all become one&#8221;. This statement describes the American determination to form a single nation from a collection of states"
+  },
+  "64": {
+    "question": "How many justices are on the Supreme Court?",
+    "options": {
+      "a": "3",
+      "b": "6",
+      "c": "9",
+      "d": "12"
+    },
+    "answer": "c",
+    "note": "There are nine justices on the Supreme Court. The president nominates Supreme Court justices. The Senate votes to confirm them. Supreme Court justices have the job for life or until they decide to retire."
+  },
+  "65": {
+    "question": "The House of Representatives has how many voting members?",
+    "options": {
+      "a": "100",
+      "b": "200",
+      "c": "435",
+      "d": "441"
+    },
+    "answer": "c",
+    "note": "There are 435 voting members in the House of Representatives. Each state is divided into districts. Each district elects one representative. California is the state with the most people. It has more than 50 representatives. States with fewer people, like Alaska, have only one representative."
+  },
+  "66": {
+    "question": "How many years is a U.S. Representative elected for?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "note": "We elect U.S. Representatives for 2 years."
+  },
+  "67": {
+    "question": "How many years is a U.S. Senator elected for?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "c",
+    "note": "We elect U.S. senators for six years. Senators can run for as many terms as they want. Their job is to represent all the people of their state in the Senate."
+  },
+  "68": {
+    "question": "What is the purpose of the 10th Amendment?",
+    "options": {
+      "a": "All people have equal rights",
+      "b": "Allows citizens to own guns",
+      "c": "Powers not given to the federal government belong to the states or to the people",
+      "d": "Limits the president to two terms"
+    },
+    "answer": "c",
+    "note": "The 10th Amendment states that powers not given to the federal government belong to the states or to the people"
+  },
+  "69": {
+    "question": "There are ______ U.S. Senators.",
+    "options": {
+      "a": "52",
+      "b": "100",
+      "c": "200",
+      "d": "435"
+    },
+    "answer": "b",
+    "note": "There are 100 U.S. senators. There are two senators from each state. All states have the same number of U.S. senators. There are 50 states, so there are 100 senators."
+  },
+  "70": {
+    "question": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
+    "options": {
+      "a": "To declare war",
+      "b": "To issue driver&#039;s licenses",
+      "c": "To provide schooling and education",
+      "d": "To provide protection (police)"
+    },
+    "answer": "a",
+    "note": "The powers of the United States government are listed in the Constitution. The powers of the federal government include the power to print money, create an army, and make treaties. Another is the power to declare war. The president can ask Congress for a declaration of war. In 1941, after Japan attacked Pearl Harbor, President Franklin D. Roosevelt asked Congress to declare war. Congress voted to declare war and the United States entered World War II."
+  },
+  "71": {
+    "question": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+    "options": {
+      "a": "Create an army",
+      "b": "Coin or print money",
+      "c": "Make treaties",
+      "d": "Provide schooling and education"
+    },
+    "answer": "d",
+    "note": "State governments have the power to do many things. They provide schooling and education. State and local governments provide protection and safety. States give drivers&#8217; licenses and approve zoning and land use."
+  },
+  "72": {
+    "question": "Under our Constitution, which of the following is NOT a power of the states?",
+    "options": {
+      "a": "To give a driver&#039;s license",
+      "b": "To create an army",
+      "c": "To approve zoning and land use",
+      "d": "To provide education"
+    },
+    "answer": "b",
+    "note": "State governments have the power to do many things. They provide schooling and education. State and local governments provide protection and safety. States give drivers&#8217; licenses and approve zoning and land use."
+  },
+  "73": {
+    "question": "We elect a President for _____ years",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "b",
+    "note": "We elect a president for a 4-year term. A candidate can run for president as many times as he or she wants. The person can only be elected president for eight years, or two terms of four years each. The Constitution says how many terms a president can serve. For example, President Dwight D. Eisenhower became president for the first time in 1953. Then he ran for president again. He won the election and, in 1957, became president for another four years."
+  },
+  "74": {
+    "question": "Name one power that is only for the federal government",
+    "options": {
+      "a": "Create school curriculums",
+      "b": "Set foreign policy",
+      "c": "Print stamps",
+      "d": "Issue licenses"
+    },
+    "answer": "b",
+    "note": "The powers that is only for the federal government include printing and minting money, declare war, create an army, make treaties, and set foreign policy"
+  },
+  "75": {
+    "question": "What are the two parts of the U.S. Congress?",
+    "options": {
+      "a": "The Senate and House of Representatives",
+      "b": "The courts and the Senate",
+      "c": "The courts and House of Representatives",
+      "d": "The Legislature and the Senate"
+    },
+    "answer": "a",
+    "note": "The House of Representatives and the Senate are the two parts of the United States Congress. The Capitol in Washington, D.C. houses both of these bodies. Members of both are selected through the process of direct election."
+  },
+  "76": {
+    "question": "What does the judicial branch do?",
+    "options": {
+      "a": "Review laws",
+      "b": "Resolves disputes",
+      "c": "Decides if a law goes against the Constitution",
+      "d": "All of the answers"
+    },
+    "answer": "d",
+    "note": "The judicial branch reviews laws and explains laws. It resolves disagreements. It also decides if a law is supported by the Constitution, or is constitutional. The Supreme Court and all other federal courts are part of the judicial branch."
+  },
+  "77": {
+    "question": "What does the President&#8217;s Cabinet do?",
+    "options": {
+      "a": "Advises the President",
+      "b": "Commands the U.S. Armed Forces",
+      "c": "Makes laws",
+      "d": "All of the answers"
+    },
+    "answer": "a",
+    "note": "The president&#8217;s cabinet advises the president. The people in the cabinet are the vice president and the heads of 15 government departments."
+  },
+  "78": {
+    "question": "What is the highest court in the United States?",
+    "options": {
+      "a": "The District Court",
+      "b": "The Supreme Court",
+      "c": "The Federal Court",
+      "d": "The Court of Appeals"
+    },
+    "answer": "b",
+    "note": "The Supreme Court is the highest court in the United States. The Supreme Court decides if a law goes against the Constitution. All other courts must follow the decisions of the Supreme Court. One example is the case of Brown v. Board of Education of Topeka in 1954. The case was about racial segregation in schools. Segregation was a system that separated people based on race and ethnic group. The Supreme Court decided that segregation in schools was against the Constitution. All states had to follow the Supreme Court decision. Segregation in school became illegal in the United States."
+  },
+  "79": {
+    "question": "Supreme Court justices serve for life. Why?",
+    "options": {
+      "a": "to save on costs",
+      "b": "to be independent of politics",
+      "c": "to increase their influence on the president",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "note": "Supreme Court justices serve for life so they can be independent of politics and to limit outside political influence"
+  },
+  "80": {
+    "question": "Why do some states have more Representatives than other states?",
+    "options": {
+      "a": "Because of the state&#039;s population",
+      "b": "Because of the geographical size of the state",
+      "c": "Because of the state&#039;s location",
+      "d": "Because the state&#039;s Representatives have seniority in the House of Representatives"
+    },
+    "answer": "a",
+    "note": "Some states have more representatives than other states because they have more people. We know how many people live in each state because of the census. Every ten years, the United States government counts the people of the United States in the census. The census results decide how many representatives come from each state. The state is divided into districts. Each district elects one representative. If the number of people in a state change, the number of representatives might change."
+  },
+  "81": {
+    "question": "Name the 3 branches of government",
+    "options": {
+      "a": "Congress, president and the courts",
+      "b": "State government, Executive and the courts",
+      "c": "Parliament, president and congress",
+      "d": "United Nations, federal and state."
+    },
+    "answer": "a",
+    "note": "There are three branches of the federal government: Congress, the president, and the courts. Each branch has a special role. The Congress is called the legislative branch. Congress writes, debates, and makes laws. The president leads the executive branch. The president enforces the laws. The president also represents the United States to other countries. The courts are called the judicial branch. The courts explain laws. They decide if laws follow the Constitution. They also decide if people have broken laws."
+  },
+  "82": {
+    "question": "What are two Cabinet-level positions?",
+    "options": {
+      "a": "Secretary of Health and Human Services and Secretary of the Navy",
+      "b": "Secretary of Weather and Secretary of Energy",
+      "c": "Secretary of the Interior and Secretary of History",
+      "d": "Secretary of State and Secretary of Labor"
+    },
+    "answer": "d",
+    "note": "Cabinet-level positions include the: Attorney General, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, Secretary of Education, Secretary of Energy, Secretary of Health and Human Services, Secretary of Homeland Security, Secretary of Housing and Urban Development, Secretary of the Interior, Secretary of Labor, Secretary of State, Secretary of Transportation, Secretary of the Treasury, Secretary of Veterans Affairs and Vice President (of the United States)."
+  },
+  "83": {
+    "question": "How long do Supreme Court justices serve?",
+    "options": {
+      "a": "Until they retire",
+      "b": "4 years",
+      "c": "For life",
+      "d": "1 &amp; 3"
+    },
+    "answer": "d",
+    "note": "Supreme Court justices serve a lifetime appointment or until they decide to retire"
+  },
+  "84": {
+    "question": "What is one part of the judicial branch?",
+    "options": {
+      "a": "Federal courts",
+      "b": "State courts",
+      "c": "Municipal courts",
+      "d": "Appeals courts"
+    },
+    "answer": "a",
+    "note": "The judicial branch is comprised of the Supreme Court and the Federal Courts"
+  },
+  "85": {
+    "question": "How many Supreme Court justices are usually needed to decide a case?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "c",
+    "note": "Five Supreme Court justices are usually needed to decide a case"
+  },
+  "86": {
+    "question": "Who becomes President if the President can no longer serve?",
+    "options": {
+      "a": "The Speaker of the House",
+      "b": "The President Pro Tempore",
+      "c": "The Secretary of State",
+      "d": "The Vice president"
+    },
+    "answer": "d",
+    "note": "If the president can no longer serve, the vice president becomes the president. This has occurred nine times in American history. For example, on November 22, 1963, President John F. Kennedy was shot in Dallas, Texas. Ninety-nine minutes after President Kennedy&#8217;s death, Vice President Lyndon Johnson was sworn in as president."
+  },
+  "87": {
+    "question": "Who does a U.S. Senator represent?",
+    "options": {
+      "a": "All people of the state",
+      "b": "Only the people in the state who voted for the senator",
+      "c": "The state legislatures",
+      "d": "Only the people of the state who belong to the senator&#039;s political party"
+    },
+    "answer": "a",
+    "note": "A U.S. senator represents all the people in a state. Each state has two senators. Every citizen who is 18 or older and living in a state can vote for both senators from that state. The number of U.S. senators does not change if a state has more people or fewer people living in it. This way, every state has equal representation in the Senate."
+  },
+  "88": {
+    "question": "The President of the United States is in charge of which branch of government?",
+    "options": {
+      "a": "Legislative Branch",
+      "b": "Executive Branch",
+      "c": "Judicial branch",
+      "d": "The courts"
+    },
+    "answer": "b",
+    "note": "The president is the leader of the executive branch. He or she signs and enforces laws. The president is the commander in chief of the military. The president represents the United States to other countries. He or she signs treaties with other countries. The president is in charge of the executive branch."
+  },
+  "89": {
+    "question": "Who is the Commander in Chief of the military?",
+    "options": {
+      "a": "The Vice President",
+      "b": "The President",
+      "c": "The Attorney General",
+      "d": "The Secretary of Defense"
+    },
+    "answer": "b",
+    "note": "The president is the commander in chief of the military. The president is a civilian, not a military official. The writers of the Constitution wanted the commander in chief to be a civilian who is elected by the people."
+  },
+  "90": {
+    "question": "What part of the federal government writes laws?",
+    "options": {
+      "a": "The President, Vice President and the cabinet",
+      "b": "The Supreme Court",
+      "c": "The states",
+      "d": "Congress, legislature and legislative branch"
+    },
+    "answer": "d",
+    "note": "Congress makes federal laws. A bill is a proposed law. Members of Congress can introduce bills. They debate the bill. They make changes. Congress must agree to send the bill to the president. When the president signs the bill, it becomes a federal law."
+  },
+  "91": {
+    "question": "Who signs bills to become laws?",
+    "options": {
+      "a": "The Secretary of State",
+      "b": "The Chief Justice of the Supreme Court",
+      "c": "The President",
+      "d": "The Vice President"
+    },
+    "answer": "c",
+    "note": "The president signs bills to become laws. A bill is a proposed law. Members of Congress write bills to address issues that are important to the American people. They vote on bills. If Congress accepts a bill, they send it to the president to be signed. If the president agrees with the bill, the president signs it. Then the bill becomes a law."
+  },
+  "92": {
+    "question": "Who vetoes bills?",
+    "options": {
+      "a": "The President Pro Tempore",
+      "b": "The speaker of the House",
+      "c": "The Vice President",
+      "d": "The President"
+    },
+    "answer": "d",
+    "note": "The president vetoes bills. The president has the power to stop a bill from becoming a law. The president can refuse to sign a bill that Congress approved. This is called a veto. The bill is sent back to Congress without the president&#8217;s signature. Congress can change the bill or vote again. If two-thirds of the House of Representatives and two-thirds of the Senate vote to override the veto, it becomes a law without the president&#8217;s signature."
+  },
+  "93": {
+    "question": "When do we celebrate Independence Day?",
+    "options": {
+      "a": "January 1",
+      "b": "July 4",
+      "c": "October 1",
+      "d": "December 25"
+    },
+    "answer": "b",
+    "note": "We celebrate Independence Day on July 4. Representatives from the colonies signed the Declaration of Independence on July 4, 1776. This is the day the United States declared independence from Great Britain. On July 4, Americans celebrate in many different ways. We have parades, picnics, and watch fireworks. We celebrate Independence Day every year on July 4."
+  },
+  "94": {
+    "question": "Name two national U.S. holidays.",
+    "options": {
+      "a": "Citizenship Day and Columbus Day",
+      "b": "April Fool&#039;s Day and Labor Day",
+      "c": "Valentine&#039;s Day and President&#039;s Day",
+      "d": "Labor Day and Thanksgiving"
+    },
+    "answer": "d",
+    "note": "National holidays honor special events and important people in American history. Some holidays honor individuals. On Martin Luther King, Jr. Day, we honor a man who worked for equality for all Americans. Columbus Day commemorates the day Christopher Columbus arrived in the Americas. Some holidays honor groups of people. Veterans Day and Memorial Day honor people who served in the military and who died for their country. On Labor Day, we celebrate American workers. On Presidents&#8217; Day, we honor the work of American presidents. On Thanksgiving and Independence Day we remember important events in U.S. history. Christmas and New Year&#8217;s Day are national holidays in the winter season. There are also other holidays during this time."
+  },
+  "95": {
+    "question": "What did Martin Luther King, Jr. do?",
+    "options": {
+      "a": "Ran for the president of the United States",
+      "b": "Fought for women&#039;s suffrage",
+      "c": "Became a U.S. Senator",
+      "d": "Fought for civil rights"
+    },
+    "answer": "d",
+    "note": "Martin Luther King, Jr., fought for civil rights and worked for equality for all Americans. In some places, it was difficult for African Americans and other groups to vote in elections. One citizen who is famous for helping the government change is Martin Luther King, Jr. He worked for equality for all Americans. He led thousands of men and women in nonviolent protests. Martin Luther King, Jr. believed that nonviolent protest was more powerful than violence. The government passed the Civil Rights Act of 1964 and the Voting Rights Act of 1965. These laws ended segregation and protected voting rights. On April 4, 1968, Martin Luther King, Jr. was killed. Each year in January, we celebrate Martin Luther King, Jr. Day."
+  },
+  "96": {
+    "question": "What happened on September 11, 2001 in the United States?",
+    "options": {
+      "a": "Terrorists attacked the United States",
+      "b": "The stock market crashed",
+      "c": "Same-sex marriage was legalized",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "note": "On 11 September 2001 (known as 9/11 in America), Islamist extremists hijacked four planes that were flying above the US. Two of them were flown into the twin towers of the World Trade Center in New York. Another was crashed into the Pentagon, the top military building in the capital city, Washington DC."
+  },
+  "97": {
+    "question": "What movement tried to end racial discrimination?",
+    "options": {
+      "a": "Conservation",
+      "b": "Women&#039;s suffrage",
+      "c": "Civil rights movement",
+      "d": "Prohibition"
+    },
+    "answer": "c",
+    "note": "The civil rights movement tried to end racial discrimination. Most African Americans in the United States were slaves until the end of the Civil War in 1865. Unfair treatment of African Americans continued into the 1900s. In many places, African Americans were not allowed to vote. They had to go to separate schools, and use separate public spaces. In the 1950s and 1960s, people of all races worked for equal rights for all Americans. People gave speeches. They organized peaceful marches and protests. They demanded that the government change its laws and protect the rights of all Americans."
+  },
+  "98": {
+    "question": "Name one example of an American innovation",
+    "options": {
+      "a": "Skyscrapers",
+      "b": "Light bulb",
+      "c": "Assembly line",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "note": "Examples of American innovations include but are not limited to: Light bulb, Automobile (cars, internal combustion engine), skyscrapers, airplane, assembly line, landing on the moon, and integrated circuit (IC)"
+  },
+  "99": {
+    "question": "What was the main concern of the United States during the Cold War?",
+    "options": {
+      "a": "Slavery",
+      "b": "Communism",
+      "c": "The Great Depression",
+      "d": "Climate Change"
+    },
+    "answer": "b",
+    "note": "The United States&#8217; main concern during the Cold War was communism. The Cold War was not a traditional war. It was cold because the United States and the Soviet Union did not fight each other directly. The Cold War began after World War II ended in 1945. The Soviet Union was a communist country. Communism is an economic system where most property belongs to the government. The United States has a capitalist economy, where property usually belongs to individuals. The United States and the Soviet Union competed for world power. Leaders of both countries worried that the other would use the atomic bomb to turn the Cold War into a real war. This never happened. The Cold War ended in 1991 when the Soviet Union divided into many smaller countries."
+  },
+  "100": {
+    "question": "Name one American Indian tribe in the United States",
+    "options": {
+      "a": "Indians",
+      "b": "Seneca",
+      "c": "Mayan",
+      "d": "Aztec"
+    },
+    "answer": "b",
+    "note": "American Indian tribes in the United States include but are not limited to: Apache, Blackfeet, Cayuga, Cherokee, Cheyenne, Chippewa, Choctaw, Creek, Crow, Hopi, Huron, Inupiat, Lokata, Mohawk, Mohegan, Navajo, Oneida, Onondaga, Pueblo, Seminole, Seneca, Shawnee, Sioux, Teton, and Tuscarora"
+  },
+  "101": {
+    "question": "Name one war fought by the United States in the 1900s.",
+    "options": {
+      "a": "Civil War",
+      "b": "War of 1812",
+      "c": "Revolutionary War",
+      "d": "World War I"
+    },
+    "answer": "d",
+    "note": "The United States fought five wars in the 1900s: World War I, World War II, the Korean War, the Vietnam War, and the Gulf War. In 1917, 2 million American soldiers went to France to help end World War I. The United States joined France, Britain, and Russia in a war against Germany and Austria-Hungary. The war ended in 1918."
+  },
+  "102": {
+    "question": "Name one U.S. military conflict after the September 11, 2001 attacks",
+    "options": {
+      "a": "War in Afghanistan",
+      "b": "Persian Gulf War",
+      "c": "World War II",
+      "d": "Vietnam War"
+    },
+    "answer": "a",
+    "note": "U.S. military conflicts after the September 11, 2001 attacks included the (Global) War on Terror, War in Afghanistan, and the War in Iraq"
+  },
+  "103": {
+    "question": "Why did the United States enter the Persion Gulf War?",
+    "options": {
+      "a": "stop the spread of communism",
+      "b": "to force the Iraqi military from Kuwait",
+      "c": "stop the spread of Iran&#039;s influence",
+      "d": "for its resources"
+    },
+    "answer": "b",
+    "note": "The United States entered the Persion Gulf War to force the Iraqi military from invading Kuwait"
+  },
+  "104": {
+    "question": "Who was the President during World War II and the Great Depression?",
+    "options": {
+      "a": "Calvin Coolidge",
+      "b": "Herbert Hoover",
+      "c": "Franklin Roosevelt",
+      "d": "Harry Truman"
+    },
+    "answer": "c",
+    "note": "Franklin Roosevelt was president of the United States during the Great Depression and World War II. Franklin Roosevelt became president in 1933. The United States economy was weak. Banks failed. Many people did not have jobs. Franklin Roosevelt tried to fix the economy. He made rules for banks and the stock market. He started programs to create jobs and help workers across the country. The United States joined World War II in 1941. Americans joined Britain and the Soviet Union to fight against Germany, Italy, and Japan. Franklin Roosevelt was the president until he died in 1945. Roosevelt led America through the challenges of the Great Depression and World War II."
+  },
+  "105": {
+    "question": "Why did the United States enter the Vietnam War?",
+    "options": {
+      "a": "It was rich in resources",
+      "b": "Fight the Japanese",
+      "c": "Stop the spread of communism",
+      "d": "Stop the spread of fascism"
+    },
+    "answer": "c",
+    "note": "The United States entered the Vietnam War to stop the spread of communism"
+  },
+  "106": {
+    "question": "What did the civil rights movement do?",
+    "options": {
+      "a": "Gave women the right to vote",
+      "b": "Freed the slaves",
+      "c": "Gave minorities the right to vote",
+      "d": "Fought to end racial discrimination"
+    },
+    "answer": "d",
+    "note": "The civil rights movement tried to end racial discrimination. Most African Americans in the United States were slaves until the end of the Civil War in 1865. Unfair treatment of African Americans continued into the 1900s."
+  },
+  "107": {
+    "question": "What are the four amendments to the Constitution about who can vote?",
+    "options": {
+      "a": "Citizens twenty one (21) and older (can vote). You don\u2019t have to pay (a poll tax) to vote. Any citizen can vote. (Women and men can vote.) A male citizen of any race (can vote).",
+      "b": "Citizens sixteen(16) and older (can vote). You don\u2019t have to pay (a poll tax) to vote. Any citizen can vote. (Women and men can vote.) A male citizen of any race (can vote).",
+      "c": "Citizens eighteen (18) and older (can vote). You don\u2019t have to pay (a poll tax) to vote. Any citizen and immigrant can vote. (Women and men can vote.) A male citizen of any race (can vote).",
+      "d": "Citizens eighteen (18) and older (can vote). You don\u2019t have to pay (a poll tax) to vote. Any citizen can vote. (Women and men can vote.) A male citizen of any race (can vote)."
+    },
+    "answer": "d",
+    "note": "There are 27 amendments to the Constitution. Four of these amendments to the Constitution are about who can vote."
+  },
+  "108": {
+    "question": "Why did the United States enter the Korean War?",
+    "options": {
+      "a": "It was rich in resources",
+      "b": "Fight the Japanese",
+      "c": "Stop the spread of communism",
+      "d": "Stop the spread of fascism"
+    },
+    "answer": "c",
+    "note": "The United States entered the Korean War to stop the spread of communism"
+  },
+  "109": {
+    "question": "What do we show loyalty to when we say the Pledge of Allegiance?",
+    "options": {
+      "a": "Congress",
+      "b": "The President",
+      "c": "The United States",
+      "d": "The state where you live"
+    },
+    "answer": "c",
+    "note": "The Pledge of Allegiance is a promise to be loyal to the United States: \u0093I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.\u0094 We show loyalty to the United States when we say the Pledge of Allegiance."
+  },
+  "110": {
+    "question": "Who was the United States&#8217; main rival during the Cold War?",
+    "options": {
+      "a": "China",
+      "b": "Great Britain",
+      "c": "Vietnam",
+      "d": "Soviet Union"
+    },
+    "answer": "d",
+    "note": "The United States&#8217; main rival during the Cold War was the Soviet Union (USSR, Russia)."
+  },
+  "111": {
+    "question": "What is the responsibility that is only for U.S. Citizens?",
+    "options": {
+      "a": "Be respectful of others",
+      "b": "Pay taxes",
+      "c": "Serve on a jury",
+      "d": "Obey the law"
+    },
+    "answer": "c",
+    "note": "United States citizens vote in federal elections and serve on juries. It is the responsibility of United States citizens to vote in federal elections. Voting is important. However, there is no law that says citizens must vote. It is also the responsibility of citizens to serve on a jury when they are asked. If a citizen gets a court letter to serve on a jury, the person must go. A jury is a group of citizens in a courtroom that listen to a trial. The jury decides the outcome of the trial."
+  },
+  "112": {
+    "question": "When must all men register for the Selective Service?",
+    "options": {
+      "a": "All male between the age of 16 &#8211; 21 must register within 30 days of arriving to the US and within 30 days of their 18th birthday.",
+      "b": "All male between the age of 18 &#8211; 21 must register within 30 days of arriving to the US and within 30 days of their 18th birthday.",
+      "c": "All male between the age of 16 &#8211; 25 must register within 30 days of arriving to the US and within 30 days of their 18th birthday.",
+      "d": "All male between the age of 18 &#8211; 25 must register within 30 days of arriving to the US and within 30 days of their 18th birthday."
+    },
+    "answer": "d",
+    "note": "Under current law, all male U.S. citizens between 18\u201325 years are required to register with Selective Service within 30 days of their 18th birthday."
+  },
+  "113": {
+    "question": "What are three rights of everyone living in the United States?",
+    "options": {
+      "a": "Freedom of speech, freedom of religion and freedom of expression",
+      "b": "Freedom of religion, freedom of expression and freedom to make treaties with other countries",
+      "c": "Freedom of speech, freedom of expression and freedom to run for president",
+      "d": "Freedom to petition the government, freedom of expression and freedom to disobey traffic laws"
+    },
+    "answer": "a",
+    "note": "Individual freedoms, or rights, are protected in the United States. Many of these rights are for everyone. Rights of US Citizens include: Freedom of expression, Freedom of speech, Freedom of assembly, Freedom to petition the government, Freedom of religion and The right to bear arms"
+  },
+  "114": {
+    "question": "Which of the following is a right only for U.S. Citizens?",
+    "options": {
+      "a": "Vote in a federal election and serve on a jury",
+      "b": "Serve on a jury and free access to healthcare",
+      "c": "Run for federal office and serve on a jury.",
+      "d": "Vote in a federal election and run for federal office."
+    },
+    "answer": "d",
+    "note": "The right to vote in a federal election and to run for federal office is only for U.S. citizens."
+  },
+  "115": {
+    "question": "When did the Great Depression Start?",
+    "options": {
+      "a": "1920",
+      "b": "1929",
+      "c": "1939",
+      "d": "1949"
+    },
+    "answer": "b",
+    "note": "The Great Depression started when the stock market crashed in 1929"
+  },
+  "116": {
+    "question": "Why did the United States enter World War II?",
+    "options": {
+      "a": "Japanese attacked Pearl Harbor",
+      "b": "To get out of the Great Depression",
+      "c": "Give the military something to do",
+      "d": "Fight the threat of communism"
+    },
+    "answer": "a",
+    "note": "The United States entered World War II because the Japanese attacked Pearl Harbor, to support the Allied Powers (England, France, and Russia), and to oppose the Axis Powers (Germany, Italy, and Japan)"
+  },
+  "117": {
+    "question": "Dwight Eisenhower is famous for many things. Name one.",
+    "options": {
+      "a": "General during World War II",
+      "b": "Launched astronauts into space",
+      "c": "Developed nuclear bombs that were dropped into Japan during World War II",
+      "d": "Pulled the United States from the Great Depression"
+    },
+    "answer": "a",
+    "note": "Dwight Eisenhower is famous for many things. He was a General during World War II, was the 34th president of the United States during and at the end of the Korean War, and signed the Federal-Aid Highway Act of 1956 (Created the Interstate System)."
+  },
+  "118": {
+    "question": "Why does the flag have 13 stripes?",
+    "options": {
+      "a": "Because the stripes represent the original colonies",
+      "b": "Because it was considered lucky to have 13 stripes on a flag",
+      "c": "Because the stripes represent the number of signatures on the U.S. Constitution",
+      "d": "Because the stripes represent the members of the Second Continental Congress"
+    },
+    "answer": "a",
+    "note": "The United States flag has 13 stripes because there were 13 original colonies. Today, the United States is an independent country. Before that, it was 13 separate colonies. Great Britain governed the 13 colonies. The 13 colonies worked together to fight the British. They won the War of Independence in 1783. The colonies became an independent country, called the United States of America. The 13 original colonies became the first states. The flag has 13 stripes to represent the 13 original colonies."
+  },
+  "119": {
+    "question": "What is the name of the national anthem?",
+    "options": {
+      "a": "America the Beautiful",
+      "b": "My Country Tis of Thee",
+      "c": "The Star-Spangled Banner",
+      "d": "God Bless the U.S.A."
+    },
+    "answer": "c",
+    "note": "&#8220;The Star-Spangled Banner&#8221; is the name of our national anthem. The song is about the United States flag. In the War of 1812, the United States fought the British. One night during the war, British ships attacked Fort McHenry in Baltimore. Bombs exploded all night. An American man named Francis Scott Key watched the battle from a ship. He worried that the United States might lose the battle. The next morning, he saw the United States&#8217; flag flying in the wind. He knew that the United States won the battle. Then he wrote the words to &#8220;The Star-Spangled Banner.&#8221; &#8220;The Star-Spangled Banner&#8221; is now the national anthem of the United States."
+  },
+  "120": {
+    "question": "Why does the flag have 50 stars?",
+    "options": {
+      "a": "Because there is one star for each president",
+      "b": "Because there is one star for each state",
+      "c": "Because there were 50 original colonies",
+      "d": "Because there were 50 people who originally came to the United States"
+    },
+    "answer": "b",
+    "note": "The United States flag has 50 stars because there is one star for each state. After independence from Great Britain, the United States had 13 states. Then, the United States grew. Many immigrants came from around the world. The country grew bigger. The borders expanded. New states formed. A star was added to the flag for each new state. Today we have 50 states, so the flag has 50 stars."
+  },
+  "121": {
+    "question": "What was the Great Depression?",
+    "options": {
+      "a": "Period of low morale in the country during WWII",
+      "b": "A nickname for the Grand Canyon",
+      "c": "Longest economic recession in modern history",
+      "d": "A long period of time where the United States had the lowest literacy rates"
+    },
+    "answer": "c",
+    "note": "The Great Depression happened during the 1930s and was the longest economic recession in modern history"
+  },
+  "122": {
+    "question": "What is the form of government of the United States?",
+    "options": {
+      "a": "Republic, Constitution-based federal republic and Representative democracy",
+      "b": "Socialism, Constitution-based federal republic and Representative democracy",
+      "c": "Republic, Constitution-based federal republic and Monarchy",
+      "d": "Republic, an oligarchy and Representative democracy"
+    },
+    "answer": "a",
+    "note": "United States government is a republic, constitution-based federal republic and representative democracy. Other forms of government in other countries include socialism, communism, autocracy, monarchy and oligarchy."
+  },
+  "123": {
+    "question": "How are changes made to the U.S. Constitution?",
+    "options": {
+      "a": "amendments",
+      "b": "law changes",
+      "c": "proposals",
+      "d": "bills"
+    },
+    "answer": "a",
+    "note": "Changes are made to the U.S. Constitution with amendments through the amendment process"
+  },
+  "124": {
+    "question": "What does Bill of Rights protect?",
+    "options": {
+      "a": "rights of businesses",
+      "b": "human rights worldwide",
+      "c": "rights of Americans",
+      "d": "rights of the British"
+    },
+    "answer": "c",
+    "note": "The Bill of Rights protects the basic rights of Americans and the basic rights of people living in the United States"
+  },
+  "125": {
+    "question": "Name the powers of the U.S. Congress.",
+    "options": {
+      "a": "Writes laws, Declares war and makes the federal budget.",
+      "b": "Writes laws, select cabinet members and makes the federal budget",
+      "c": "Selects the supreme court judges, writes laws and makes federal budget",
+      "d": "Writes laws, selects the supreme court judges and declares war"
+    },
+    "answer": "a",
+    "note": "The powers of US Congress include writing laws, declaring war and reviewing and approving the federal budget."
+  },
+  "126": {
+    "question": "Why do U.S. representatives serve shorter terms than U.S. senators?",
+    "options": {
+      "a": "Representatives quit too frequently",
+      "b": "The president wants more frequent turnover of the representatives",
+      "c": "It aligns with the state elections",
+      "d": "To more closely follow public opinion"
+    },
+    "answer": "d",
+    "note": "US representatives serves shorter terms to more closely follow public opinion"
+  },
+  "127": {
+    "question": "How many senators does each state have?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "note": "Every state has 2 senators."
+  },
+  "128": {
+    "question": "Why does each state have two senators?",
+    "options": {
+      "a": "The senate cannot function with more senators",
+      "b": "Equal representation (for small states) and the Great Compromise (Connecticut Compromise)",
+      "c": "There&#039;s not enough funding for more senators",
+      "d": "One represents the state and one represents the federal government"
+    },
+    "answer": "b",
+    "note": "Historically each state was given 2 senators so every state has equal representation and it was part of the Great Compromise."
+  },
+  "129": {
+    "question": "Who elects US senators",
+    "options": {
+      "a": "Citizens of major cities",
+      "b": "Citizens from the state",
+      "c": "All residences of major cities",
+      "d": "All residences of the state"
+    },
+    "answer": "b",
+    "note": "Only US citizens of the state can vote for US senators."
+  },
+  "130": {
+    "question": "Who does a member of the House of Representatives represent?",
+    "options": {
+      "a": "Citizens of the state",
+      "b": "Residence of the state",
+      "c": "Citizens in their congressional district",
+      "d": "All Citizens in the US"
+    },
+    "answer": "c",
+    "note": "Each US representative will represent citizens in their congressional district"
+  },
+  "131": {
+    "question": "Who elects members of the House of Representatives?",
+    "options": {
+      "a": "Citizens from their congressional district",
+      "b": "Citizens of the state",
+      "c": "Residence of the state",
+      "d": "All Citizens in the US"
+    },
+    "answer": "a",
+    "note": "Only citizens from their congressional district can elect the representative from that district."
+  },
+  "132": {
+    "question": "The President of the United States can serve only two terms. Why?",
+    "options": {
+      "a": "To give other people a chance to run for president",
+      "b": "Because of the 22nd Amendment and to keep the president from becoming too powerful",
+      "c": "Because of 1st Amendment and to keep the president from becoming too powerful",
+      "d": "There&#039;s too much pressure for someone to serve more than 2 terms as a president"
+    },
+    "answer": "b",
+    "note": "The 22nd amendment prevents anyone from serving more than 2 terms and to keep the president from becoming from too powerful"
+  },
+  "133": {
+    "question": "Name one power of the president",
+    "options": {
+      "a": "Signs bill into law",
+      "b": "Commander in Chief of the military",
+      "c": "Vetoes Bills",
+      "d": "Any of the above"
+    },
+    "answer": "d",
+    "note": "The powers of the president include signing bills into law, vetoes bills, enforces laws, commander in chief of the military and chief diplomat"
+  },
+  "134": {
+    "question": "Who appoints federal judges?",
+    "options": {
+      "a": "The Secretary of State",
+      "b": "The Chief Justice of the Supreme Court",
+      "c": "The President",
+      "d": "The Vice President"
+    },
+    "answer": "c",
+    "note": "The president of the United States appoints judges."
+  },
+  "135": {
+    "question": "Name one part of the executive branch",
+    "options": {
+      "a": "Any of the below",
+      "b": "President of the United States",
+      "c": "Cabinet",
+      "d": "Federal departments and agencies"
+    },
+    "answer": "a",
+    "note": "The executive branch includes the president of the United States, the cabinet members and the federal departments and agencies"
+  },
+  "136": {
+    "question": "What are two Cabinet-level positions?",
+    "options": {
+      "a": "Attorney General and Secretary of Agriculture",
+      "b": "Secretary of Justice and Chief of Staff",
+      "c": "Secretary of Arts and Secretary of History",
+      "d": "Secretary of Police and Secretary of Health"
+    },
+    "answer": "a",
+    "note": "Cabinet-level positions include the: Attorney General, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, Secretary of Education, Secretary of Energy, Secretary of Health and Human Services, Secretary of Homeland Security, Secretary of Housing and Urban Development, Secretary of the Interior, Secretary of Labor, Secretary of State, Secretary of Transportation, Secretary of the Treasury, Secretary of Veterans Affairs and Vice President (of the United States)."
+  },
+  "137": {
+    "question": "Why is the Electoral College important?",
+    "options": {
+      "a": "2 &amp; 3",
+      "b": "It decides who is elected president",
+      "c": "It provides a compromise between the popular election of the president and congressional selection",
+      "d": "It provides a pathway for citizens to become elected leaders"
+    },
+    "answer": "a",
+    "note": "The electoral college is important because it decides who is president and it provides a compromise between the popular election of the president and congressional selection"
+  },
+  "138": {
+    "question": "Name two promises that new citizens make in the Oath of Allegiance",
+    "options": {
+      "a": "Give up loyalty to other countries and defend the (U.S.) Constitution",
+      "b": "Be free to express yourself and not cause trouble",
+      "c": "Serve in the military and bear arms",
+      "d": "To petition the government if it does anything wrong and be employed in the United States"
+    },
+    "answer": "a",
+    "note": "The promises that new citizens make in the Oath of Allegiance are: Give up loyalty to other countries, defend the (U.S.) Constitution, obey the laws of the United States, serve in the military (if needed), serve (help, do important work for) the nation (if needed), and be loyal to the United States"
+  },
+  "139": {
+    "question": "How can people become United States citizens?",
+    "options": {
+      "a": "Naturalize",
+      "b": "Derive citizenship",
+      "c": "Be born in the United States",
+      "d": "Any of the above"
+    },
+    "answer": "d",
+    "note": "People can become United States citizens by naturalizing themselves in the United States, derive citizenship if you are under 18 years of age and you have at least one parent with U.S. citizenship, and be born in the United States."
+  },
+  "140": {
+    "question": "What are two examples of civic participation in the United States?",
+    "options": {
+      "a": "Join a political party and join a civic group",
+      "b": "Get a driver&#039;s license and attend school",
+      "c": "Volunteer and pay taxes",
+      "d": "Get a job and protest"
+    },
+    "answer": "a",
+    "note": "Examples of civic participation in the United States include: vote, run for office, join a political party, help with a campaign, join a civic group, join a community group, give an elected official your opinion (on an issue), contact elected officials, support or oppose an issue or policy, and write to a newspaper"
+  },
+  "141": {
+    "question": "What is one way Americans can serve their country?",
+    "options": {
+      "a": "Volunteer",
+      "b": "protest",
+      "c": "vote",
+      "d": "get a job"
+    },
+    "answer": "c",
+    "note": "The ways Americans can serve their country include: vote, pay taxes, obey the law, serve in the military, run for office, and work for local, state, or federal government"
+  },
+  "142": {
+    "question": "It is important for all men age 18 through 25 to register for the Selective Service. Name one reason why",
+    "options": {
+      "a": "Required by law",
+      "b": "Civic duty",
+      "c": "Makes the draft fair, if needed",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "note": "For all men age 18 through 25, it&#8217;s required by law to register for the Selective Service. It is their civic duty and makes the draft fair if conscription is necessary."
+  },
+  "143": {
+    "question": "What group of people was taken and sold as slaves?",
+    "options": {
+      "a": "Africans",
+      "b": "Asians",
+      "c": "Indians",
+      "d": "Native Americans"
+    },
+    "answer": "a",
+    "note": "People from Africa were taken and sold as slaves during the 18th and 19th century"
+  },
+  "144": {
+    "question": "What war did the Americans fight to win independence from Britain?",
+    "options": {
+      "a": "War of 1812",
+      "b": "The Civil War",
+      "c": "The Revolutionary War",
+      "d": "Cold War"
+    },
+    "answer": "c",
+    "note": "The Americans fought the Revolutionary War to win independence from Britain. Also known as the American Revolution and/or the War for (American) Independence"
+  },
+  "145": {
+    "question": "The American Revolution had many important events. Name two",
+    "options": {
+      "a": "Battle of Bunker Hill and Battle of Gettysburg",
+      "b": "Declaration of Independence and Washington Crossing the Delaware (Battle of Trenton)",
+      "c": "Battle of Yorktown and the Burning of the White House",
+      "d": "Declaration of Independence and the Freeing of Slaves"
+    },
+    "answer": "b",
+    "note": "The American Revolution had many important events. These include but are not limited to: (Battle of) Bunker Hill, Declaration of Independence, Washington Crossing the Delaware (Battle of Trenton), (Battle of) Saratoga, Valley Forge (Encampment), and (Battle of) Yorktown (British surrender at Yorktown)"
+  },
+  "146": {
+    "question": "What Founding document was written in 1787",
+    "options": {
+      "a": "US Constitution",
+      "b": "Stamps Act",
+      "c": "Townshend Acts",
+      "d": "Boston Tea Party (Tea Act)"
+    },
+    "answer": "a",
+    "note": "The US Constitution was written in 1787."
+  },
+  "147": {
+    "question": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+    "options": {
+      "a": "Alexander Hamilton",
+      "b": "George Washington",
+      "c": "Abraham Lincoln",
+      "d": "Lucy Stone"
+    },
+    "answer": "a",
+    "note": "The 4 writers include: (James) Madison, (Alexander) Hamilton, (John) Jay and Publius"
+  },
+  "148": {
+    "question": "Why were the Federalist Papers important?",
+    "options": {
+      "a": "It was the detailed version of the US Constitution",
+      "b": "It rallied people to support the revolution",
+      "c": "They helped people understand and supported the passing of the (U.S.) Constitution.",
+      "d": "It gave people hope"
+    },
+    "answer": "c",
+    "note": "The Federalist Papers helped people understand the US Constitution and supported the passing of the US Constitution."
+  },
+  "149": {
+    "question": "What U.S. war ended slavery?",
+    "options": {
+      "a": "War of 1812",
+      "b": "The Revolutionary War",
+      "c": "The Civil War",
+      "d": "World War I"
+    },
+    "answer": "c",
+    "note": "The Civil War was the war that ended slavery in the United States."
+  },
+  "150": {
+    "question": "What amendment gives citizenship to all persons born in the United States?",
+    "options": {
+      "a": "11th amendment",
+      "b": "12th amendment",
+      "c": "13th amendment",
+      "d": "14th amendment"
+    },
+    "answer": "d",
+    "note": "The 14th amendment was ratified on July 9, 1868 and granted citizenship to &#8220;all persons born or naturalized in the United States&#8221; which included former slaves recently freed"
+  },
+  "151": {
+    "question": "When did all men get the right to vote?",
+    "options": {
+      "a": "After the Civil War",
+      "b": "During Reconstruction",
+      "c": "(With the) 15th Amendment",
+      "d": "All of the above"
+    },
+    "answer": "d",
+    "note": "All men got the right to vote after the civil war which is when Reconstruction began. The 15th amendment which was ratified in 1870 granted former slaves the right to vote."
+  },
+  "152": {
+    "question": "Why did the United States enter World War I?",
+    "options": {
+      "a": "Because German attacked U.S. (civilian) ships",
+      "b": "To support the Allied Powers (England, France, Italy, and Russia) and oppose the central powers",
+      "c": "1 &amp; 2",
+      "d": "In retaliation on the attack on Pearl Harbor"
+    },
+    "answer": "c",
+    "note": "The United States enter World War I because Germany attacked U.S. (civilian) ships, to support the Allied Powers (England, France, Italy, and Russia), and to oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)."
+  }
 }

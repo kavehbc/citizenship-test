@@ -3,7 +3,9 @@ import random
 import json
 
 lst_countries = {"canada": "Canada",
-                 "usa": "United States of America"}
+                 "usa": "United States of America",
+                 "australia": "Australia",
+                 "uk": "United Kingdom"}
 
 
 def get_random_questions_ids(db, questions_to_pick):
@@ -59,6 +61,7 @@ def main():
 
     # presenting questions
     user_answers = {}
+    results = {}
     counter = 0
     with st.form(key='my_questions'):
         for question in selected_questions:
@@ -69,6 +72,8 @@ def main():
             question_options.extend(db[question]["options"].values())
             # random.shuffle(question_options)
             user_answers[question] = st.radio(question_text, options=question_options, key=question_key)
+            results[question] = st.empty()
+
         submit_button = st.form_submit_button(label='Submit and Check')
 
     # checking answers
@@ -77,15 +82,23 @@ def main():
         st_results = st.empty()
         correct_answers = 0
 
-        st.subheader("Wrong Answers")
+        # checking results
         for answer in user_answers:
             if user_answers[answer] == db[answer]["options"][db[answer]["answer"]]:
                 correct_answers += 1
+                results[answer].success(f"""
+                **Correct**
+                
+                {db[answer]["note"]}
+                """)
             else:
-                with st.expander(db[answer]["question"]):
-                    st.write(f":red[You Chose]: **{user_answers[answer]}**")
-                    st.write(f":green[Correct Answer]: **{db[answer]['options'][db[answer]['answer']]}**")
-                    st.write(db[answer]["note"])
+                results[answer].error(f"""
+                **Wrong**
+                
+                :green[Answer:] **:green[{db[answer]['options'][db[answer]['answer']]}]**
+                
+                {db[answer]["note"]}
+                """)
 
         st_results.info(f"**Correct Answers:** {correct_answers} / {len(selected_questions)}")
 
