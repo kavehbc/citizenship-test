@@ -3,7 +3,8 @@
 This is a public repository of the citizenship questions for the following countries:
 
 - Australia
-- Canada
+- Canada (English)
+- Canada (French)
 - United Kingdom (UK)
 - United States of America (U.S.A)
 
@@ -49,11 +50,13 @@ ___
 
 Questions are collected from the following resources:
 
-- Canada
+- Canada (English)
   - https://www.citizenshipsupport.ca/free-simulation-test/
   - https://www.yourlibrary.ca/citizenship-test-answer-keys/
   - https://www.torontopubliclibrary.ca/new-to-canada/citizenship.jsp
   - https://citizenshiptests.org/
+- Canada (French)
+  - https://www.yourlibrary.ca/citizenship-test-answer-keys-french
 - United States of America
   - https://www.uscis.gov/citizenship-resource-center/find-study-materials-and-resources/study-for-the-test-2008-version/2008-civics-practice-test
   - https://citizenshiptests.org/

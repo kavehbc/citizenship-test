@@ -1,0 +1,2488 @@
+{
+  "1": {
+    "question": "Un membre du Parlement de Montréal annonce qu'elle va passer sa fin de semaine dans sa circonscription électorale. Cela signifie qu'elle :",
+    "options": {
+      "a": "Sera dans son bureau sur la Colline du Parlement.",
+      "b": "Visitera la province de Québec.",
+      "c": "Sera dans un quartier de Montréal, où elle a été élue.",
+      "d": "Partira en vacances."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "2": {
+    "question": "Après une élection fédérale, quel parti forme le nouveau gouvernement?",
+    "options": {
+      "a": "Le parti ayant le plus de représentants élus est invité par le Gouverneur Général à devenir le parti au pouvoir.",
+      "b": "Le Roi choisit lui-même un parti pour diriger le gouvernement.",
+      "c": "Le gouverneur général propose une loi pour que les représentants élus deviennent une entité gouvernante",
+      "d": "Les premiers ministres de chaque province choisissent un parti pour diriger le gouvernement."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "3": {
+    "question": "Combien de Canadiens environ ont pris part à la Première Guerre mondiale?",
+    "options": {
+      "a": "7 000.",
+      "b": "8 millions.",
+      "c": "Environ 60 000.",
+      "d": "Plus de 600 000."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "4": {
+    "question": "Le Canada a trois territores et combien de provinces?",
+    "options": {
+      "a": "13",
+      "b": "10",
+      "c": "3",
+      "d": "5"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "5": {
+    "question": "Fatima est une nouvelle immigrante au Canada. Quelle loi lui permet d'occuper un emploi à l'égal d'un homme?",
+    "options": {
+      "a": "L'égalité des femmes et des hommes",
+      "b": "L'égalité de toutes les races",
+      "c": "À travail égal, rémunération égale",
+      "d": "Égalité des droits."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "6": {
+    "question": "D'où vient le nom « Canada »?",
+    "options": {
+      "a": "D'un mot Inuit signifiant « pays »",
+      "b": "D'un mot français signifiant « réunion »",
+      "c": "D'un mot métis signifiant « rivières »",
+      "d": "De « kanata », le mot huron-iroquois signifiant village."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "7": {
+    "question": "Donnez un exemple de la manière dont vous pouvez faire preuve de responsabilité en vous impliquant au sein de votre communauté.",
+    "options": {
+      "a": "Se mêler de ses affaires",
+      "b": "Organiser une fête",
+      "c": "Garder sa propriété bien entretenue",
+      "d": "Faire du bénévolat"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "8": {
+    "question": "Donnez un exemple d'endroit où l'anglais et le français ont le même statut au Canada.",
+    "options": {
+      "a": "Dans les écoles",
+      "b": "Sur le lieu de travail",
+      "c": "Au Parlement canadien",
+      "d": "À l'hôtel de ville"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "9": {
+    "question": "Quel est la premiere vers de l'hymne national canadien?",
+    "options": {
+      "a": "Ô Canada! Terre de nos aïeux,",
+      "b": "Ô Canada! Province de nos aïeux,",
+      "c": "Ô Canada! Ton histoire est une épopée,",
+      "d": "Protégera nos foyers et nos droits"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "10": {
+    "question": "Comment les députés sont-ils choisis?",
+    "options": {
+      "a": "Nommés par le premier ministre",
+      "b": "Élus par les citoyens canadiens",
+      "c": "Nommés par le Roi.",
+      "d": "Élus par les ministres provinciaux"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "11": {
+    "question": "Comment les sénateurs sont-ils choisis?",
+    "options": {
+      "a": "Par le gouverneur général du Canada.",
+      "b": "Par les premiers ministres de toutes les provinces.",
+      "c": "Par le Roi.",
+      "d": "Les sénateurs sont attitrés par le gouverneur général sur la recommandation du Premier ministre."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "12": {
+    "question": "Comment un projet de loi devient-il une loi?",
+    "options": {
+      "a": "Le lieutenant-gouverneur doit approuver le projet de loi",
+      "b": "Approbation par la majorité à la Chambre des communes et au Sénat, puis par le gouverneur général",
+      "c": "Le Roi doit signer le projet de loi.",
+      "d": "Approbation des membres de l\\'Assemblée législative"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "13": {
+    "question": "Par qui un ministre du Cabinet est-il choisi?",
+    "options": {
+      "a": "Par le Roi.",
+      "b": "Par les électeurs.",
+      "c": "Par d\\'autres ministres du Cabinet.",
+      "d": "Par le premier ministre."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "14": {
+    "question": "Comment le gouvernement est-il formé après une élection fédérale?",
+    "options": {
+      "a": "Le parti ayant le plus de représentants élus prend le pouvoir. Le Roi choisit le premier ministre au sein de ce parti.",
+      "b": "Le parti ayant le plus de représentants élus prend le pouvoir. Le chef de ce parti devient le premier ministre.",
+      "c": "Le gouverneur général choisit un parti et un premier ministre pour diriger le gouvernement.",
+      "d": "Chaque province élit un représentant pour former le gouvernement. Le Roi choisit ensuite le premier ministre."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "15": {
+    "question": "Comment le premier ministre est-il choisi?",
+    "options": {
+      "a": "Il est nommé par le Roi",
+      "b": "Le gouverneur général et le Sénat nomment le premier ministre",
+      "c": "Le chef du parti ayant le plus grand nombre de représentants élus devient premier ministre",
+      "d": "Les députés élisent le premier ministre"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "16": {
+    "question": "Au Canada, a-t-on le droit de contester la fonction ou le comportement d'un agent de police?",
+    "options": {
+      "a": "Non, la fonction et le comportement des agents de police ne peuvent pas être contestés par les Canadiens.",
+      "b": "Oui, vous pouvez contester leur fonction, mais pas leur comportement.",
+      "c": "Oui, vous pouvez contester leur comportement, mais pas leur fonction.",
+      "d": "Oui, si vous estimez cette mesure nécessaire."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "17": {
+    "question": "Dans le système juridique canadien, que signifie « présomption d?innocence »?",
+    "options": {
+      "a": "Chacun est coupable jusqu?à preuve du contraire.",
+      "b": "La culpabilité est décidée par l?opinion publique.",
+      "c": "L?innocence est décidée par l?opinion publique.",
+      "d": "Chacun est innocent jusqu?à preuve du contraire."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "18": {
+    "question": "Dans les années 1960, le Québec connut une époque de changements rapides. Comment l'a-t-on appelée?",
+    "options": {
+      "a": "Le mouvement de l'Ouest.",
+      "b": "La Révolution.",
+      "c": "La Révolution tranquille",
+      "d": "La Francophonie."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "19": {
+    "question": "Dans quel secteur travaillent la plupart des Canadiens et des Canadiennes?",
+    "options": {
+      "a": "Ressources naturelles",
+      "b": "Tourisme",
+      "c": "Services",
+      "d": "Secteur manufacturier"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "20": {
+    "question": "Où plus de la moitié de la population canadienne habite-t-elle?",
+    "options": {
+      "a": "Centre du Canada",
+      "b": "Prairies",
+      "c": "Canada atlantique",
+      "d": "Nord du Canada"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "21": {
+    "question": "Nommez tous les partis politiques fédéraux représentés à la Chambre des communes ainsi que leur chef respectif.",
+    "options": {
+      "a": "Conservateur (Poilievre), NPD (Singh), Libéral (Trudeau), Bloc Québécois (Blanchet), Vert (May)",
+      "b": "Conservateur (Poilievre), Vert (May), Libéral (Trudeau), Bloc Québécois (Duceppe)",
+      "c": "NPD (Mulcair), Vert (May), Libéral (Rae), Bloc Québécois (Duceppe)",
+      "d": "Libéral (Ignatieff), Conservateur (Ambrose), NPD (Turmel), Rose (May)"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "22": {
+    "question": "Énumérez six responsabilités de citoyen",
+    "options": {
+      "a": "Trouver du travail, gagner de l'argent, élever une famille, payer ses impôts, tondre sa pelouse, voter",
+      "b": "Voter, adhérer à un parti politique, trouver du travail, respecter la loi, conduire prudemment, ramasser les rebuts",
+      "c": "Protéger l'environnement, ne pas jeter d'ordures, payer ses impôts, respecter la loi, aider les autres, respecter les autres",
+      "d": "Voter, aider les autres, protéger notre patrimoine et notre environnement, respecter les lois canadiennes, respecter les droits des autres, éliminer l?injustice"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "23": {
+    "question": "Nommez les cinq régions du Canada.",
+    "options": {
+      "a": "Centre-ouest, Nord, Sud, Est, Centre",
+      "b": "Provinces maritimes, Ontario, Québec, Prairies, et Colombie-Britannique",
+      "c": "Atlantique, Centre, Prairies, Côte Ouest, et Nord",
+      "d": "Ouest, Centre, Est, Prairies, et Territoires"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "24": {
+    "question": "Nommez trois autres droits protégés en vertu de la Charte canadienne des droits et libertés",
+    "options": {
+      "a": "Liberté d'expression, droit de posséder des terres et droit à un procès équitable.",
+      "b": "Liberté de circulation et d'établissement, multiculturalisme et droit des Autochtones",
+      "c": "Droit de faire du ski n'importe où au Canada, droit de se déplacer et droit de se réunir en public.",
+      "d": "Droit de vote, droit de parler en public et droit à la sécurité."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "25": {
+    "question": "Nommez deux libertés fondamentales protégées en vertu de la Charte canadienne des droits et libertés.",
+    "options": {
+      "a": "Liberté de religion et liberté d'expression",
+      "b": "Égalité des droits et protection du patrimoine canadien",
+      "c": "Libertés fondamentales et respect des lois",
+      "d": "Droits des peuples autochtones et bénévolat"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "26": {
+    "question": "Nommez deux documents importants décrivant nos droits et libertés.",
+    "options": {
+      "a": "La constitution canadienne et la common law anglaise.",
+      "b": "Le Code civil de France et la constitution canadienne.",
+      "c": "La Charte canadienne des droits et libertés et la Magna Carta (la Grande Charte des libertés).",
+      "d": "Les lois adoptées par le parlement et la common law anglaise."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "27": {
+    "question": "Nommez deux responsabilités du gouvernement fédéral",
+    "options": {
+      "a": "Défense du territoire national et lutte contre les incendies",
+      "b": "Défense du territoire national et politique étrangère",
+      "c": "Citoyenneté et autoroutes",
+      "d": "Recyclage et éducation"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "28": {
+    "question": "Nommez deux responsabilités des gouvernements provinciaux et territoriaux.",
+    "options": {
+      "a": "Citoyenneté et politique étrangère",
+      "b": "Santé et éducation",
+      "c": "Défense et monnaie",
+      "d": "Droit pénal et commerce interprovincial"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "29": {
+    "question": "À quelle date le Nunavut est-il devenu un territoire?",
+    "options": {
+      "a": "Le 1er juillet 1867",
+      "b": "Le 1er avril 1999",
+      "c": "Le 24 juin, 1995",
+      "d": "Le 31 mars 1949"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "30": {
+    "question": "Dans quelle province habite le tiers de la population canadienne?",
+    "options": {
+      "a": "Québec",
+      "b": "Ontario",
+      "c": "Territoires du Nord-Ouest",
+      "d": "Manitoba"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "31": {
+    "question": "Les armoiries du Canada et sa devise sont « A Mari Usque Ad Mare ». Cela signifie :",
+    "options": {
+      "a": "De l'océan à la mer.",
+      "b": "D'un ocean à l'autre.",
+      "c": "De la mer au bout du monde.",
+      "d": "De l'eau à la terre."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "32": {
+    "question": "Donnez quelques exemples de prise de responsabilités pour vous-même et pour votre famille.",
+    "options": {
+      "a": "Acheter une maison et un téléviseur.",
+      "b": "Trouver un emploi, répondre aux besoins de sa famille et travailler dur pour maintenir ses compétences.",
+      "c": "Faire la lessive et tenir la maison propre.",
+      "d": "Étudier avec assiduité afin de gagner assez d'argent pour prendre des vacances."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "33": {
+    "question": "Quelles sont les provinces des Prairies et leurs capitales?",
+    "options": {
+      "a": "Alberta (Edmonton) et Saskatchewan (Regina)",
+      "b": "Alberta (Edmonton), Saskatchewan (Regina) et Manitoba (Winnipeg)",
+      "c": "Saskatchewan (Regina) et Manitoba (Winnipeg)",
+      "d": "Saskatchewan (Regina), Manitoba (Winnipeg) et Ontario (Toronto)"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "34": {
+    "question": "Quelles sont les provinces du Centre du Canada et leurs capitales?",
+    "options": {
+      "a": "Manitoba (Winnipeg) et Ontario (Toronto)",
+      "b": "Québec (Québec) et Île-du-Prince-Édouard (Charlottetown)",
+      "c": "Ontario (Toronto) et Québec (Québec)",
+      "d": "Saskatchewan (Regina) et Manitoba (Winnipeg)"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "35": {
+    "question": "Quelles sont les provinces de la région de l'Atlantique et leurs capitales?",
+    "options": {
+      "a": "Nouvelle-Écosse (Halifax), Nouveau-Brunswick (Fredericton), Île-du-Prince-Édouard (Charlottetown) et Québec (Québec)",
+      "b": "Terre-Neuve-et-Labrador (St. John's), Nouvelle-Écosse (Halifax), Nouveau-Brunswick (Fredericton) et Île-du-Prince-Édouard (Charlottetown).",
+      "c": "Terre-Neuve-et-Labrador (St. John's), Nouvelle-Écosse (Halifax), Nouveau-Brunswick (Fredericton) et Québec (Québec)",
+      "d": "Nouvelle-Écosse (Halifax), Nouveau-Brunswick (Frederiction), Québec (Québec) et Ontario (Toronto)"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "36": {
+    "question": "Quels sont les territoires du nord du Canada et leurs capitales?",
+    "options": {
+      "a": "Alaska (Juneau) et Territoire du Yukon ( Whitehorse)",
+      "b": "Territoires du Nord-Ouest (Yellowknife) et Alaska (Juneau)",
+      "c": "Territoires du Nord-Ouest (Yellowknife)",
+      "d": "Territoire du Yukon (Whitehorse), Territoires du Nord-Ouest (Yellowknife) et Nunavut (Iqaluit)"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "37": {
+    "question": "Quels sont les trois paliers de gouvernement au Canada?",
+    "options": {
+      "a": "Fédéral, provincial/territorial, municipal (local)",
+      "b": "Fédéral, provincial et municipal",
+      "c": "Fédéral, territorial et provincial",
+      "d": "Fédéral, d'État et municipal"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "38": {
+    "question": "Quels sont les trois principaux groupes de populations autochtones?",
+    "options": {
+      "a": "Les Premières Nations, les Métis et les Inuits",
+      "b": "Les Acadiens, les Métis et les Inuits",
+      "c": "Les Loyalistes de l'Empire-Uni, les Métis et les Inuits",
+      "d": "Les Inuits, les Métis et les Acadiens"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "39": {
+    "question": "Quels sont les trois principaux types d'industrie au Canada?",
+    "options": {
+      "a": "Ressources naturelles, tourisme et services.",
+      "b": "Tourisme, services et secteur manufacturier",
+      "c": "Ressources naturelles, tourisme et secteur manufacturier",
+      "d": "Ressources naturelles, secteur manufacturier et services"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "40": {
+    "question": "Quelles sont les trois parties du Parlement?",
+    "options": {
+      "a": "Le Souverain, le gouverneur général et le premier ministre",
+      "b": "La Chambre des communes, l\\'assemblée législative et le Sénat",
+      "c": "Le Roi, l\\'assemblée législative et le Sénat",
+      "d": "Le Souverain, la Chambre des communes et le Sénat"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "41": {
+    "question": "Quelles sont les deux langues officielles du Canada?",
+    "options": {
+      "a": "Anglais et métis",
+      "b": "Inuktitut et français",
+      "c": "Anglais et français",
+      "d": "Anglais et Inuktitut"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "42": {
+    "question": "Quel pays est le plus important partenaire commercial du Canada?",
+    "options": {
+      "a": "Le Mexique",
+      "b": "Les États-Unis d'Amérique",
+      "c": "La Chine",
+      "d": "Le Japon"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "43": {
+    "question": "Que symbolisait le Chemin de fer Canadien Pacifique?",
+    "options": {
+      "a": "La facilité d'accès à la côte ouest.",
+      "b": "Ce qui l'on peut réaliser en travaillant ensemble.",
+      "c": "L'unité.",
+      "d": "Des rubans d'acier."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "44": {
+    "question": "Qu?ont fait les Pères de la Confédération?",
+    "options": {
+      "a": "Ils ont travaillé ensemble à créer un nouveau pays, le Dominion du Canada.",
+      "b": "C?étaient des explorateurs qui ont organisé une expédition pour faire le levé du Nord du Canada.",
+      "c": "Ils ont formé un état république au Canada.",
+      "d": "Il s?agit d?un groupe de politiciens qui ont tenté de joindre le Canada aux États-Unis."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "45": {
+    "question": "Comment appelle-t-on une loi avant son adoption?",
+    "options": {
+      "a": "Une nouvelle loi",
+      "b": "Une loi proposée.",
+      "c": "Un projet de loi",
+      "d": "Une nouvelle proposition"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "46": {
+    "question": "Comment appelle-t-on les représentants provinciaux du souverain?",
+    "options": {
+      "a": "Premier ministre",
+      "b": "Membre de l'assemblée législative",
+      "c": "Lieutenant-gouverneur",
+      "d": "Sénateur"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "47": {
+    "question": "Qu'inscrit-on sur un bulletin de vote d'élection fédérale?",
+    "options": {
+      "a": "Le nom du candidat",
+      "b": "Le numéro du candidat",
+      "c": "Un « X »",
+      "d": "Le nom de l'électeur"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "48": {
+    "question": "Que signifie la Confédération?",
+    "options": {
+      "a": "La venue au Canada des soldats américains confédérés",
+      "b": "Une union de communautés pour former une province",
+      "c": "Une union de banlieues pour former une grande ville",
+      "d": "Une union de provinces pour former un nouveau pays"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "49": {
+    "question": "Que veut-on dire en affirmant que le Canada est une monarchie constitutionnelle?",
+    "options": {
+      "a": "Le souverain (reine ou roi) est le législateur du Canada.",
+      "b": "Le chef d'État du Canada est un souverain héréditaire (reine ou roi) qui règne conformément à la Constitution.",
+      "c": "Le souverain (reine ou roi) représente les Canadiens au Parlement.",
+      "d": "Le souverain (reine ou roi) approuve les projets de loi avant leur adoption définitive."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "50": {
+    "question": "Que signifie le « droit à un vote secret »?",
+    "options": {
+      "a": "Personne ne devrait vous dire où voter.",
+      "b": "Un vote secret dont se servent les politiciens lorsqu’ils votent sur des sujets délicats.",
+      "c": "Personne ne peut voir votre vote et personne ne devrait voir comment vous avez voté.",
+      "d": "Votre droit à voter secrètement qui nommer au Sénat."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "51": {
+    "question": "À quoi ressemble le drapeau canadien?",
+    "options": {
+      "a": "Rouge et blanc avec des emblèmes provinciaux",
+      "b": "Rouge et blanc avec un castor",
+      "c": "Blanc avec une bordure rouge de chaque côté et une feuille d'érable rouge au centre.",
+      "d": "Rouge avec une feuille d'érable blanche"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "52": {
+    "question": "Que signifie l'expression « gouvernement responsable »?",
+    "options": {
+      "a": "Toutes les personnes de chaque circonscription ont la responsabilité de voter.",
+      "b": "Le gouverneur général est responsable de l'action du premier ministre.",
+      "c": "Les ministres de la Couronne doivent obtenir le soutien de la majorité des représentants élus pour gouverner.",
+      "d": "Tous les Canadiens sont responsables les uns des autres."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "53": {
+    "question": "Que signifie le mot « Inuit »?",
+    "options": {
+      "a": "« Esquimau » en inuktitut.",
+      "b": "« Maison » en anglais.",
+      "c": "« Le peuple » en inuktitut.",
+      "d": "« La terre arctique » en inuktitut."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "54": {
+    "question": "Que s?est-il passé à la bataille des plaines d'Abraham?",
+    "options": {
+      "a": "Les Voyageurs se sont battus pour obtenir les droits du commerce des fourrures",
+      "b": "Les Américains ont combattu les loyalistes de l?Empire-Uni durant la Révolution américaine",
+      "c": "Les Britanniques ont battu les Français, marquant ainsi la fin de l?Empire français en Amérique",
+      "d": "Les Français ont battu les Britanniques dans une bataille pour la conquête de Québec"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "55": {
+    "question": "Qu?est-ce qu?un francophone?",
+    "options": {
+      "a": "Une personne dont l?anglais est la langue maternelle",
+      "b": "Un téléphone intelligent conçu par la compagnie canadienne RIM",
+      "c": "Une personne dont le français est la langue maternelle",
+      "d": "Le premier téléphone au Canada, inventé par Alexander Graham Bell"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "56": {
+    "question": "Nommez un fleuve important coulant au Québec?",
+    "options": {
+      "a": "Le fleuve Fraser",
+      "b": "Le fleuve Saint-Laurent",
+      "c": "Le Niagara",
+      "d": "La baie d'Hudson"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "57": {
+    "question": "Qu'est-ce qu'un gouvernement majoritaire?",
+    "options": {
+      "a": "Lorsque le parti au pouvoir détient environ un tiers des sièges à la Chambre des communes",
+      "b": "Lorsque le parti au pouvoir détient environ un quart des sièges à la Chambre des communes.",
+      "c": "Quand le parti au pouvoir détient au moins la moitié des sièges au Sénat.",
+      "d": "Quand le parti au pouvoir détient au moins la moitié des sièges à la Chambre des communes."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "58": {
+    "question": "Qu'est-ce qu'une carte d'information de l'électeur?",
+    "options": {
+      "a": "Une liste des candidats dans votre circonscription",
+      "b": "Une carte qui indique dans quelle province voter",
+      "c": "Un formulaire indiquant quand et où voter",
+      "d": "Un formulaire indiquant l'heure à laquelle il faut voter"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "59": {
+    "question": "Quel est le sport d'hiver national du Canada?",
+    "options": {
+      "a": "Le golf.",
+      "b": "Le ski nordique.",
+      "c": "La crosse.",
+      "d": "Le hockey."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "60": {
+    "question": "Comment appelle-t-on le système gouvernemental canadien?",
+    "options": {
+      "a": "Dictature",
+      "b": "Gouvernement parlementaire",
+      "c": "Régime militaire",
+      "d": "Communisme"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "61": {
+    "question": "Qu'entend-on par égalité entre les femmes et les hommes?",
+    "options": {
+      "a": "Les hommes et les femmes sont égaux devant la loi.",
+      "b": "Les travaux ménagers incombent tant aux hommes qu'aux femmes.",
+      "c": "Les femmes peuvent désormais aller à l'école et accéder au monde du travail professionnel.",
+      "d": "Une femme peut désormais devenir première ministre."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "62": {
+    "question": "Qu'est-ce que « l'impôt de capitation »?",
+    "options": {
+      "a": "Des frais d'entrée fondés sur la race facturés aux Chinois arrivant au Canada",
+      "b": "Des frais facturés à toute personne arrivée au Canada après 1900",
+      "c": "Une taxe imposée sur la bière à compter de 1867.",
+      "d": "Des frais facturés pour déménager dans l'Ouest au début des années 1900"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "63": {
+    "question": "Quelle est la capitale du Canada?",
+    "options": {
+      "a": "Ottawa",
+      "b": "Toronto",
+      "c": "Montréal",
+      "d": "Hull"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "64": {
+    "question": "Quelle est la différence entre le rôle du souverain et celui du premier ministre?",
+    "options": {
+      "a": "Le souverain est le chef d'État, le premier ministre supervise les politiques provinciales.",
+      "b": "Le souverain est le protecteur des libertés constitutionnelles, le premier ministre choisit les membres du Cabinet et est responsable des activités et de la politique du gouvernement.",
+      "c": "Le souverain fait le lien entre le Canada et 52 autres nations, le premier ministre est le protecteur des libertés constitutionnelles.",
+      "d": "Le souverain est le symbole de la souveraineté du Canada et le premier ministre est son auxiliaire."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "65": {
+    "question": "Comment appelle-t-on le gouvernement de l'ensemble du Canada?",
+    "options": {
+      "a": "L'assemblée nationale",
+      "b": "La Législature",
+      "c": "Le Fédéral",
+      "d": "Le Conseil"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "66": {
+    "question": "Quel est le plus haut tribunal du Canada?",
+    "options": {
+      "a": "La cour du banc du Roi",
+      "b": "La cour du Sénat du Canada",
+      "c": "La Cour suprême du Canada",
+      "d": "La cour d’assises du Canada"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "67": {
+    "question": "Quelle est la plus haute distinction militaire qu'un Canadien peut recevoir?",
+    "options": {
+      "a": "La Purple Cross.",
+      "b": "L'Insigne du Courage.",
+      "c": "L'Ordre du Mérite.",
+      "d": "La Croix de Victoria."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "68": {
+    "question": "Quelle est l'appartenance religieuse la plus fréquente au Canada?",
+    "options": {
+      "a": "Catholique.",
+      "b": "Musulmane.",
+      "c": "Juive.",
+      "d": "Hindoue."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "69": {
+    "question": "Quelle est la signification du coquelicot du jour du Souvenir?",
+    "options": {
+      "a": "Se souvenir de notre souverain, la Reine Elizabeth II",
+      "b": "Fêter la Confédération",
+      "c": "Rendre hommage aux premiers ministres qui sont décédés",
+      "d": "Se souvenir du sacrifice des Canadiens qui ont servi or sont morts à la guerre"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "70": {
+    "question": "Quel est le nom du gouverneur général?",
+    "options": {
+      "a": "David Johnston.",
+      "b": "Mary Simon.",
+      "c": "Richard Wagner.",
+      "d": "Julie Payette"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "71": {
+    "question": "Quel est le nom du premier ministre du Canada et de son parti?",
+    "options": {
+      "a": "Justin Trudeau (Parti libéral)",
+      "b": "Pierre Poilievre  (Parti conservateur)",
+      "c": "Jagmeet Singh (Nouveau Parti Démocratique).",
+      "d": "Pierre Trudeau (Parti libéral)"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "72": {
+    "question": "Quel est le nom de l'hymne royal du Canada?",
+    "options": {
+      "a": "Ô Canada",
+      "b": "Dieu protège la Reine (ou le Roi).",
+      "c": "La Marseillaise",
+      "d": "La Bannière étoilée"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "73": {
+    "question": "Quel est le rôle des tribunaux au Canada?",
+    "options": {
+      "a": "Appliquer la loi.",
+      "b": "Guider nos concitoyens.",
+      "c": "Régler les litiges.",
+      "d": "Exprimer les valeurs et les convictions des Canadiens."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "74": {
+    "question": "Quel est le rôle des partis de l''opposition?",
+    "options": {
+      "a": "Aider le premier ministre",
+      "b": "Signer les projets de loi",
+      "c": "S'opposer aux propositions du gouvernement ou tenter de les améliorer",
+      "d": "Proposer des projets de loi"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "75": {
+    "question": "En quoi la découverte de l'insuline par Sir Frederick Banting et Charles Best a-t-elle été importante?",
+    "options": {
+      "a": "L'insuline est une hormone qui permet de manger tout ce que l'on veut.",
+      "b": "L'insuline a permis de sauver 16 millions de vies dans le monde",
+      "c": "La découverte de l'insuline a ouvert la porte à d'autres découvertes.",
+      "d": "La découverte de l'insuline a rendu célèbres les docteurs Banting et Best."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "76": {
+    "question": "Quelle partie de la Constitution protège légalement les droits fondamentaux et les libertés de tous les Canadiens?",
+    "options": {
+      "a": "La Charte britannique des droits et libertés",
+      "b": "La Charte canadienne des droits",
+      "c": "La Charte canadienne des libertés",
+      "d": "La Charte canadienne des droits et libertés"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "77": {
+    "question": "Quel pourcentage des autochtones appartiennent aux Premières Nations?",
+    "options": {
+      "a": "30 %.",
+      "b": "6 %.",
+      "c": "50 %.",
+      "d": "65 %."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "78": {
+    "question": "Que doit-on faire si on ne reçoit pas sa carte d'information de l'électeur qui indique où et quand voter?",
+    "options": {
+      "a": "Se rendre au poste de police",
+      "b": "Appeler votre député",
+      "c": "Supposer qu'on ne peut pas voter",
+      "d": "Appeler Élections Canada ou consulter leur site Web"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "79": {
+    "question": "Quelle chanson est l\\'hymne national du Canada?",
+    "options": {
+      "a": "God Save the King",
+      "b": "Ô Canada",
+      "c": "Star Spangled Banner",
+      "d": "Amazing Grace"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "80": {
+    "question": "Quels sont les trois océans ceinturant le Canada?",
+    "options": {
+      "a": "Atlantique, Arctique et Bering.",
+      "b": "Atlantique, Arctique et Pacifique",
+      "c": "Pacifique, Indien et Atlantique",
+      "d": "Hudson, Pacifique et Atlantique"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "81": {
+    "question": "Qu’était le chemin de fer clandestin?",
+    "options": {
+      "a": "Un réseau antiesclavagiste qui a aidé des milliers d’esclaves à s’échapper des États-Unis pour s’établir au Canada.",
+      "b": "Un chemin de fer qui traverse les Rocheuses principalement par des tunnels dans les montagnes.",
+      "c": "Un réseau utilisé par les négociants en fourrure pour le transport des peaux de castor vers les États-Unis.",
+      "d": "Le premier tunnel de métro souterrain à Toronto"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "82": {
+    "question": "Que signifiait l'invasion de la Normandie le 6 Juin 1944?",
+    "options": {
+      "a": "Cet événement a entraîné la création des prix Juno.",
+      "b": "Il en a résulté la libération de l'Afrique du Nord de l'occupation nazie.",
+      "c": "Les Canadiens ont contribué de manière significative à la défaite du nazisme et du fascisme en Europe pendant la Deuxième Guerre mondiale.",
+      "d": "Cet événement a donné lieu à la relocalisation forcée des Canadiens d'origine japonaise."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "83": {
+    "question": "En quoi a consisté le Mouvement pour le suffrage des femmes?",
+    "options": {
+      "a": "Un effort déployé par les femmes pour obtenir le droit de vote.",
+      "b": "Un effort déployé par les femmes pour participer au service militaire.",
+      "c": "Un mouvement raté pour faire accomplir les travaux ménagers par les hommes.",
+      "d": "Un effort déployé par les femmes pour siéger au Parlement."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "84": {
+    "question": "Que promet-on en prêtant le Serment de citoyenneté?",
+    "options": {
+      "a": "De prêter allégeance à le Roi, d\\'observer les lois canadiennes et d\\'accomplir les tâches d?un Canadien",
+      "b": "D\\'être fidèle à le Roi",
+      "c": "De respecter les lois canadiennes",
+      "d": "D\\'assumer ses responsabilités en tant que citoyen canadien"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "85": {
+    "question": "En quelle année, Terre-Neuve et Labrador s’est-elle jointe au Canada?",
+    "options": {
+      "a": "1867",
+      "b": "1955",
+      "c": "1949",
+      "d": "1880"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "86": {
+    "question": "En quelle année la Confédération a-t-elle vu le jour?",
+    "options": {
+      "a": "1867.",
+      "b": "1871.",
+      "c": "1898.",
+      "d": "1864."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "87": {
+    "question": "À qui devez-vous dire pour qui vous avez voté lors d'une élection fédérale lorsqu'on vous pose la question?",
+    "options": {
+      "a": "Votre employeur",
+      "b": "Personne",
+      "c": "Un officier de police",
+      "d": "Un officiel d'Élections Canada"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "88": {
+    "question": "À quel moment l'Acte de l'Amérique du Nord britannique est-il entré en vigueur?",
+    "options": {
+      "a": "1871.",
+      "b": "1898.",
+      "c": "1867.",
+      "d": "1905."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "89": {
+    "question": "À quel moment la Charte canadienne des droits et libertés fut-elle intégrée à la constitution canadienne?",
+    "options": {
+      "a": "1867.",
+      "b": "1905.",
+      "c": "1982.",
+      "d": "1878."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "90": {
+    "question": "Quelle est la date de la fête du Canada et qu'y célèbre-t-on?",
+    "options": {
+      "a": "Le 15 juin de chaque année pour célébrer l'anniversaire de la Confédération",
+      "b": "Le 8 août de chaque année pour célébrer l'entrée de la Colombie-Britannique dans la confédération",
+      "c": "Nous célébrons l'anniversaire de la confédération le 1er juillet de chaque année",
+      "d": "Le 21 mai de chaque année en souvenir de la Reine Victoria"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "91": {
+    "question": "Quelle est la date de célébration du jour du Souvenir?",
+    "options": {
+      "a": "Le 1er juillet.",
+      "b": "Le 1er octobre.",
+      "c": "Le 11 novembre.",
+      "d": "Le 25 décembre."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "92": {
+    "question": "À quel moment les élections fédérales doivent-elles avoir lieu?",
+    "options": {
+      "a": "Environ tous les quatre ans",
+      "b": "Le troisième lundi d'octobre, tous les quatre ans suivant la plus récente élection générale.",
+      "c": "Dès que le premier ministre le souhaite",
+      "d": "Lorsque les députés souhaitent avoir un nouveau premier ministre"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "93": {
+    "question": "Lorsque vous allez voter le jour d\\'une élection, que faites-vous?",
+    "options": {
+      "a": "Vous allez au bureau de scrutin, vous leur dites qui vous êtes et inscrivez votre X. Vous remettez le bulletin de vote au préposé.",
+      "b": "Vous allez au bureau de scrutin, vous prenez un bulletin de vote et, après avoir inscrit votre X, vous le déposez dans l?urne.",
+      "c": "Vous allez au bureau de scrutin, vous présentez votre carte d\\'électeur ainsi qu\\'une preuve d\\'identité, vous surlignez votre choix sur le bulletin de vote avant de le déposer dans l\\'urne.",
+      "d": "Vous allez au bureau de scrutin, vous présentez votre carte d\\'électeur ainsi qu\\'une preuve d\\'identité, vous surlignez votre choix sur le bulletin de vote avant de le déposer dans l\\'urne."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "94": {
+    "question": "Où les Grands lacs sont-ils situés?",
+    "options": {
+      "a": "Entre l'Ontario et les Etats-Unis",
+      "b": "Au Manitoba",
+      "c": "Dans le nord du Québec",
+      "d": "Au Canada atlantique"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "95": {
+    "question": "Où les édifices du parlement sont-ils situés?",
+    "options": {
+      "a": "Ottawa",
+      "b": "Ville de Québec",
+      "c": "Hull",
+      "d": "Toronto"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "96": {
+    "question": "Où la plupart des Canadiens francophones habitent-ils?",
+    "options": {
+      "a": "En Ontario",
+      "b": "En Nouvelle-Écosse",
+      "c": "Au Québec",
+      "d": "À l'Île-du-Prince-Édouard"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "97": {
+    "question": "À quel rang le Canada figure-t-il parmi les plus grands pays?",
+    "options": {
+      "a": "Premier",
+      "b": "Second",
+      "c": "Troisième",
+      "d": "Quatrième"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "98": {
+    "question": "Quelle loi a accordé au peuple, pour la première fois au Canada, l'élection des assemblées législatives?",
+    "options": {
+      "a": "L'Acte constitutionnel de 1867.",
+      "b": "L'Acte constitutionnel de 1791.",
+      "c": "L'Acte constitutionnel de 1982.",
+      "d": "L'Acte constitutionnel de 2010."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "99": {
+    "question": "Quel animal est l'un des symboles officiels du Canada?",
+    "options": {
+      "a": "L'orignal",
+      "b": "L'épervier",
+      "c": "Le castor",
+      "d": "Le chevreuil"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "100": {
+    "question": "Quel pays se trouve à la frontière sud du Canada?",
+    "options": {
+      "a": "Les Etats-Unis d'Amérique",
+      "b": "L'Amérique centrale",
+      "c": "Le Mexique",
+      "d": "Washington"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "101": {
+    "question": "Quel est le parti politique fédéral actuellement au pouvoir?",
+    "options": {
+      "a": "Le Parti vert",
+      "b": "Le Nouveau Parti Démocratique",
+      "c": "Le Parti libéral",
+      "d": "Le parti conservateur"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "102": {
+    "question": "Lequel des régimes politiques suivants N'EST PAS un régime canadien?",
+    "options": {
+      "a": "État fédéral.",
+      "b": "Démocratie parlementaire.",
+      "c": "Monarchie constitutionnelle",
+      "d": "Dictature."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "103": {
+    "question": "Laquelle des phrases suivantes décrit le mieux la Guerre de 1812?",
+    "options": {
+      "a": "La flotte de Napoléon a été battue par la Marine royale.",
+      "b": "Les États-Unis ont obtenu leur indépendance de l'Empire britannique à la suite de cette guerre.",
+      "c": "Les États-Unis ont envahi le Canada et ont été défaits, permettant ainsi au Canada de préserver son indépendance face à ce pays.",
+      "d": "Le Canada s'est joint aux États-Unis à la suite de cette guerre."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "104": {
+    "question": "Lequel des énoncés suivants sur les pensionnats N'EST PAS vrai?",
+    "options": {
+      "a": "Le gouvernement fédéral a placé de nombreux enfants autochtones dans des pensionnats afin de les instruire et de les assimiler à la culture canadienne dominante.",
+      "b": "Les écoles étaient mal financées et les élèves y vivaient dans la misère",
+      "c": "Les pensionnats étaient appréciés des autochtones.",
+      "d": "Les langues et les pratiques culturelles autochtones étaient le plus souvent interdites."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "105": {
+    "question": "Quel parti devient l'opposition officielle?",
+    "options": {
+      "a": "Le parti non élu ayant le plus de députés",
+      "b": "Le parti ayant obtenu le moins de votes",
+      "c": "Tout candidat indépendant",
+      "d": "Le parti choisi par le premier ministre"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "106": {
+    "question": "Quel parti fait office d'opposition officielle au niveau fédéral?",
+    "options": {
+      "a": "Le Nouveau Parti Démocratique",
+      "b": "Le Parti libéral",
+      "c": "Le parti indépendant",
+      "d": "Le parti conservateur"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "107": {
+    "question": "Quel port est le plus grand et le plus achalandé au Canada?",
+    "options": {
+      "a": "Le port de Halifax",
+      "b": "Le port de Montreal",
+      "c": "Le port de Vancouver",
+      "d": "Le port de Victoria"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "108": {
+    "question": "Quelle province occupe son propre fuseau horaire?",
+    "options": {
+      "a": "Colombie-Britannique",
+      "b": "Terre-Neuve et Labrador",
+      "c": "Nunavut",
+      "d": "Nouvelle-Écosse"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "109": {
+    "question": "Quelle est la plus petite province canadienne par sa superficie?",
+    "options": {
+      "a": "La Nouvelle-Écosse",
+      "b": "L'Île-du-Prince-Édouard",
+      "c": "Le Yukon",
+      "d": "Terre-Neuve et le Labrador"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "110": {
+    "question": "Quelle province est le producteur principal de pâtes et papiers et d'hydroélectricité?",
+    "options": {
+      "a": "Québec",
+      "b": "Ontario",
+      "c": "Colombie-Britannique",
+      "d": "Manitoba"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "111": {
+    "question": "Quelle province est la seule province officiellement bilingue?",
+    "options": {
+      "a": "Le Nouveau-Brunswick",
+      "b": "Le Québec",
+      "c": "L'Ontario",
+      "d": "L'Île-du-Prince-Édouard"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "112": {
+    "question": "Quelle province a été divisée en deux lors de la Confédération?",
+    "options": {
+      "a": "Le Bas-Canada",
+      "b": "Terre-Neuve",
+      "c": "Le Haut-Canada",
+      "d": "La Province du Canada"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "113": {
+    "question": "Quelle province fut la première à accorder le droit de vote aux femmes?",
+    "options": {
+      "a": "Quebec",
+      "b": "Ontario",
+      "c": "Nouvelle-Écosse",
+      "d": "Manitoba"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "114": {
+    "question": "Le drapeau de quelle province porte la fleur de lys?",
+    "options": {
+      "a": "Quebec",
+      "b": "Nouveau-Brunswick",
+      "c": "Manitoba",
+      "d": "Ontario"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "115": {
+    "question": "Quelle région couvre plus du tiers du Canada?",
+    "options": {
+      "a": "Centre du Canada",
+      "b": "Prairies",
+      "c": "Canada atlantique",
+      "d": "Les Territoires du Nord"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "116": {
+    "question": "Quelle région est connue comme étant le cœur industriel et manufacturier du Canada?",
+    "options": {
+      "a": "Les provinces atlantiques",
+      "b": "Les provinces des Prairies",
+      "c": "Le centre du Canada",
+      "d": "La côte ouest"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "117": {
+    "question": "Quelle région du Canada est connue pour ses terres fertiles et ses grandes ressources énergétiques?",
+    "options": {
+      "a": "La Colombie-Britannique",
+      "b": "Les provinces des Prairies",
+      "c": "L'Ontario",
+      "d": "Le Manitoba"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "118": {
+    "question": "Quels sont les trois pays signataires de l'ALENA?",
+    "options": {
+      "a": "Le Canada, le Royaume-Uni et les États-Unis.",
+      "b": "Canada, les États-Unis et le Japon.",
+      "c": "Canada, le Mexique et les États-Unis.",
+      "d": "Le Canada, le Danemark et Andorre."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "119": {
+    "question": "Quelle a été la dernière province à se joindre au Canada?",
+    "options": {
+      "a": "Terre-Neuve",
+      "b": "L'Alberta",
+      "c": "La Saskatchewan",
+      "d": "La Colombie-Britannique"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "120": {
+    "question": "Qui sont les peuples autochtones du Canada?",
+    "options": {
+      "a": "Les premiers immigrants européens à être arrivés au Canada",
+      "b": "Les descendants des premiers immigrants australiens au Canada",
+      "c": "Les premiers peuples ayant vécu au Canada",
+      "d": "Les premiers colons de Terre-Neuve"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "121": {
+    "question": "Qui sont les Acadiens?",
+    "options": {
+      "a": "Des autochtones de l'Arctique.",
+      "b": "Des catholiques francophones vivant en Ontario.",
+      "c": "Les descendants de colons français venus s'établir en 1604 dans ce que sont aujourd?hui les provinces maritimes.",
+      "d": "Des réfugiés anglophones établis en Louisiane."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "122": {
+    "question": "Quels sont les peuples fondateurs du Canada?",
+    "options": {
+      "a": "Les Métis, les Français et les Britanniques.",
+      "b": "Les Autochtones, les Métis et les Britanniques.",
+      "c": "Les Inuits, les Autochtones et les Britanniques.",
+      "d": "Les Autochtones, les Français et les Britanniques."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "123": {
+    "question": "Qui sont les Métis?",
+    "options": {
+      "a": "Un peuple autochtone distinct du Canada atlantique.",
+      "b": "Un peuple constitué de personnes d'origine inuite et des Premières Nations, dont la plupart vivent dans les Prairies.",
+      "c": "Des représentants des Premières Nations parlant le dialecte michif.",
+      "d": "Un peuple distinct constitué de personnes d'origine autochtone et européenne."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "124": {
+    "question": "Qui sont les Québécois?",
+    "options": {
+      "a": "Des pionniers européens venus s'établir au XVIIe siècle.",
+      "b": "Des descendants de colons français.",
+      "c": "Des descendants d'anglophones.",
+      "d": "Les habitants du Québec."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "125": {
+    "question": "Pour qui les Canadiens votent-ils lors d'une élection fédérale?",
+    "options": {
+      "a": "Le meilleur orateur se présentant comme candidat",
+      "b": "Un candidat par qui ils souhaitent être représentés au Parlement",
+      "c": "Quelqu'un pour devenir premier ministre",
+      "d": "Tous les candidats de leur circonscription"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "126": {
+    "question": "Qui représentent les députés?",
+    "options": {
+      "a": "Tous les Canadiens habitant dans le nord",
+      "b": "Seulement les Canadiens habitant au centre du Canada",
+      "c": "Toute personne habitant dans sa circonscription",
+      "d": "Les Canadiens habitant dans la province dans laquelle ils ont été élus"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "127": {
+    "question": "Qui a joué un rôle important dans la construction du Chemin de fer Canadien Pacifique (CFCP)?",
+    "options": {
+      "a": "Des ingénieurs américains du chemin de fer.",
+      "b": "Des ouvriers acadiens du chemin de fer.",
+      "c": "Des ouvriers chinois du chemin de fer.",
+      "d": "Des esclaves afro-américains."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "128": {
+    "question": "Qui a le droit de se constituer candidat à une élection fédérale?",
+    "options": {
+      "a": "N'importe qui",
+      "b": "Tout citoyen canadien d'au moins 16 ans",
+      "c": "Tout homme âgé d'au moins 18 ans",
+      "d": "Tout citoyen canadien d'au moins 18 ans"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "129": {
+    "question": "Qui a le droit de voter lors d'une élection fédérale?",
+    "options": {
+      "a": "Les citoyens canadiens de 18 ans ou plus inscrits sur les listes électorales",
+      "b": "Les citoyens canadiens de 18 ans ou plus travaillant pour le fédéral",
+      "c": "Les résidents permanents de 18 ans ou plus membre des Forces canadiennes",
+      "d": "Les citoyens canadiens de plus de 25 ans membres des Forces canadiennes"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "130": {
+    "question": "Qui détient les principales responsabilités dans les réserves des Premières nations?",
+    "options": {
+      "a": "Les chefs de bande et les conseillers.",
+      "b": "Les administrations municipales.",
+      "c": "Les administrations provinciales et territoriales.",
+      "d": "Le gouvernement fédéral."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "131": {
+    "question": "Qui est le chef d\\'État du Canada?",
+    "options": {
+      "a": "Le gouverneur général du Canada",
+      "b": "Sa Majesté le Roi Charles III.",
+      "c": "Le premier ministre",
+      "d": "Le lieutenant gouverneur"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "132": {
+    "question": "Qui est considéré comme le père du Manitoba?",
+    "options": {
+      "a": "John A. Macdonald",
+      "b": "Sam Steele",
+      "c": "Alfred Boyd",
+      "d": "Louis Riel"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "133": {
+    "question": "Qui était le général Sir Arthur Currie?",
+    "options": {
+      "a": "Un chef militaire des Métis au XIXe siècle.",
+      "b": "Un grand héros de la colonisation.",
+      "c": "Un explorateur de l'ouest du Canada.",
+      "d": "Le plus grand soldat canadien de la Première Guerre mondiale."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "134": {
+    "question": "Qui est le chef du gouvernement?",
+    "options": {
+      "a": "Le président",
+      "b": "Le roi",
+      "c": "Le gouverneur général",
+      "d": "Le premier ministre"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "135": {
+    "question": "Qui représente le Roi au Canada?",
+    "options": {
+      "a": "Le premier ministre du Canada",
+      "b": "Le premier ministre",
+      "c": "Lieutenant-gouverneur",
+      "d": "Le gouverneur général du Canada"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "136": {
+    "question": "Qui est le chef du parti d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'opposition officiel fédéral?",
+    "options": {
+      "a": "Thomas Mulcair",
+      "b": "Andrew Scheer",
+      "c": "Pierre Poilievre",
+      "d": "Elizabeth May"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "137": {
+    "question": "Qui a mené une révolte armée et s?est emparé de Fort Garry?",
+    "options": {
+      "a": "John A. Macdonald",
+      "b": "Louis Riel",
+      "c": "Sam Steele",
+      "d": "George-Étienne Cartier"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "138": {
+    "question": "Qui a fait entrer le Québec dans la Confédération?",
+    "options": {
+      "a": "Sir Louis-Hippolyte La Fontaine",
+      "b": "Sir George-Étienne Cartier",
+      "c": "Sir Wilfrid Laurier",
+      "d": "Sir John A. Macdonald"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "139": {
+    "question": "Qui était Sir Louis-Hippolyte La Fontaine?",
+    "options": {
+      "a": "Un défenseur de la démocratie et des droits des autochtones.",
+      "b": "Un défenseur de la démocratie et de la langue française, et premier chef d'un gouvernement responsable des deux Canadas.",
+      "c": "Le premier chef d'État.",
+      "d": "Le premier premier ministre francophone."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "140": {
+    "question": "Qui était Sir Sam Steele?",
+    "options": {
+      "a": "Un grand héros de la colonisation, policier à cheval et soldat.",
+      "b": "Un chef militaire des Métis au XIXe siècle.",
+      "c": "Le premier premier ministre du Canada.",
+      "d": "Le père fondateur du Manitoba."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "141": {
+    "question": "Qui fut le premier chef d'un gouvernement responsable au Canada en 1849?",
+    "options": {
+      "a": "Sir John A. Macdonald.",
+      "b": "Robert Baldwin.",
+      "c": "Louis Riel.",
+      "d": "Sir Louis-Hippolyte La Fontaine."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "142": {
+    "question": "Quel fut le tout premier premier ministre du Canada?",
+    "options": {
+      "a": "Louis Riel",
+      "b": "Sir John A. Macdonald",
+      "c": "Lester B. Pearson",
+      "d": "Abraham Lincoln"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "143": {
+    "question": "Qui étaient les Loyalistes de l'Empire-Uni?",
+    "options": {
+      "a": "Les pionniers partis des États-Unis pour venir au Canada pendant la Révolution américaine.",
+      "b": "Des peuples autochtones",
+      "c": "Des Métis",
+      "d": "Des Inuits"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "144": {
+    "question": "Qui étaient les Voyageurs?",
+    "options": {
+      "a": "Des négociants établis à Montréal qui se déplaçaient en canot",
+      "b": "Des immigrants arrivés au Canada au 18e siècle.",
+      "c": "Des explorateurs à la recherche du passage du Nord-Ouest",
+      "d": "Les premiers géographes à cartographier les côtes de la Colombie-Britannique"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "145": {
+    "question": "Pourquoi la bataille de la crête de Vimy est-elle importante pour le Canada?",
+    "options": {
+      "a": "C'était une position essentielle de la ligne allemande dans le nord de l?Espagne.",
+      "b": "Les Corps d'armée canadiens ont confirmé leur réputation de bravoure et de courage",
+      "c": "Il s'agissait de la charnière de la ligne allemande, car elle protégeait la ligne Hindenburg nouvellement construite.",
+      "d": "Après avoir combattu à Vimy, les Canadiens savaient qu'ils rentreraient chez eux."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "146": {
+    "question": "Pourquoi le commerce entre pays est-il important pour le Canada?",
+    "options": {
+      "a": "Elle améliore notre niveau de vie.",
+      "b": "Cela nous permet plus facilement de voyager dans d'autres pays.",
+      "c": "Ceci améliore notre économie et élève notre niveau de vie.",
+      "d": "Il introduit des produits moins chers."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "147": {
+    "question": "Quel est le nom du chef de l\\\\\\'opposition au Québec?",
+    "options": {
+      "a": "Dominique Anglade",
+      "b": "Marc Tanguay",
+      "c": "Jean-Marc Fournier",
+      "d": "Philippe Couillard"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "148": {
+    "question": "Quel est le nom du lieutenant-gouverneur du Québec?",
+    "options": {
+      "a": "L'honorable Pierre Duchesne",
+      "b": "L'honorable Jean-Louis Roux",
+      "c": "L'honorable Martial Asselin",
+      "d": "L'honorable J. Michel Doyon"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "149": {
+    "question": "Quelle est la capitale de l'Alberta?",
+    "options": {
+      "a": "Medicine Hat.",
+      "b": "Red Deer.",
+      "c": "Calgary.",
+      "d": "Edmonton."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "150": {
+    "question": "Quel est le nom du chef de l'opposition de l'Alberta?",
+    "options": {
+      "a": "Rachel Notley.",
+      "b": "Brian Jean.",
+      "c": "Heather Forsyth.",
+      "d": "Jim Prentice."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "151": {
+    "question": "Quel est le nom du lieutenant-gouverneur de l'Alberta?",
+    "options": {
+      "a": "Donald S. Ethell.",
+      "b": "Salma Lakhani.",
+      "c": "Adrienne Clarkson.",
+      "d": "Lois Mitchell."
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "152": {
+    "question": "Quel est le nom du premier ministre de l\\'Alberta?",
+    "options": {
+      "a": "Le premier ministre Rachel Notley.",
+      "b": "Le premier ministre Jason Kenney.",
+      "c": "La première ministre Danielle Smith.",
+      "d": "Le premier ministre Stephen Harper."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "153": {
+    "question": "Quel est le parti politique au pouvoir de l'Alberta?",
+    "options": {
+      "a": "Le Nouveau Parti Démocratique.",
+      "b": "Le Parti Libéral.",
+      "c": "Le Parti Vert.",
+      "d": "United Conservative Party"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "154": {
+    "question": "Quelles sont les trois richesses naturelles importantes aujourd'hui pour l'économie de l?Alberta?",
+    "options": {
+      "a": "Le pétrole, l'agriculture et la foresterie.",
+      "b": "Le pétrole, le tourisme et la pêche.",
+      "c": "Le pétrole, le charbon et l'hydroélectricité.",
+      "d": "Le pétrole, le charbon et la foresterie."
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "155": {
+    "question": "Nommez les circonscriptions électorales fédérales de Richmond, en Colombie-Britannique.",
+    "options": {
+      "a": "Richmond compte deux circonscriptions électorales fédérales : Richmond Nord et Richmond Sud",
+      "b": "Richmond compte deux circonscriptions électorales fédérales : Richmond Est et Richmond Ouest",
+      "c": "Richmond compte deux circonscriptions électorales fédérales : Richmond et Richmond Sud",
+      "d": "Richmond compte deux circonscriptions électorales fédérales : Richmond Centre et Steveston-Richmond Est"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "156": {
+    "question": "Nommez les membres du parlement de Richmond en Colombie-Britannique et les partis auxquels ils appartiennent. (Richmond, Steveston-Richmond Est respectivement)",
+    "options": {
+      "a": "Alice Wong (Parti conservateur du Canada), Kenny Chiu (Parti conservateur du Canada)",
+      "b": "Joe Peschisolido (libéral), Kerry-Lynne Findlay (Parti conservateur du Canada)",
+      "c": "Wilson Miao (libéral ), Parm Bains (libéral)",
+      "d": "Greg Halsey-Brandt (libéral), Geoff Plant (libéral)"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "157": {
+    "question": "Quels sont les noms des membres de l'Assemblée législative représentant Richmond, en Colombie-Britannique, ainsi que les partis auxquels ils appartiennent (Richmond North Centre, Richmond South Centre,  Richmond-Steveston, et Richmond-Queensborough respe",
+    "options": {
+      "a": "Rob Howard (Richmond North Centre), Linda Reid (Richmond South Centre), John Cummins (Richmond-Steveston), et Malcolm Brodie (Richmond-Queensborough)",
+      "b": "Teresa Wat (Richmond North Centre), Linda Reid (Richmond South Centre), John Yap (Richmond-Steveston), et Jas Johal (Richmond-Queensborough)",
+      "c": "Olga Ilich (Richmond North Centre), Rob Howard (Richmond South Centre), Jas Johal (Richmond-Steveston), et John Yap (Richmond-Queensborough)",
+      "d": "Teresa Wat (Richmond North Centre), Henry Yao (Richmond South Centre), Kelly Greene (Richmond-Steveston), Aman Singh (Richmond-Queensborough)."
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "158": {
+    "question": "Nommez trois conseillers municipaux de Richmond en Colombie-Britannique",
+    "options": {
+      "a": "Malcolm Brodie, Derek Dang et Ernie Novakowski",
+      "b": "Lyn Greenhill, Kiichi Kumagai et Lily von Hendron",
+      "c": "Michael Wolfe, Chak Au et Carol Day",
+      "d": "Ken Johnston, Bill McNulty et Harold Steves"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "159": {
+    "question": "Quelle est la capitale de la Colombie-Britannique?",
+    "options": {
+      "a": "Vancouver",
+      "b": "Prince George",
+      "c": "Victoria",
+      "d": "New Westminster"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "160": {
+    "question": "Quel est le nom du chef de l\\\\\\'opposition en Colombie-Britannique?",
+    "options": {
+      "a": "Adam Olsen",
+      "b": "Kevin Falcon",
+      "c": "John Horgan",
+      "d": "Andrew Wilkinson"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "161": {
+    "question": "Quel est le nom du lieutenant-gouverneur de la Colombie-Britannique?",
+    "options": {
+      "a": "David Lam",
+      "b": "Janet Austin",
+      "c": "Adrienne Clarkson",
+      "d": "Judith Guichon"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "162": {
+    "question": "Quel est le nom du maire de Richmond en Colombie-Britannique?",
+    "options": {
+      "a": "Le maire Richard Lee",
+      "b": "Le maire Bill McNulty",
+      "c": "Le maire Linda McPhail",
+      "d": "Le maire Malcolm Brodie"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "163": {
+    "question": "Quel est le nom du premier ministre de la Colombie-Britannique?",
+    "options": {
+      "a": "Le premier ministre Adrian Dix",
+      "b": "Le premier ministre David Eby",
+      "c": "Le premier ministre John Horgan",
+      "d": "La première ministre Christy Clark"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "164": {
+    "question": "Quel est le parti politique au pouvoir en Colombie-Britannique?",
+    "options": {
+      "a": "Le Nouveau Parti Démocratique",
+      "b": "Le Parti Libéral",
+      "c": "Le Parti Crédit Social",
+      "d": "Le Parti Vert"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "165": {
+    "question": "Quelles sont les trois richesses naturelles importantes aujourd'hui pour l'économie de la Colombie-Britannique?",
+    "options": {
+      "a": "La forêt, l'eau et les céréales",
+      "b": "La forêt, les poissons et l'eau",
+      "c": "La pêche, le pétrole et l'eau",
+      "d": "Le charbon, l'eau et la construction navale"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "166": {
+    "question": "Pourquoi la Colombie-Britannique est-elle aussi appelée la Porte canadienne du Pacifique?",
+    "options": {
+      "a": "La plupart des nouveaux immigrants arrivent à l'aéroport international de Vancouver.",
+      "b": "La Colombie-Britannique est la province la plus proche de l'Orient.",
+      "c": "Des milliards de dollars en biens commerciaux transitent par le port de Vancouver.",
+      "d": "La Colombie-Britannique borde l'océan Pacifique."
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "167": {
+    "question": "Quelle est la capitale du Manitoba?",
+    "options": {
+      "a": "Winnipeg",
+      "b": "Grand Rapids",
+      "c": "Portage la Prairie",
+      "d": "Brandon"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "168": {
+    "question": "Quel est le nom du chef de l'opposition au Manitoba?",
+    "options": {
+      "a": "Rana Bokhari",
+      "b": "James Beddome",
+      "c": "Wab Kinew",
+      "d": "Brian Pallister"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "169": {
+    "question": "Qui est le du lieutenant-gouverneur du Manitoba?",
+    "options": {
+      "a": "L\\'honorable Anita Neville",
+      "b": "L\\'honorable Peter Liba",
+      "c": "L\\'honorable Philip Lee",
+      "d": "L\\'honorable Janice Filmon"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "170": {
+    "question": "Qui est le premier ministre du Manitoba?",
+    "options": {
+      "a": "Premier ministre Heather Stefanson",
+      "b": "Le premier ministre Greg Selinger",
+      "c": "Le premier ministre Brian Pallister",
+      "d": "Le premier ministre Sterling Lyon"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "171": {
+    "question": "Énumérez trois industries importantes pour l'économie du Manitoba aujourd'hu'i",
+    "options": {
+      "a": "L'agriculture, l'exploitation minière et la pêche",
+      "b": "L'agriculture, l'exploitation minière et la production d'énergie hydro-électrique",
+      "c": "La pêche, le tourisme et l'exploitation minière",
+      "d": "La foresterie, la pêche et l'énergie"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "172": {
+    "question": "Quel parti politique est au pouvoir au Manitoba?",
+    "options": {
+      "a": "Parti du Manitoba",
+      "b": "Parti libéral",
+      "c": "Parti conservateur du Canada",
+      "d": "Nouveau Parti démocratique"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "173": {
+    "question": "Quelle est la capitale du Nouveau Brunswick?",
+    "options": {
+      "a": "Victoria",
+      "b": "Winnipeg",
+      "c": "Fredericton",
+      "d": "Montréal"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "174": {
+    "question": "Quel est le nom du chef de l\\\\\\'opposition au Nouveau-Brunswick?",
+    "options": {
+      "a": "Victor Boudreau",
+      "b": "Denis Landry",
+      "c": "Robert McKee",
+      "d": "David Alward"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "175": {
+    "question": "Qui est le du lieutenant-gouverneur du Nouveau-Brunswick?",
+    "options": {
+      "a": "L'honorable Brenda Murphy",
+      "b": "L'honorable Gilbert Finn",
+      "c": "L'honorable Marilyn Trenholme Counsell",
+      "d": "L'honorable Graydon Nicholas"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "176": {
+    "question": "Qui est le premier ministre du Nouveau-Brunswick?",
+    "options": {
+      "a": "Le premier ministre Bernard Lord",
+      "b": "Le premier ministre Blaine Higgs",
+      "c": "Le premier ministre David Alward",
+      "d": "Le premier ministre Brian Gallant"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "177": {
+    "question": "Énumérez trois industries importantes pour l'économie du Nouveau-Brunswick aujourd'hui",
+    "options": {
+      "a": "La foresterie, la production d'énergie hydro-électrique, le pétrole",
+      "b": "La pêche, le pétrole et le tourisme",
+      "c": "Le commerce transatlantique, la pêche et le pétrole",
+      "d": "La foresterie, l'agriculture et l'exploitation minière"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "178": {
+    "question": "Quel parti politique est au pouvoir au Nouveau-Brunswick?",
+    "options": {
+      "a": "Parti libéral",
+      "b": "Parti du Nouveau-Brunswick",
+      "c": "Nouveau parti démocratique",
+      "d": "Parti progressiste-conservateur du Nouveau-Brunswick"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "179": {
+    "question": "Quelle est la capitale de Terre-Neuve-et-Labrador?",
+    "options": {
+      "a": "Charlottetown",
+      "b": "Chimney Tickle",
+      "c": "St. John's",
+      "d": "St. Pierre et Miquelon"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "180": {
+    "question": "Quel est le nom du chef de l\\'opposition à Terre-Neuve-et-Labrador?",
+    "options": {
+      "a": "David Brazil",
+      "b": "Ches Crosbie",
+      "c": "Paul Davis",
+      "d": "Dwight Ball"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "181": {
+    "question": "Quel est le nom du lieutenant-gouverneur de Terre-Neuve-et-Labrador?",
+    "options": {
+      "a": "L'honorable Frank F. Fagan",
+      "b": "L'honorable Edward Roberts",
+      "c": "L'honorable John Crosbie",
+      "d": "L'honorable Judy May Foote"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "182": {
+    "question": "Qui est le premier ministre de Terre-Neuve-et-Labrador?",
+    "options": {
+      "a": "Le premier ministre Andrew Furey",
+      "b": "La première ministre Dwight Ball",
+      "c": "Le premier ministre Kathy Dunderdale",
+      "d": "Le premier ministre Tom Marshall"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "183": {
+    "question": "Énumérez trois industries importantes pour l'économie de Terre-Neuve-et-Labrador aujourd'hui",
+    "options": {
+      "a": "La pêche, le pétrole et l'extraction de gaz",
+      "b": "La pêche, le tourisme et la foresterie",
+      "c": "La construction navale, la pêche et l'exploitation minière",
+      "d": "Le tourisme, l'exploitation minière et la foresterie"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "184": {
+    "question": "Quel parti politique est au pouvoir au Terre-Neuve et Labrador?",
+    "options": {
+      "a": "NFL Parti",
+      "b": "Nouveau parti démocratique",
+      "c": "Parti Libéral",
+      "d": "Parti progressiste-conservateur du Canada"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "185": {
+    "question": "Quelle est la capitale de la Nouvelle-Écosse?",
+    "options": {
+      "a": "Shearwater",
+      "b": "Halifax",
+      "c": "Dartmouth",
+      "d": "Devon"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "186": {
+    "question": "Quel est le nom du chef de l\\\\\\\\\\\\\\'opposition en Nouvelle-Écosse?",
+    "options": {
+      "a": "Darrell Dexter",
+      "b": "John MacDonell",
+      "c": "Zach Churchill",
+      "d": "Jamie Baillie"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "187": {
+    "question": "Qui est le nom du lieutenant-gouverneur de la Nouvelle-Écosse?",
+    "options": {
+      "a": "L'honorable John James Grant",
+      "b": "L'honorable Myra Freeman",
+      "c": "L'honorable Mayann Francis",
+      "d": "L'honorable Arthur J. LeBlanc"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "188": {
+    "question": "Quel est le nom du premier ministre de la Nouvelle-Écosse?",
+    "options": {
+      "a": "Le premier ministre Darrel Dexter",
+      "b": "Le premier ministre Stephen McNeil",
+      "c": "Le premier ministre Tim Houston",
+      "d": "Le premier ministre Rodney MacDonald"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "189": {
+    "question": "Énumérez trois industries importantes pour l'économie de la Nouvelle-Écosse aujourd'hui",
+    "options": {
+      "a": "La pêche, la construction navale et la foresterie",
+      "b": "La foresterie, l'exploitation minière et le tourisme",
+      "c": "L'exploitation du charbon, la foresterie et l'agriculture",
+      "d": "Le tourisme, le cinéma et la construction navale"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "190": {
+    "question": "Quel parti politique est au pouvoir en Nouvelle-Écosse?",
+    "options": {
+      "a": "Nouveau Parti Démocratique",
+      "b": "Parti conservateur du Canada",
+      "c": "Parti libéral",
+      "d": "Parti de la Nouvelle-Écosse"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "191": {
+    "question": "Quelle est la capitale du Territoires du Nord-Ouest?",
+    "options": {
+      "a": "Fort Simpson",
+      "b": "Hay River",
+      "c": "Fort Providence",
+      "d": "Yellowknife"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "192": {
+    "question": "Qui est le commissaire des Territoires du Nord-Ouest?",
+    "options": {
+      "a": "L'honorable Margaret Thom",
+      "b": "L'honorable Tony Whitford",
+      "c": "L'honorable Daniel L. Norris",
+      "d": "L'honorable Glenna Hansen"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "193": {
+    "question": "Quel est le nom du chef de l'opposition aux Territoires du Nord-Ouest?",
+    "options": {
+      "a": "Personne",
+      "b": "George Braden",
+      "c": "Don Morin",
+      "d": "Nellie Cournoyea"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "194": {
+    "question": "Quel est le nom du premier ministre des Territoires du Nord-Ouest?",
+    "options": {
+      "a": "Le premier ministre Bob McLeod",
+      "b": "Le premier ministre Caroline Cochrane",
+      "c": "Le premier ministre Joe Handley",
+      "d": "Le premier ministre Jim Antoine"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "195": {
+    "question": "Quel parti politique est au pouvoir aux Territoires du Nord-Ouest?",
+    "options": {
+      "a": "Parti du Yukon",
+      "b": "Parti libéral",
+      "c": "Régi par un consensus",
+      "d": "Nouveau Parti Démocratique"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "196": {
+    "question": "Quelle est la capitale du  Nunavut?",
+    "options": {
+      "a": "Sinaa",
+      "b": "Iqaluit",
+      "c": "Nipisa",
+      "d": "Mivvik"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "197": {
+    "question": "Qui est le commissaire du Nunavut?",
+    "options": {
+      "a": "L'honorable Peter Irniq",
+      "b": "L'honorable Ann Meekitjuk Hanson",
+      "c": "L'honorable Eva Aariak",
+      "d": "L'honorable Nellie Taptaqut Kusugak"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "198": {
+    "question": "Quel est le nom du chef de l'opposition en Nunavut?",
+    "options": {
+      "a": "Don Morin",
+      "b": "Joe Handley",
+      "c": "Personne",
+      "d": "Eva Aariak"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "199": {
+    "question": "Qui est le premier ministre du Nunavut?",
+    "options": {
+      "a": "Le premier ministre Paul Okalik",
+      "b": "Le premier ministre Floyd Roland",
+      "c": "Le premier ministre Joe Savikataaq",
+      "d": "Le premier ministre P.J. Akeeagok"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "200": {
+    "question": "Quel parti politique est au pouvoir au Nunavut?",
+    "options": {
+      "a": "Parti conservateur du Canada",
+      "b": "Parti libéral",
+      "c": "Parti de Nunavut",
+      "d": "Régi par un consensus"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "201": {
+    "question": "Quelle est la capitale de l'Ontario?",
+    "options": {
+      "a": "Kingston",
+      "b": "Ottawa",
+      "c": "Toronto",
+      "d": "London"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "202": {
+    "question": "Quel est le nom du chef de l\\\\\\'opposition en Ontario?",
+    "options": {
+      "a": "Andrea Horwath",
+      "b": "Marit Stiles",
+      "c": "Peter Tabuns",
+      "d": "Dalton McGuinty"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "203": {
+    "question": "Quel est le nom du lieutenant-gouverneur de l'Ontario?",
+    "options": {
+      "a": "James Bartleman",
+      "b": "Elizabeth Dowdeswell",
+      "c": "David C. Onley",
+      "d": "Belinda Stronach"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "204": {
+    "question": "Quel est le nom du premier ministre de l'Ontario?",
+    "options": {
+      "a": "Le premier ministre Doug Ford",
+      "b": "Le premier ministre Jack Layton",
+      "c": "La première ministre Kathleen Wynne",
+      "d": "Le premier ministre Mike Harris"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "205": {
+    "question": "Quelles sont, de nos jours, les trois principales industries de l'Ontario?",
+    "options": {
+      "a": "L'exploitation minière, la pêche et le secteur automobile",
+      "b": "L'exploitation minière, le tourisme et le secteur automobile",
+      "c": "L'agriculture, le tourisme et la pêche",
+      "d": "Le secteur automobile, le tourisme et la pêche"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "206": {
+    "question": "Quel est le parti politique au pouvoir en Ontario?",
+    "options": {
+      "a": "Le Parti Vert",
+      "b": "Le Parti Libéral",
+      "c": "Le Parti Progressiste-Conservateur",
+      "d": "Le Nouveau Parti Démocratique"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "207": {
+    "question": "Quelle est la capitale de l'Île-du-Prince-Édouard?",
+    "options": {
+      "a": "Cornwall",
+      "b": "Stratford",
+      "c": "Charlottetown",
+      "d": "Georgetown"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "208": {
+    "question": "Quel est le nom du chef de l'opposition sur l'Île-du-Prince-Édouard?",
+    "options": {
+      "a": "Olive Crane",
+      "b": "Jamie Fox",
+      "c": "Steven Meyers",
+      "d": "Peter Bevan-Baker"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "209": {
+    "question": "Quel est le nom du lieutenant-gouverneur sur l'Île-du-Prince-Édouard?",
+    "options": {
+      "a": "L'honorable Antoinette Perry",
+      "b": "L'honorable H. Frank Lewis",
+      "c": "L'honorable Barbara Oliver Hagerman",
+      "d": "L'honorable Léonce Barnard"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "210": {
+    "question": "Qui est le premier ministre de l'Île-du-Prince-Édouard?",
+    "options": {
+      "a": "Le premier ministre Wade MacLauchlan",
+      "b": "Le premier ministre Dennis King",
+      "c": "Le premier ministre Pat Binns",
+      "d": "Le premier ministre Joe Ghiz"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "211": {
+    "question": "Quel parti politique est au pouvoir sur l'Île-du-Prince-Édouard?",
+    "options": {
+      "a": "Parti conservateur du Canada",
+      "b": "Nouveau Parti démocratique",
+      "c": "Parti libéral",
+      "d": "Union Nationale"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "212": {
+    "question": "Quelle est la capitale du Québec?",
+    "options": {
+      "a": "Beauport",
+      "b": "Ville de Québec",
+      "c": "Montréal",
+      "d": "Chicoutimi"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "213": {
+    "question": "Qui est le premier ministre du Québec?",
+    "options": {
+      "a": "Le premier ministre Lucien Bouchard",
+      "b": "Le premier ministre Pauline Marois",
+      "c": "Le premier ministre Francois Legault",
+      "d": "Le premier ministre Philippe Couillard"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "214": {
+    "question": "Énumérez trois industries importantes pour l'économie du Québec aujourd'hui",
+    "options": {
+      "a": "Le tourisme, l'exploitation minière et la foresterie",
+      "b": "Les pâtes et papiers, la foresterie et la production d'énergie hydro-électrique",
+      "c": "Le cinéma, la pêche et l'exploitation minière",
+      "d": "La foresterie, le transport de marchandises et le tourisme"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "215": {
+    "question": "Quel parti politique est au pouvoir au Québec?",
+    "options": {
+      "a": "Coalition Avenir Québec",
+      "b": "Parti libéral",
+      "c": "Parti Quebecois",
+      "d": "Union Nationale"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "216": {
+    "question": "Quelle est la capitale de la Saskatchewan?",
+    "options": {
+      "a": "Regina",
+      "b": "Avonlea",
+      "c": "Glenavon",
+      "d": "Fort Qu'Appelle"
+    },
+    "answer": "a",
+    "note": ""
+  },
+  "217": {
+    "question": "Quel est le nom du chef de l\\'opposition en Saskatchewan?",
+    "options": {
+      "a": "Ryan Meili",
+      "b": "Carla Beck",
+      "c": "John Nilson",
+      "d": "Cam Broten"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "218": {
+    "question": "Quel est le nom du lieutenant-gouverneur de la Saskatchewan?",
+    "options": {
+      "a": "L'honorable Dr Gordon L. Barhart",
+      "b": "L'honorable Vaughn Solomon Schofield",
+      "c": "L'honorable Russ Mirasty",
+      "d": "L'honorable Lynda Maureen Haverstock"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "219": {
+    "question": "Qui est le premier ministre de la Saskatchewan?",
+    "options": {
+      "a": "Le premier ministre Lorne Calvert",
+      "b": "Le premier ministre Brad Wall",
+      "c": "Le premier ministre Scott Moe",
+      "d": "Le premier ministre Len Taylor"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "220": {
+    "question": "Énumérez trois industries importantes pour l'économie de la Saskatchewan aujourd'hui",
+    "options": {
+      "a": "La foresterie, le cinéma et le tourisme",
+      "b": "La pêche, l'exploitation minière et l'agriculture",
+      "c": "L'exploitation minière, la production de pétrole et la foresterie",
+      "d": "L'agriculture, l'exploitation minière et le gaz naturel"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "221": {
+    "question": "Quel parti politique est au pouvoir en Saskatchewan?",
+    "options": {
+      "a": "Nouveau Parti démocratique",
+      "b": "Parti de la Saskatchewan",
+      "c": "Parti progressiste-conservateur du Canada",
+      "d": "Crédit Social"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "222": {
+    "question": "Quelle est la capitale du Yukon?",
+    "options": {
+      "a": "MacRae",
+      "b": "Crestview",
+      "c": "Whitehorse",
+      "d": "Riverdale"
+    },
+    "answer": "c",
+    "note": ""
+  },
+  "223": {
+    "question": "Qui est le commissaire du Yukon?",
+    "options": {
+      "a": "L'honorable Doug Phillips",
+      "b": "L'honorable Angélique Bernard",
+      "c": "L'honorable Jack Cable",
+      "d": "L'honorable Douglas Bell"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "224": {
+    "question": "Quel est le nom du chef de l\\'opposition au Yukon?",
+    "options": {
+      "a": "Trevor Harding",
+      "b": "Currie Dixon",
+      "c": "Stacey Hassard",
+      "d": "Arthur Mitchell"
+    },
+    "answer": "b",
+    "note": ""
+  },
+  "225": {
+    "question": "Qui est le premier ministre du Yukon?",
+    "options": {
+      "a": "Le premier ministre Dennis Fentie",
+      "b": "Le premier ministre Bob McLeod",
+      "c": "Le premier ministre Darrell Pasloski",
+      "d": "Le premier ministre Sandy Silver"
+    },
+    "answer": "d",
+    "note": ""
+  },
+  "226": {
+    "question": "Quel parti politique est au pouvoir au Yukon?",
+    "options": {
+      "a": "Parti progressiste-conservateur du Canada",
+      "b": "Nouveau Parti démocratique",
+      "c": "Parti libéral",
+      "d": "Parti du Yukon"
+    },
+    "answer": "c",
+    "note": ""
+  }
+}

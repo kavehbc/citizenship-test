@@ -2,7 +2,8 @@ import streamlit as st
 import random
 import json
 
-lst_countries = {"canada": "Canada",
+lst_countries = {"canada-en": "Canada (English)",
+                 "canada-fr": "Canada (Française)",
                  "usa": "United States of America",
                  "australia": "Australia",
                  "uk": "United Kingdom"}
