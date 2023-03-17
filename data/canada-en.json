@@ -2,10 +2,10 @@
   "1": {
     "question": "What are the three main groups of Aboriginal peoples?",
     "options": {
-      "a": "First Nations, M\u00e9tis and Inuit",
-      "b": "Acadians, M\u00e9tis and First Nations",
+      "a": "First Nations, Métis and Inuit",
+      "b": "Acadians, Métis and First Nations",
       "c": "French, English and First Nations",
-      "d": "Early settlers, M\u00e9tis and Inuit"
+      "d": "Early settlers, Métis and Inuit"
     },
     "answer": "a",
     "note": ""
@@ -112,10 +112,10 @@
   "11": {
     "question": "Name 3 fathers of Confederation",
     "options": {
-      "a": "Sir \u00c9tienne-Paschal Tach\u00e9, Sir George-\u00c9tienne Cartier, and Sir John A. Macdonald",
+      "a": "Sir Étienne-Paschal Taché, Sir George-Étienne Cartier, and Sir John A. Macdonald",
       "b": "La Fontaine, Robert Baldwin, and Joseph Howe",
       "c": "Joseph Brant, Joseph Howe, and James Macdonald",
-      "d": "Jospeh Howe, Robert La Fontaine, and Sir \u00c9tienne-Paschal Tach\u00e9"
+      "d": "Jospeh Howe, Robert La Fontaine, and Sir Étienne-Paschal Taché"
     },
     "answer": "a",
     "note": ""
@@ -134,9 +134,9 @@
   "13": {
     "question": "Whose portrait is on the Canadian $10 bill?",
     "options": {
-      "a": "Sir George-\u00c9tienne Cartier",
+      "a": "Sir George-Étienne Cartier",
       "b": "Sir Louis-Hippolyte La Fontaine",
-      "c": "Sir \u00c9tienne-Paschal Tach\u00e9",
+      "c": "Sir Étienne-Paschal Taché",
       "d": "Sir John Alexander Macdonald"
     },
     "answer": "d",
@@ -253,7 +253,7 @@
     "note": "Habeas corpus, the right to challenge unlawful detention by the state, comes from English common law."
   },
   "24": {
-    "question": "\u201cWhereas Canada is founded upon principles that recognize the supremacy of God and the Rule of Law\u201d. This phrase underlines the importance of",
+    "question": "“Whereas Canada is founded upon principles that recognize the supremacy of God and the Rule of Law”. This phrase underlines the importance of",
     "options": {
       "a": "Religious Tradition",
       "b": "Dignity and Worth of Human Person",
@@ -261,7 +261,7 @@
       "d": "None of These"
     },
     "answer": "c",
-    "note": "Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law.\u201d This phrase indicates the importance of religious as well as moral values and traditions to Canadian society and the dignity and worth of the human person."
+    "note": "Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law.” This phrase indicates the importance of religious as well as moral values and traditions to Canadian society and the dignity and worth of the human person."
   },
   "25": {
     "question": "How old is the tradition of ordered liberty that Canada contains?",
@@ -297,7 +297,7 @@
     "note": "Habeas corpus, the right to challenge unlawful detention by the state, comes from English common law."
   },
   "28": {
-    "question": "Who is Canada\u2019s representative?",
+    "question": "Who is Canada’s representative?",
     "options": {
       "a": "The People",
       "b": "The sovereign",
@@ -338,7 +338,7 @@
       "d": "None of Them"
     },
     "answer": "c",
-    "note": "One of Canada\u2019s founding principles is the rule of law. Individuals and governments are regulated by laws and not by arbitrary actions."
+    "note": "One of Canada’s founding principles is the rule of law. Individuals and governments are regulated by laws and not by arbitrary actions."
   },
   "32": {
     "question": "To become a part of Canada, what is the age limit for a person that must have adequate knowledge of French and English?",
@@ -422,7 +422,7 @@
     "options": {
       "a": "From the Inuit word meaning country.",
       "b": "From the French word meaning joining.",
-      "c": "From the M\u00e9tis word meaning rivers.",
+      "c": "From the Métis word meaning rivers.",
       "d": "From \"Kanata\", the Huron-Iroquois word for village."
     },
     "answer": "d",
@@ -451,7 +451,7 @@
     "note": ""
   },
   "42": {
-    "question": "Give the first line of Canada\u2019s national anthem?",
+    "question": "Give the first line of Canada’s national anthem?",
     "options": {
       "a": "O Canada!  Our home and native land!",
       "b": "O Canada!  Our province and native land!",
@@ -587,7 +587,7 @@
     "options": {
       "a": "Conservative (Poilievre), NDP (Singh), Liberal (Trudeau), Bloc Quebecois (Blanchet), Green Party (May)",
       "b": "Conservative (Poilievre), Green (May), Liberal (Trudeau), Bloc Quebecois (Duceppe)",
-      "c": "NDP (Mulcair), Green (May), Liberal (Rae), Bloc Quebecois (Paill\u00e9)",
+      "c": "NDP (Mulcair), Green (May), Liberal (Rae), Bloc Quebecois (Paillé)",
       "d": "Liberal (Ignatieff), Conservative (Ambrose), NDP (Turmel), Green (May)"
     },
     "answer": "a",
@@ -772,10 +772,10 @@
   "71": {
     "question": "What are the three main groups of Aboriginal peoples?",
     "options": {
-      "a": "First Nations, M\u00e9tis and Inuit.",
-      "b": "Acadians, M\u00e9tis and Inuit.",
-      "c": "United Empire Loyalists, M\u00e9tis and Inuit.",
-      "d": "Inuit, M\u00e9tis and Acadians."
+      "a": "First Nations, Métis and Inuit.",
+      "b": "Acadians, Métis and Inuit.",
+      "c": "United Empire Loyalists, Métis and Inuit.",
+      "d": "Inuit, Métis and Acadians."
     },
     "answer": "a",
     "note": ""
@@ -805,7 +805,7 @@
   "74": {
     "question": "What are the two official languages of Canada?",
     "options": {
-      "a": "English and M\u00e9tis.",
+      "a": "English and Métis.",
       "b": "Inuktitut and French.",
       "c": "English and French.",
       "d": "English and Inuktitut."
@@ -1221,7 +1221,7 @@
     "note": ""
   },
   "112": {
-    "question": "What song is Canada\u2019s national anthem?",
+    "question": "What song is Canada’s national anthem?",
     "options": {
       "a": "God Save the King.",
       "b": "O Canada.",
@@ -1696,8 +1696,8 @@
   "155": {
     "question": "Who are the founding peoples of Canada?",
     "options": {
-      "a": "M\u00e9tis, French and British.",
-      "b": "Aboriginal, M\u00e9tis and British.",
+      "a": "Métis, French and British.",
+      "b": "Aboriginal, Métis and British.",
       "c": "Inuit, Aboriginal and British.",
       "d": "Aboriginal, French and British."
     },
@@ -1705,7 +1705,7 @@
     "note": ""
   },
   "156": {
-    "question": "Who are the M\u00e9tis?",
+    "question": "Who are the Métis?",
     "options": {
       "a": "The distinct aboriginal people of Atlantic Canada.",
       "b": "A people of mixed Inuit/First Nations ancestry most of whom live on the Prairies.",
@@ -1793,7 +1793,7 @@
     "note": ""
   },
   "164": {
-    "question": "Who is Canada\u2019s Head of State?",
+    "question": "Who is Canada’s Head of State?",
     "options": {
       "a": "Governor General of Canada.",
       "b": "His Majesty King Charles III.",
@@ -1817,7 +1817,7 @@
   "166": {
     "question": "Who is General Sir Arthur Currie?",
     "options": {
-      "a": "A military leader of the M\u00e9tis in the 19th century.",
+      "a": "A military leader of the Métis in the 19th century.",
       "b": "A great frontier hero.",
       "c": "An explorer of western Canada.",
       "d": "Canada's greatest soldier in the First World War."
@@ -1837,7 +1837,7 @@
     "note": ""
   },
   "168": {
-    "question": "Who is the King\u2019s representative in Canada?",
+    "question": "Who is the King’s representative in Canada?",
     "options": {
       "a": "Prime Minister of Canada.",
       "b": "Premier.",
@@ -1864,7 +1864,7 @@
       "a": "John A. Macdonald",
       "b": "Louis Riel",
       "c": "Sam Steele",
-      "d": "George-\u00c9tienne Cartier"
+      "d": "George-Étienne Cartier"
     },
     "answer": "b",
     "note": ""
@@ -1873,7 +1873,7 @@
     "question": "Who led Quebec into Confederation?",
     "options": {
       "a": "Sir Louis-Hippolyte La Fontaine",
-      "b": "Sir George-\u00c9tienne Cartier",
+      "b": "Sir George-Étienne Cartier",
       "c": "Sir Wilfrid Laurier",
       "d": "Sir John A. Macdonald"
     },
@@ -1895,7 +1895,7 @@
     "question": "Who was Sir Sam Steele?",
     "options": {
       "a": "A great frontier hero, Mounted Policeman and soldier.",
-      "b": "A military leader of the M\u00e9tis in the 19th century.",
+      "b": "A military leader of the Métis in the 19th century.",
       "c": "The first Prime Minister of Canada.",
       "d": "The Father of Manitoba."
     },
@@ -1929,7 +1929,7 @@
     "options": {
       "a": "Settlers who came to Canada from the United States during the American Revolution.",
       "b": "Aboriginal peoples.",
-      "c": "M\u00e9tis",
+      "c": "Métis",
       "d": "Inuit."
     },
     "answer": "a",
@@ -2629,7 +2629,7 @@
     "note": ""
   },
   "240": {
-    "question": "Which three are Members of Ontario\u2019s Legislative Assembly?",
+    "question": "Which three are Members of Ontario’s Legislative Assembly?",
     "options": {
       "a": "Brian Kilrea, Marlene Catterall, Tom Green",
       "b": "Howard Hampton, Maurice Richard, Daniel Poliquin",
@@ -2667,7 +2667,7 @@
       "a": "Honourable Antoinette Perry",
       "b": "Honourable H. Frank Lewis",
       "c": "Honourable Barbara Oliver Hagerman",
-      "d": "Honourable L\u00e9once Barnard"
+      "d": "Honourable Léonce Barnard"
     },
     "answer": "a",
     "note": ""
@@ -2730,8 +2730,8 @@
   "249": {
     "question": "Which political party is in power in Quebec?",
     "options": {
-      "a": "Coalition Avenir Qu\u00e9bec",
-      "b": "Parti lib\u00e9ral",
+      "a": "Coalition Avenir Québec",
+      "b": "Parti libéral",
       "c": "Parti Quebecois",
       "d": "Union Nationale"
     },
@@ -2819,7 +2819,7 @@
     "question": "What is the name of the Commissioner of Yukon Territory?",
     "options": {
       "a": "Honourable Doug Phillips",
-      "b": "Honourable Ang\u00e9lique Bernard",
+      "b": "Honourable Angélique Bernard",
       "c": "Honourable Jack Cable",
       "d": "Honourable Douglas Bell"
     },
@@ -3115,9 +3115,9 @@
   "284": {
     "question": "Name the federal political parties represented in the House of Commons and their leaders",
     "options": {
-      "a": "Conservative Party of Canada (Pierre Poilievre), New Democratic Party (Jagmeet Singh), Liberal Party of Canada (Justin Trudeau), Bloc Qu\u00e9b\u00e9cois (Yves-Fran\u00e7ois Blanchet), Green Party (Elizabeth May and Mike Morrice)",
-      "b": "Conservative Party of Canada (Pierre Poilievre), Liberal Party of Canada (Justin Trudeau), New Democratic Party (Jagmeet Singh), Bloc Qu\u00e9b\u00e9cois (Yves-Fran\u00e7ois Blanchet)",
-      "c": "Conservative Party of Canada (Pierre Poilievre), Liberal Party of Canada (Justin Trudeau), Green Party (Elizabeth May and Mike Morrice),  Bloc Qu\u00e9b\u00e9cois (Yves-Fran\u00e7ois Blanchet)",
+      "a": "Conservative Party of Canada (Pierre Poilievre), New Democratic Party (Jagmeet Singh), Liberal Party of Canada (Justin Trudeau), Bloc Québécois (Yves-François Blanchet), Green Party (Elizabeth May and Mike Morrice)",
+      "b": "Conservative Party of Canada (Pierre Poilievre), Liberal Party of Canada (Justin Trudeau), New Democratic Party (Jagmeet Singh), Bloc Québécois (Yves-François Blanchet)",
+      "c": "Conservative Party of Canada (Pierre Poilievre), Liberal Party of Canada (Justin Trudeau), Green Party (Elizabeth May and Mike Morrice),  Bloc Québécois (Yves-François Blanchet)",
       "d": "Conservative Party of Canada (Pierre Poilievre), Liberal Party of Canada (Justin Trudeau), New Democratic Party (Jagmeet Singh), Green Party (Elizabeth May and Mike Morrice)"
     },
     "answer": "a",
@@ -3139,7 +3139,7 @@
     "options": {
       "a": "Dalton McGuinty",
       "b": "Stephen Lewis",
-      "c": "Micha\u00eblle Jean",
+      "c": "Michaëlle Jean",
       "d": "Justin Trudeau"
     },
     "answer": "d",
@@ -3205,7 +3205,7 @@
     "options": {
       "a": "Elizabeth Dowdeswell",
       "b": "James Bartleman",
-      "c": "Micha\u00eblle Jean",
+      "c": "Michaëlle Jean",
       "d": "David Miller"
     },
     "answer": "a",
@@ -3237,7 +3237,7 @@
     "question": "Who are the aboriginal peoples of Canada?",
     "options": {
       "a": "United Empire Loyalists",
-      "b": "M\u00e9tis",
+      "b": "Métis",
       "c": "Immigrants from Australia",
       "d": "The first inhabitants of Canada"
     },
@@ -3247,8 +3247,8 @@
   "296": {
     "question": "What are the three main groups of Aboriginal peoples?",
     "options": {
-      "a": "First Nations, Inuit, M\u00e9tis",
-      "b": "Acadians, Inuit, M\u00e9tis",
+      "a": "First Nations, Inuit, Métis",
+      "b": "Acadians, Inuit, Métis",
       "c": "First Nations, French and Inuit",
       "d": "First Nations, Acadians and Inuit"
     },
@@ -3256,7 +3256,7 @@
     "note": ""
   },
   "297": {
-    "question": "Who are the M\u00e9tis?",
+    "question": "Who are the Métis?",
     "options": {
       "a": "The distinct Aboriginal people of Atlantic Canada.",
       "b": "A people of mixed Inuit/First Nations ancestry most of whom live on the Prairies.",
@@ -3278,7 +3278,7 @@
     "note": ""
   },
   "299": {
-    "question": "Who are the Qu\u00e9b\u00e9cois?",
+    "question": "Who are the Québécois?",
     "options": {
       "a": "French-speaking Catholics",
       "b": "Descendants of French colonists",
@@ -3478,7 +3478,7 @@
   "317": {
     "question": "Who was Louis Riel?",
     "options": {
-      "a": "A M\u00e9tis leader and the Father of Manitoba",
+      "a": "A Métis leader and the Father of Manitoba",
       "b": "A Mounted Policeman and soldier of the Queen",
       "c": "A winner of the Victoria Cross",
       "d": "The Prime Minister of Canada during World War I"
@@ -3581,7 +3581,7 @@
       "b": "False"
     },
     "answer": "b",
-    "note": "Regrettably, from 1914 to 1920, Ottawa interned over 8,000 former Austro-Hungarian subjects, mainly Ukrainian men, as \u201cenemy aliens\u201d in 24 labour camps across Canada, even though Britain advised against the policy."
+    "note": "Regrettably, from 1914 to 1920, Ottawa interned over 8,000 former Austro-Hungarian subjects, mainly Ukrainian men, as “enemy aliens” in 24 labour camps across Canada, even though Britain advised against the policy."
   },
   "327": {
     "question": "British Columbia is known as Canada&#8217;s Pacific Gateway because:",
@@ -3641,7 +3641,7 @@
       "b": "False"
     },
     "answer": "a",
-    "note": "Canadian volunteers and First Nations, including Shawnee led by Chief Tecumseh, supported British soldiers in Canada\u2019s defence."
+    "note": "Canadian volunteers and First Nations, including Shawnee led by Chief Tecumseh, supported British soldiers in Canada’s defence."
   },
   "333": {
     "question": "Due to the effort of which Canadian, Quebec granted women the right to vote in 1940.",
@@ -3649,10 +3649,10 @@
       "a": "Kathleen Wynne",
       "b": "Agnes Macphail",
       "c": "Rachel Notley",
-      "d": "Th\u00e9r\u00e8se Casgrain"
+      "d": "Thérèse Casgrain"
     },
     "answer": "d",
-    "note": "Due to the work of Th\u00e9r\u00e8se Casgrain and others, Quebec granted women the vote in 1940."
+    "note": "Due to the work of Thérèse Casgrain and others, Quebec granted women the vote in 1940."
   },
   "334": {
     "question": "How many Canadian soldiers served in World War I?",
@@ -3710,7 +3710,7 @@
     "note": "The ancestors of Aboriginal peoples are believed to have migrated from Asia many thousands of years ago. They first settled all over Canada."
   },
   "339": {
-    "question": "Is current Canada \u2013 US border outcome of Second World War?",
+    "question": "Is current Canada - US border outcome of Second World War?",
     "options": {
       "a": "TRUE",
       "b": "FALSE"
@@ -3736,7 +3736,7 @@
       "d": "Acadians men and French women"
     },
     "answer": "c",
-    "note": "The M\u00e9tis are a distinct people of mixed Aboriginal and European ancestry, the majority of whom live in the Prairie provinces. They come from both French- and English-speaking backgrounds and speak their own dialect, Michif."
+    "note": "The Métis are a distinct people of mixed Aboriginal and European ancestry, the majority of whom live in the Prairie provinces. They come from both French- and English-speaking backgrounds and speak their own dialect, Michif."
   },
   "342": {
     "question": "Nunavut became a territory:",
@@ -3932,7 +3932,7 @@
       "d": "Battle of Amiens"
     },
     "answer": "b",
-    "note": "The Canadian Corps captured Vimy Ridge in April 1917, with 10,000 killed or wounded, securing the Canadians\u2019 reputation for valour as the \u201cshock troops of the British Empire.\u201d"
+    "note": "The Canadian Corps captured Vimy Ridge in April 1917, with 10,000 killed or wounded, securing the Canadians’ reputation for valour as the “shock troops of the British Empire.”"
   },
   "360": {
     "question": "What beach did Canadians storm and capture during the D-Day Invasion?",
@@ -3954,7 +3954,7 @@
       "d": "Newfoundland"
     },
     "answer": "c",
-    "note": "The first British North American colony to attain full responsible government was Nova Scotia in 1847\u201348. In 1848\u201349 the governor of United Canada, Lord Elgin, with encouragement from London, introduced responsible government."
+    "note": "The first British North American colony to attain full responsible government was Nova Scotia in 1847-48. In 1848-49 the governor of United Canada, Lord Elgin, with encouragement from London, introduced responsible government."
   },
   "362": {
     "question": "What decade did the Great Depression occur?",
@@ -3965,7 +3965,7 @@
       "d": "1950s"
     },
     "answer": "b",
-    "note": "The stock market crash of 1929, however, led to the Great Depression or the \u201cDirty Thirties.\u201d Unemployment reached 27% in 1933 and many businesses were wiped out."
+    "note": "The stock market crash of 1929, however, led to the Great Depression or the “Dirty Thirties.” Unemployment reached 27% in 1933 and many businesses were wiped out."
   },
   "363": {
     "question": "What did the Quebec Act of 1774 establish?",
@@ -3998,7 +3998,7 @@
       "d": "Colonies merged together to form a country"
     },
     "answer": "b",
-    "note": "Canadian Confederation (French: Conf\u00e9d\u00e9ration Canadienne) was the process by which the British colonies of Canada, Nova Scotia, and New Brunswick were united into one Dominion of Canada on July 1, 1867."
+    "note": "Canadian Confederation (French: Confédération Canadienne) was the process by which the British colonies of Canada, Nova Scotia, and New Brunswick were united into one Dominion of Canada on July 1, 1867."
   },
   "366": {
     "question": "What is the British North America Act?",
@@ -4075,7 +4075,7 @@
       "d": "Because they believed it would be easy to conquer Canada"
     },
     "answer": "d",
-    "note": "The British Empire, which included Canada, fought to resist Bonaparte\u2019s bid to dominate Europe. This led to American resentment at British interference with their shipping. Believing it would be easy to conquer Canada, the United States launched an invasion in June 1812."
+    "note": "The British Empire, which included Canada, fought to resist Bonaparte’s bid to dominate Europe. This led to American resentment at British interference with their shipping. Believing it would be easy to conquer Canada, the United States launched an invasion in June 1812."
   },
   "373": {
     "question": "What was the Head Tax?",
@@ -4130,7 +4130,7 @@
       "d": "Queen&#039;s Police Force of Canada"
     },
     "answer": "a",
-    "note": "After the first M\u00e9tis uprising, Prime Minister Macdonald established the North West Mounted Police (NWMP) in 1873 to pacify the West and assist in negotiations with the Indians."
+    "note": "After the first Métis uprising, Prime Minister Macdonald established the North West Mounted Police (NWMP) in 1873 to pacify the West and assist in negotiations with the Indians."
   },
   "378": {
     "question": "When did Canada become a country?",
@@ -4163,7 +4163,7 @@
       "d": "The early 1700s"
     },
     "answer": "b",
-    "note": "The French settlers first established communities on the St. Lawrence River in the early 1600s. In 1608, Champlain built a fortress at what is now Qu\u00e9bec City."
+    "note": "The French settlers first established communities on the St. Lawrence River in the early 1600s. In 1608, Champlain built a fortress at what is now Québec City."
   },
   "381": {
     "question": "When was the Bank of Canada created?",
@@ -4251,7 +4251,7 @@
       "d": "Sir Robert Borden"
     },
     "answer": "d",
-    "note": "In 1917, thanks to the leadership of women such as Dr. Stowe and other suffragettes, the federal government of Sir Robert Borden gave women the right to vote in federal elections \u2014 first to nurses at the battle front, then to women who were related to men in active wartime service."
+    "note": "In 1917, thanks to the leadership of women such as Dr. Stowe and other suffragettes, the federal government of Sir Robert Borden gave women the right to vote in federal elections - first to nurses at the battle front, then to women who were related to men in active wartime service."
   },
   "389": {
     "question": "Which province is the last one to join Canada?",
@@ -4284,7 +4284,7 @@
       "d": "In the 1700s Spain and Portugal battled for control of North America."
     },
     "answer": "c",
-    "note": "In 1759, the British defeated the French in the Battle of the Plains of Abraham at Qu\u00e9bec City \u2014 marking the end of France&#8217;s empire in America."
+    "note": "In 1759, the British defeated the French in the Battle of the Plains of Abraham at Québec City - marking the end of France&#8217;s empire in America."
   },
   "392": {
     "question": "Who became the first French Canadian Prime Minister?",
@@ -4317,7 +4317,7 @@
       "d": "Phil Edwards"
     },
     "answer": "b",
-    "note": "Canadian medical officer Lieutenant Colonel John McCrae composed the poem \u201cIn Flanders Fields\u201d in 1915; it is often recited on Remembrance Day."
+    "note": "Canadian medical officer Lieutenant Colonel John McCrae composed the poem “In Flanders Fields” in 1915; it is often recited on Remembrance Day."
   },
   "395": {
     "question": "Who is the father of Manitoba?",
@@ -4339,7 +4339,7 @@
       "d": "Gabriel Dumont"
     },
     "answer": "a",
-    "note": "In 1918, under the command of General Sir Arthur Currie, Canada\u2019s greatest soldier, the Canadian Corps advanced alongside the French and British Empire troops in the last hundred days."
+    "note": "In 1918, under the command of General Sir Arthur Currie, Canada’s greatest soldier, the Canadian Corps advanced alongside the French and British Empire troops in the last hundred days."
   },
   "397": {
     "question": "Who led thousands of Loyalist Mohawk Indians into Canada?",
@@ -4383,7 +4383,7 @@
       "d": "The Prime Minister of Canada during World War I"
     },
     "answer": "b",
-    "note": "When Canada took over the vast northwest region from the Hudson&#8217;s Bay Company in 1869, the 12,000 M\u00e9tis of the Red River was not consulted. In response, Louis Riel led an armed uprising and seized Fort Garry, the territorial capital. He was a Metis leader and the Father of Manitoba."
+    "note": "When Canada took over the vast northwest region from the Hudson&#8217;s Bay Company in 1869, the 12,000 Métis of the Red River was not consulted. In response, Louis Riel led an armed uprising and seized Fort Garry, the territorial capital. He was a Metis leader and the Father of Manitoba."
   },
   "401": {
     "question": "Who was the first Prime Minister of Canada?",
@@ -4405,7 +4405,7 @@
       "d": "Aboriginal peoples"
     },
     "answer": "b",
-    "note": "European exploration began in earnest in 1497 with the expedition of John Cabot, who was the first to draw a map of Canada\u2019s East Coast."
+    "note": "European exploration began in earnest in 1497 with the expedition of John Cabot, who was the first to draw a map of Canada’s East Coast."
   },
   "403": {
     "question": "Who&#8217;s on a $10 Note?",
@@ -4471,7 +4471,7 @@
       "d": "Survey the Canadian Citizens"
     },
     "answer": "c",
-    "note": "After the first M\u00e9tis uprising, Prime Minister Macdonald established the North West Mounted Police (NWMP) in 1873 to pacify the West and assist in negotiations with the Indians."
+    "note": "After the first Métis uprising, Prime Minister Macdonald established the North West Mounted Police (NWMP) in 1873 to pacify the West and assist in negotiations with the Indians."
   },
   "409": {
     "question": "Adrienne Clarkson, who established the Clarkson Cup in 2005, is the first Governor General of Asian Origin",
@@ -4480,7 +4480,7 @@
       "b": "False"
     },
     "answer": "a",
-    "note": "The Clarkson Cup, established in 2005 by Adrienne Clarkson, the 26th Governor General (and the first of Asian origin), is awarded for women\u2019s hockey."
+    "note": "The Clarkson Cup, established in 2005 by Adrienne Clarkson, the 26th Governor General (and the first of Asian origin), is awarded for women’s hockey."
   },
   "410": {
     "question": "How many Canadians have been awarded the Victoria Cross?",
@@ -4656,7 +4656,7 @@
       "d": "Lord Save the Queen"
     },
     "answer": "c",
-    "note": "The Royal Anthem of Canada, \u201cGod Save the Queen (or King),\u201d can be played or sung on any occasion when Canadians wish to honour the Sovereign."
+    "note": "The Royal Anthem of Canada, “God Save the Queen (or King),” can be played or sung on any occasion when Canadians wish to honour the Sovereign."
   },
   "426": {
     "question": "What is the national symbol of Canada?",
@@ -4799,7 +4799,7 @@
       "d": "Tourism industries"
     },
     "answer": "c",
-    "note": "Today, the economy of many areas of the country still depends on developing natural resources, and a large percentage of Canada\u2019s exports are natural resources commodities."
+    "note": "Today, the economy of many areas of the country still depends on developing natural resources, and a large percentage of Canada’s exports are natural resources commodities."
   },
   "439": {
     "question": "Where is the Peace Arch located?",
@@ -4810,7 +4810,7 @@
       "d": "Seattle, Washington"
     },
     "answer": "b",
-    "note": "At Blaine in the State of Washington, the Peace Arch, inscribed with the words \u201cchildren of a common mother\u201d and \u201cbrethren dwelling together in unity,\u201d symbolizes our close ties and common interests."
+    "note": "At Blaine in the State of Washington, the Peace Arch, inscribed with the words “children of a common mother” and “brethren dwelling together in unity,” symbolizes our close ties and common interests."
   },
   "440": {
     "question": "Who is Canada&#8217;s largest trading partner?",
@@ -4885,7 +4885,7 @@
       "b": "False"
     },
     "answer": "b",
-    "note": "Even if you choose not to be listed in the National Register of Electors or do not receive a voter information card, you can still be added to the voters\u2019 list at any time, including on election day."
+    "note": "Even if you choose not to be listed in the National Register of Electors or do not receive a voter information card, you can still be added to the voters’ list at any time, including on election day."
   },
   "447": {
     "question": "By-laws are the responsibility of which level of government?",

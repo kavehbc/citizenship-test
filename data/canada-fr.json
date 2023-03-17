@@ -126,7 +126,7 @@
       "a": "Le lieutenant-gouverneur doit approuver le projet de loi",
       "b": "Approbation par la majorité à la Chambre des communes et au Sénat, puis par le gouverneur général",
       "c": "Le Roi doit signer le projet de loi.",
-      "d": "Approbation des membres de l\\'Assemblée législative"
+      "d": "Approbation des membres de l'Assemblée législative"
     },
     "answer": "b",
     "note": ""
@@ -136,7 +136,7 @@
     "options": {
       "a": "Par le Roi.",
       "b": "Par les électeurs.",
-      "c": "Par d\\'autres ministres du Cabinet.",
+      "c": "Par d'autres ministres du Cabinet.",
       "d": "Par le premier ministre."
     },
     "answer": "d",
@@ -432,8 +432,8 @@
     "question": "Quelles sont les trois parties du Parlement?",
     "options": {
       "a": "Le Souverain, le gouverneur général et le premier ministre",
-      "b": "La Chambre des communes, l\\'assemblée législative et le Sénat",
-      "c": "Le Roi, l\\'assemblée législative et le Sénat",
+      "b": "La Chambre des communes, l'assemblée législative et le Sénat",
+      "c": "Le Roi, l'assemblée législative et le Sénat",
       "d": "Le Souverain, la Chambre des communes et le Sénat"
     },
     "answer": "d",
@@ -858,7 +858,7 @@
     "note": ""
   },
   "79": {
-    "question": "Quelle chanson est l\\'hymne national du Canada?",
+    "question": "Quelle chanson est l'hymne national du Canada?",
     "options": {
       "a": "God Save the King",
       "b": "Ô Canada",
@@ -915,10 +915,10 @@
   "84": {
     "question": "Que promet-on en prêtant le Serment de citoyenneté?",
     "options": {
-      "a": "De prêter allégeance à le Roi, d\\'observer les lois canadiennes et d\\'accomplir les tâches d?un Canadien",
-      "b": "D\\'être fidèle à le Roi",
+      "a": "De prêter allégeance à le Roi, d'observer les lois canadiennes et d'accomplir les tâches d?un Canadien",
+      "b": "D'être fidèle à le Roi",
       "c": "De respecter les lois canadiennes",
-      "d": "D\\'assumer ses responsabilités en tant que citoyen canadien"
+      "d": "D'assumer ses responsabilités en tant que citoyen canadien"
     },
     "answer": "a",
     "note": ""
@@ -1012,12 +1012,12 @@
     "note": ""
   },
   "93": {
-    "question": "Lorsque vous allez voter le jour d\\'une élection, que faites-vous?",
+    "question": "Lorsque vous allez voter le jour d'une élection, que faites-vous?",
     "options": {
       "a": "Vous allez au bureau de scrutin, vous leur dites qui vous êtes et inscrivez votre X. Vous remettez le bulletin de vote au préposé.",
       "b": "Vous allez au bureau de scrutin, vous prenez un bulletin de vote et, après avoir inscrit votre X, vous le déposez dans l?urne.",
-      "c": "Vous allez au bureau de scrutin, vous présentez votre carte d\\'électeur ainsi qu\\'une preuve d\\'identité, vous surlignez votre choix sur le bulletin de vote avant de le déposer dans l\\'urne.",
-      "d": "Vous allez au bureau de scrutin, vous présentez votre carte d\\'électeur ainsi qu\\'une preuve d\\'identité, vous surlignez votre choix sur le bulletin de vote avant de le déposer dans l\\'urne."
+      "c": "Vous allez au bureau de scrutin, vous présentez votre carte d'électeur ainsi qu'une preuve d'identité, vous surlignez votre choix sur le bulletin de vote avant de le déposer dans l'urne.",
+      "d": "Vous allez au bureau de scrutin, vous présentez votre carte d'électeur ainsi qu'une preuve d'identité, vous surlignez votre choix sur le bulletin de vote avant de le déposer dans l'urne."
     },
     "answer": "d",
     "note": ""
@@ -1430,7 +1430,7 @@
     "note": ""
   },
   "131": {
-    "question": "Qui est le chef d\\'État du Canada?",
+    "question": "Qui est le chef d'État du Canada?",
     "options": {
       "a": "Le gouverneur général du Canada",
       "b": "Sa Majesté le Roi Charles III.",
@@ -1485,7 +1485,7 @@
     "note": ""
   },
   "136": {
-    "question": "Qui est le chef du parti d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'opposition officiel fédéral?",
+    "question": "Qui est le chef du parti d'opposition officiel fédéral?",
     "options": {
       "a": "Thomas Mulcair",
       "b": "Andrew Scheer",
@@ -1606,7 +1606,7 @@
     "note": ""
   },
   "147": {
-    "question": "Quel est le nom du chef de l\\\\\\'opposition au Québec?",
+    "question": "Quel est le nom du chef de l'opposition au Québec?",
     "options": {
       "a": "Dominique Anglade",
       "b": "Marc Tanguay",
@@ -1661,7 +1661,7 @@
     "note": ""
   },
   "152": {
-    "question": "Quel est le nom du premier ministre de l\\'Alberta?",
+    "question": "Quel est le nom du premier ministre de l'Alberta?",
     "options": {
       "a": "Le premier ministre Rachel Notley.",
       "b": "Le premier ministre Jason Kenney.",
@@ -1749,7 +1749,7 @@
     "note": ""
   },
   "160": {
-    "question": "Quel est le nom du chef de l\\\\\\'opposition en Colombie-Britannique?",
+    "question": "Quel est le nom du chef de l'opposition en Colombie-Britannique?",
     "options": {
       "a": "Adam Olsen",
       "b": "Kevin Falcon",
@@ -1850,10 +1850,10 @@
   "169": {
     "question": "Qui est le du lieutenant-gouverneur du Manitoba?",
     "options": {
-      "a": "L\\'honorable Anita Neville",
-      "b": "L\\'honorable Peter Liba",
-      "c": "L\\'honorable Philip Lee",
-      "d": "L\\'honorable Janice Filmon"
+      "a": "L'honorable Anita Neville",
+      "b": "L'honorable Peter Liba",
+      "c": "L'honorable Philip Lee",
+      "d": "L'honorable Janice Filmon"
     },
     "answer": "a",
     "note": ""
@@ -1903,7 +1903,7 @@
     "note": ""
   },
   "174": {
-    "question": "Quel est le nom du chef de l\\\\\\'opposition au Nouveau-Brunswick?",
+    "question": "Quel est le nom du chef de l'opposition au Nouveau-Brunswick?",
     "options": {
       "a": "Victor Boudreau",
       "b": "Denis Landry",
@@ -1969,7 +1969,7 @@
     "note": ""
   },
   "180": {
-    "question": "Quel est le nom du chef de l\\'opposition à Terre-Neuve-et-Labrador?",
+    "question": "Quel est le nom du chef de l'opposition à Terre-Neuve-et-Labrador?",
     "options": {
       "a": "David Brazil",
       "b": "Ches Crosbie",
@@ -2035,7 +2035,7 @@
     "note": ""
   },
   "186": {
-    "question": "Quel est le nom du chef de l\\\\\\\\\\\\\\'opposition en Nouvelle-Écosse?",
+    "question": "Quel est le nom du chef de l'opposition en Nouvelle-Écosse?",
     "options": {
       "a": "Darrell Dexter",
       "b": "John MacDonell",
@@ -2211,7 +2211,7 @@
     "note": ""
   },
   "202": {
-    "question": "Quel est le nom du chef de l\\\\\\'opposition en Ontario?",
+    "question": "Quel est le nom du chef de l'opposition en Ontario?",
     "options": {
       "a": "Andrea Horwath",
       "b": "Marit Stiles",
@@ -2376,7 +2376,7 @@
     "note": ""
   },
   "217": {
-    "question": "Quel est le nom du chef de l\\'opposition en Saskatchewan?",
+    "question": "Quel est le nom du chef de l'opposition en Saskatchewan?",
     "options": {
       "a": "Ryan Meili",
       "b": "Carla Beck",
@@ -2453,7 +2453,7 @@
     "note": ""
   },
   "224": {
-    "question": "Quel est le nom du chef de l\\'opposition au Yukon?",
+    "question": "Quel est le nom du chef de l'opposition au Yukon?",
     "options": {
       "a": "Trevor Harding",
       "b": "Currie Dixon",
