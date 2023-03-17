@@ -365,10 +365,10 @@
   "34": {
     "question": "A Member of Parliament from Montreal announces that she will spend her weekend in her electoral district. This means she would be:",
     "options": {
-      "a": "In her office on Parliament Hill.",
-      "b": "Visiting the province of Quebec.",
-      "c": "In the part of Montreal where she was elected.",
-      "d": "Going on a vacation."
+      "a": "In her office on Parliament Hill",
+      "b": "Visiting the province of Quebec",
+      "c": "In the part of Montreal where she was elected",
+      "d": "Going on a vacation"
     },
     "answer": "c",
     "note": ""
@@ -376,9 +376,9 @@
   "35": {
     "question": "After a federal election, which party forms the new government?",
     "options": {
-      "a": "The party with the most elected representatives is invited by the Governor General to become the party in power.",
-      "b": "The King himself picks any party to run the government.",
-      "c": "The Governor General proposes a law for elected officials to become the governing body.",
+      "a": "The party with the most elected representatives is invited by the Governor General to become the party in power",
+      "b": "The King himself picks any party to run the government",
+      "c": "The Governor General proposes a law for elected officials to become the governing body",
       "d": "The Premiers of each province pick a party to run the government"
     },
     "answer": "a",
@@ -387,10 +387,10 @@
   "36": {
     "question": "Approximately how many Canadians served in the First World War?",
     "options": {
-      "a": "7000.",
-      "b": "8 million.",
-      "c": "About 60,000.",
-      "d": "More than 600,000."
+      "a": "7000",
+      "b": "8 million",
+      "c": "About 60,000",
+      "d": "More than 600,000"
     },
     "answer": "d",
     "note": ""
@@ -442,10 +442,10 @@
   "41": {
     "question": "Give an example of where English and French have equal status in Canada.",
     "options": {
-      "a": "In schools.",
-      "b": "In the workplace.",
-      "c": "In the Parliament of Canada.",
-      "d": "At City Hall."
+      "a": "In schools",
+      "b": "In the workplace",
+      "c": "In the Parliament of Canada",
+      "d": "At City Hall"
     },
     "answer": "c",
     "note": ""
@@ -464,10 +464,10 @@
   "43": {
     "question": "How are Members of Parliament chosen?",
     "options": {
-      "a": "Appointed by the Prime Minister.",
-      "b": "Elected by Canadian citizens.",
-      "c": "Appointed by the King.",
-      "d": "Elected by the Provincial Ministers."
+      "a": "Appointed by the Prime Minister",
+      "b": "Elected by Canadian citizens",
+      "c": "Appointed by the King",
+      "d": "Elected by the Provincial Ministers"
     },
     "answer": "b",
     "note": ""
@@ -475,10 +475,10 @@
   "44": {
     "question": "How are Senators chosen?",
     "options": {
-      "a": "By the Governor General of Canada.",
-      "b": "By the Premiers of all provinces.",
-      "c": "Appointed by the King.",
-      "d": "Senators are appointed by the Governor General on the advice of the Prime Minister."
+      "a": "By the Governor General of Canada",
+      "b": "By the Premiers of all provinces",
+      "c": "Appointed by the King",
+      "d": "Senators are appointed by the Governor General on the advice of the Prime Minister"
     },
     "answer": "d",
     "note": ""
@@ -486,10 +486,10 @@
   "45": {
     "question": "How does a bill become a law?",
     "options": {
-      "a": "The Lieutenant Governor must approve the bill.",
-      "b": "Approval by a majority in the House of Commons and Senate and finally the Governor General.",
-      "c": "The King must sign the bill.",
-      "d": "Approval by the Members of the Legislative Assembly."
+      "a": "The Lieutenant Governor must approve the bill",
+      "b": "Approval by a majority in the House of Commons and Senate and finally the Governor General",
+      "c": "The King must sign the bill",
+      "d": "Approval by the Members of the Legislative Assembly"
     },
     "answer": "b",
     "note": ""
@@ -509,9 +509,9 @@
     "question": "How is the government formed after a federal election?",
     "options": {
       "a": "The party with the most elected representatives becomes the party in power. The King chooses the Prime Minister from this party",
-      "b": "Ordinarily, the party with the most elected representatives becomes the party in power. The leader of this party becomes the Prime Minister.",
-      "c": "The Governor General picks a party and a Prime Minister to run the government.",
-      "d": "Each province elects one representative to form the government. The King then chooses the Prime Minister."
+      "b": "Ordinarily, the party with the most elected representatives becomes the party in power. The leader of this party becomes the Prime Minister",
+      "c": "The Governor General picks a party and a Prime Minister to run the government",
+      "d": "Each province elects one representative to form the government. The King then chooses the Prime Minister"
     },
     "answer": "b",
     "note": ""
@@ -519,10 +519,10 @@
   "48": {
     "question": "How is the Prime Minister chosen?",
     "options": {
-      "a": "The King appoints the Prime Minister.",
-      "b": "The Governor General with the Senate appoint the Prime Minister.",
-      "c": "The leader of the party with the most elected representatives becomes the Prime Minister.",
-      "d": "The MPs vote on the Prime Minister."
+      "a": "The King appoints the Prime Minister",
+      "b": "The Governor General with the Senate appoint the Prime Minister",
+      "c": "The leader of the party with the most elected representatives becomes the Prime Minister",
+      "d": "The MPs vote on the Prime Minister"
     },
     "answer": "c",
     "note": ""
@@ -530,10 +530,10 @@
   "49": {
     "question": "In Canada, are you allowed to question the police about their service or conduct?",
     "options": {
-      "a": "No, police service and conduct is not open to discussion with Canadians.",
-      "b": "Yes, you can question their service but not their conduct.",
-      "c": "Yes, you can question their conduct but not their service.",
-      "d": "Yes, if you feel the need to."
+      "a": "No, police service and conduct is not open to discussion with Canadians",
+      "b": "Yes, you can question their service but not their conduct",
+      "c": "Yes, you can question their conduct but not their service",
+      "d": "Yes, if you feel the need to"
     },
     "answer": "d",
     "note": ""
@@ -597,10 +597,10 @@
   "55": {
     "question": "Name six responsibilities of citizenship.",
     "options": {
-      "a": "Getting a job, making money, raising a family, paying taxes, mowing your lawn, voting in provincial elections.",
-      "b": "Voting in municipal elections only, joining a political party, getting a job, obeying the law, driving safely, picking up litter.",
-      "c": "Caring for the environment, not littering, paying taxes, obeying the law, helping others, respecting others.",
-      "d": "Obeying the law, taking responsibility for oneself and one's family, helping others in the community, voting in elections, serving on a jury, protecting and enjoying our heritage and environment."
+      "a": "Getting a job, making money, raising a family, paying taxes, mowing your lawn, voting in provincial elections",
+      "b": "Voting in municipal elections only, joining a political party, getting a job, obeying the law, driving safely, picking up litter",
+      "c": "Caring for the environment, not littering, paying taxes, obeying the law, helping others, respecting others",
+      "d": "Obeying the law, taking responsibility for oneself and one's family, helping others in the community, voting in elections, serving on a jury, protecting and enjoying our heritage and environment"
     },
     "answer": "d",
     "note": ""
@@ -619,10 +619,10 @@
   "57": {
     "question": "Name three additional rights protected by the Canadian Charter of Rights and Freedoms",
     "options": {
-      "a": "Freedom of speech, Right to own land, and Right to a fair trial.",
-      "b": "Mobility rights, Multiculturalism, and Aboriginal Peoples' rights.",
-      "c": "Right to ski anywhere in Canada, Moving rights, and Right to public assembly.",
-      "d": "Right to vote, Right to speak publicly, and Security rights."
+      "a": "Freedom of speech, Right to own land, and Right to a fair trial",
+      "b": "Mobility rights, Multiculturalism, and Aboriginal Peoples' rights",
+      "c": "Right to ski anywhere in Canada, Moving rights, and Right to public assembly",
+      "d": "Right to vote, Right to speak publicly, and Security rights"
     },
     "answer": "b",
     "note": ""
@@ -630,10 +630,10 @@
   "58": {
     "question": "Name two fundamental freedoms protected by the Canadian Charter of Rights and Freedoms.",
     "options": {
-      "a": "Freedom of conscience and religion, and Freedom of association.",
-      "b": "Equality rights, and to care for Canada's heritage.",
-      "c": "Basic freedoms, and obeying laws.",
-      "d": "Aboriginal peoples' rights, and to volunteer."
+      "a": "Freedom of conscience and religion, and Freedom of association",
+      "b": "Equality rights, and to care for Canada's heritage",
+      "c": "Basic freedoms, and obeying laws",
+      "d": "Aboriginal peoples' rights, and to volunteer"
     },
     "answer": "a",
     "note": ""
@@ -641,10 +641,10 @@
   "59": {
     "question": "Name two key documents that contain our rights and freedoms.",
     "options": {
-      "a": "The Canadian Constitution and English common law.",
-      "b": "Civil code of France and the Canadian Constitution.",
-      "c": "Canadian Charter of Rights and Freedoms and Magna Carta (the Great Charter of Freedoms).",
-      "d": "Laws passed by Parliament and English common law."
+      "a": "The Canadian Constitution and English common law",
+      "b": "Civil code of France and the Canadian Constitution",
+      "c": "Canadian Charter of Rights and Freedoms and Magna Carta (the Great Charter of Freedoms)",
+      "d": "Laws passed by Parliament and English common law"
     },
     "answer": "c",
     "note": ""
@@ -652,10 +652,10 @@
   "60": {
     "question": "Name two responsibilities of the federal government.",
     "options": {
-      "a": "National defence and firefighting.",
-      "b": "National defence and foreign policy.",
-      "c": "Citizenship and highways.",
-      "d": "Recycling and education."
+      "a": "National defence and firefighting",
+      "b": "National defence and foreign policy",
+      "c": "Citizenship and highways",
+      "d": "Recycling and education"
     },
     "answer": "b",
     "note": ""
@@ -696,10 +696,10 @@
   "64": {
     "question": "The Canadian Coat of Arms and motto is 'A Mari Usque Ad Mare.'  This means:",
     "options": {
-      "a": "From the ocean to the sea.",
-      "b": "From sea to sea.",
-      "c": "From the sea to the ends of the earth.",
-      "d": "From the water to the earth."
+      "a": "From the ocean to the sea",
+      "b": "From sea to sea",
+      "c": "From the sea to the ends of the earth",
+      "d": "From the water to the earth"
     },
     "answer": "b",
     "note": ""
@@ -707,10 +707,10 @@
   "65": {
     "question": "What are some examples of taking responsibility for yourself and your family?",
     "options": {
-      "a": "Buying a house and a TV.",
-      "b": "Getting a job, taking care of one's family and working hard in keeping with one's abilities.",
-      "c": "Doing laundry and keeping the house clean.",
-      "d": "Study hard so you can earn enough money to take a vacation."
+      "a": "Buying a house and a TV",
+      "b": "Getting a job, taking care of one's family and working hard in keeping with one's abilities",
+      "c": "Doing laundry and keeping the house clean",
+      "d": "Study hard so you can earn enough money to take a vacation"
     },
     "answer": "b",
     "note": ""
@@ -718,10 +718,10 @@
   "66": {
     "question": "What are the Prairie provinces and their capital cities?",
     "options": {
-      "a": "Alberta (Edmonton) and Saskatchewan (Regina).",
-      "b": "Alberta (Edmonton), Saskatchewan (Regina) and Manitoba (Winnipeg).",
-      "c": "Saskatchewan (Regina) and Manitoba (Winnipeg).",
-      "d": "Saskatchewan (Regina), Manitoba (Winnipeg) and Ontario (Toronto)."
+      "a": "Alberta (Edmonton) and Saskatchewan (Regina)",
+      "b": "Alberta (Edmonton), Saskatchewan (Regina) and Manitoba (Winnipeg)",
+      "c": "Saskatchewan (Regina) and Manitoba (Winnipeg)",
+      "d": "Saskatchewan (Regina), Manitoba (Winnipeg) and Ontario (Toronto)"
     },
     "answer": "b",
     "note": ""
@@ -729,10 +729,10 @@
   "67": {
     "question": "What are the provinces of Central Canada and their capital cities?",
     "options": {
-      "a": "Manitoba (Winnipeg) and Ontario (Toronto).",
-      "b": "Quebec (Quebec City) and Prince Edward Island (Charlottetown).",
-      "c": "Ontario (Toronto) and Quebec (Quebec City).",
-      "d": "Saskatchewan (Regina) and Manitoba Winnipeg)."
+      "a": "Manitoba (Winnipeg) and Ontario (Toronto)",
+      "b": "Quebec (Quebec City) and Prince Edward Island (Charlottetown)",
+      "c": "Ontario (Toronto) and Quebec (Quebec City)",
+      "d": "Saskatchewan (Regina) and Manitoba Winnipeg)"
     },
     "answer": "c",
     "note": ""
@@ -740,10 +740,10 @@
   "68": {
     "question": "What are the provinces of the Atlantic region and their capital cities?",
     "options": {
-      "a": "Nova Scotia (Halifax), New Brunswick (Fredericton), Prince Edward Island (Charlottetown) and Quebec (Quebec).",
-      "b": "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Prince Edward Island (Charlottetown).",
-      "c": "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Quebec (Quebec).",
-      "d": "Nova Scotia (Halifax), New Brunswick (Fredericton), Quebec (Quebec City)and Ontario (Toronto)."
+      "a": "Nova Scotia (Halifax), New Brunswick (Fredericton), Prince Edward Island (Charlottetown) and Quebec (Quebec)",
+      "b": "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Prince Edward Island (Charlottetown)",
+      "c": "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Quebec (Quebec)",
+      "d": "Nova Scotia (Halifax), New Brunswick (Fredericton), Quebec (Quebec City)and Ontario (Toronto)"
     },
     "answer": "b",
     "note": ""
@@ -751,10 +751,10 @@
   "69": {
     "question": "What are the territories of Northern Canada and their capital cities?",
     "options": {
-      "a": "Alaska (Juneau) and Yukon Territory ( Whitehorse).",
-      "b": "Northwest Territories (Yellowknife) and Alaska (Juneau).",
-      "c": "Northwest Territories (Yellowknife).",
-      "d": "Yukon Territory (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)."
+      "a": "Alaska (Juneau) and Yukon Territory ( Whitehorse)",
+      "b": "Northwest Territories (Yellowknife) and Alaska (Juneau)",
+      "c": "Northwest Territories (Yellowknife)",
+      "d": "Yukon Territory (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)"
     },
     "answer": "d",
     "note": ""
@@ -762,10 +762,10 @@
   "70": {
     "question": "What are the three levels of government in Canada?",
     "options": {
-      "a": "Federal, Provincial and Territorial, Municipal (local).",
-      "b": "Federal, Provincial and City.",
-      "c": "Federal, Territorial and Provincial.",
-      "d": "Federal, State and Local."
+      "a": "Federal, Provincial and Territorial, Municipal (local)",
+      "b": "Federal, Provincial and City",
+      "c": "Federal, Territorial and Provincial",
+      "d": "Federal, State and Local"
     },
     "answer": "a",
     "note": ""
@@ -795,10 +795,10 @@
   "73": {
     "question": "What are the three parts of Parliament?",
     "options": {
-      "a": "The Sovereign, Governor General and Prime Minister.",
-      "b": "The House of Commons, the Legislative Assembly and the Senate.",
-      "c": "The King, the Legislative Assembly and the Senate.",
-      "d": "The Sovereign, the House of Commons and the Senate."
+      "a": "The Sovereign, Governor General and Prime Minister",
+      "b": "The House of Commons, the Legislative Assembly and the Senate",
+      "c": "The King, the Legislative Assembly and the Senate",
+      "d": "The Sovereign, the House of Commons and the Senate"
     },
     "answer": "d",
     "note": ""
@@ -806,10 +806,10 @@
   "74": {
     "question": "What are the two official languages of Canada?",
     "options": {
-      "a": "English and Métis.",
-      "b": "Inuktitut and French.",
-      "c": "English and French.",
-      "d": "English and Inuktitut."
+      "a": "English and Métis",
+      "b": "Inuktitut and French",
+      "c": "English and French",
+      "d": "English and Inuktitut"
     },
     "answer": "c",
     "note": ""
@@ -828,10 +828,10 @@
   "76": {
     "question": "What did the Canadian Pacific Railway symbolize?",
     "options": {
-      "a": "Easy access to the West Coast.",
-      "b": "What can be achieved by working together.",
-      "c": "Unity.",
-      "d": "Ribbons of steel."
+      "a": "Easy access to the West Coast",
+      "b": "What can be achieved by working together",
+      "c": "Unity",
+      "d": "Ribbons of steel"
     },
     "answer": "c",
     "note": ""
@@ -850,10 +850,10 @@
   "78": {
     "question": "What do you call a law before it is passed?",
     "options": {
-      "a": "A New law.",
-      "b": "A Proposed law.",
-      "c": "A Bill.",
-      "d": "A New proposal."
+      "a": "A New law",
+      "b": "A Proposed law",
+      "c": "A Bill",
+      "d": "A New proposal"
     },
     "answer": "c",
     "note": ""
@@ -861,10 +861,10 @@
   "79": {
     "question": "What do you call the Sovereign's representative in the provinces?",
     "options": {
-      "a": "Premier.",
-      "b": "Member of the Legislative Assembly.",
-      "c": "Lieutenant-Governor.",
-      "d": "Senator."
+      "a": "Premier",
+      "b": "Member of the Legislative Assembly",
+      "c": "Lieutenant-Governor",
+      "d": "Senator"
     },
     "answer": "c",
     "note": ""
@@ -883,10 +883,10 @@
   "81": {
     "question": "What does Confederation mean?",
     "options": {
-      "a": "The United States Confederate soldiers came to Canada.",
-      "b": "Joining of communities to become a province.",
-      "c": "Joining of suburbs to form a large city.",
-      "d": "Joining of provinces to make a new country."
+      "a": "The United States Confederate soldiers came to Canada",
+      "b": "Joining of communities to become a province",
+      "c": "Joining of suburbs to form a large city",
+      "d": "Joining of provinces to make a new country"
     },
     "answer": "d",
     "note": ""
@@ -894,10 +894,10 @@
   "82": {
     "question": "What does it mean to say Canada is a constitutional monarchy?",
     "options": {
-      "a": "The Sovereign (Queen or King) is the law maker of Canada.",
-      "b": "Canada's Head of State is a hereditary Sovereign (Queen or King) who reigns in accordance with the Constitution.",
-      "c": "The Sovereign (Queen or King) represents Canadians in Parliament.",
-      "d": "The Sovereign (Queen or King) approves bills before becoming law."
+      "a": "The Sovereign (Queen or King) is the law maker of Canada",
+      "b": "Canada's Head of State is a hereditary Sovereign (Queen or King) who reigns in accordance with the Constitution",
+      "c": "The Sovereign (Queen or King) represents Canadians in Parliament",
+      "d": "The Sovereign (Queen or King) approves bills before becoming law"
     },
     "answer": "b",
     "note": ""
@@ -916,10 +916,10 @@
   "84": {
     "question": "What does the Canadian flag look like?",
     "options": {
-      "a": "Red and white with provincial emblems.",
-      "b": "Red and white with a beaver.",
-      "c": "White with a red border on each end and a red maple leaf in the centre.",
-      "d": "Red with a white maple leaf."
+      "a": "Red and white with provincial emblems",
+      "b": "Red and white with a beaver",
+      "c": "White with a red border on each end and a red maple leaf in the centre",
+      "d": "Red with a white maple leaf"
     },
     "answer": "c",
     "note": ""
@@ -927,10 +927,10 @@
   "85": {
     "question": "What does the term 'responsible government' mean?",
     "options": {
-      "a": "Each person in each electoral district is responsible for voting.",
-      "b": "The Governor General is responsible for the actions of the Prime Minister.",
-      "c": "The ministers of the Crown must have the support of a majority of the elected representatives in order to govern.",
-      "d": "All Canadians are responsible for each other."
+      "a": "Each person in each electoral district is responsible for voting",
+      "b": "The Governor General is responsible for the actions of the Prime Minister",
+      "c": "The ministers of the Crown must have the support of a majority of the elected representatives in order to govern",
+      "d": "All Canadians are responsible for each other"
     },
     "answer": "c",
     "note": ""
@@ -938,10 +938,10 @@
   "86": {
     "question": "What does the word 'Inuit' mean?",
     "options": {
-      "a": "'Eskimo' in Inuktitut language.",
-      "b": "'Home' in English.",
-      "c": "'The people' in the Inuktitut language.",
-      "d": "'The Arctic Land' in Inuktitut language."
+      "a": "'Eskimo' in Inuktitut language",
+      "b": "'Home' in English",
+      "c": "'The people' in the Inuktitut language",
+      "d": "'The Arctic Land' in Inuktitut language"
     },
     "answer": "c",
     "note": ""
@@ -974,7 +974,7 @@
       "a": "Fraser River",
       "b": "St. Lawrence River",
       "c": "Niagara",
-      "d": "Hudson's Bay."
+      "d": "Hudson's Bay"
     },
     "answer": "b",
     "note": ""
@@ -983,9 +983,9 @@
     "question": "What is a majority government?",
     "options": {
       "a": "When the party in power holds about one third of the seats in the House of Commons",
-      "b": "When the party in power holds about one quarter of the seats in the House of Commons.",
-      "c": "When the part in power holds at least half of the seats in the Senate.",
-      "d": "When the party in power holds at least half of the seats in the House of Commons."
+      "b": "When the party in power holds about one quarter of the seats in the House of Commons",
+      "c": "When the part in power holds at least half of the seats in the Senate",
+      "d": "When the party in power holds at least half of the seats in the House of Commons"
     },
     "answer": "d",
     "note": ""
@@ -993,10 +993,10 @@
   "91": {
     "question": "What is a voter information card?",
     "options": {
-      "a": "Tells you who the candidates are in your electoral district.",
-      "b": "Tells you what province to vote in.",
-      "c": "A form that tells you when and where to vote.",
-      "d": "A form that lets you know your voting time."
+      "a": "Tells you who the candidates are in your electoral district",
+      "b": "Tells you what province to vote in",
+      "c": "A form that tells you when and where to vote",
+      "d": "A form that lets you know your voting time"
     },
     "answer": "c",
     "note": ""
@@ -1004,10 +1004,10 @@
   "92": {
     "question": "What is Canada's national winter sport?",
     "options": {
-      "a": "Golf.",
-      "b": "Nordic skiing.",
-      "c": "Lacrosse.",
-      "d": "Hockey."
+      "a": "Golf",
+      "b": "Nordic skiing",
+      "c": "Lacrosse",
+      "d": "Hockey"
     },
     "answer": "d",
     "note": ""
@@ -1015,10 +1015,10 @@
   "93": {
     "question": "What is Canada's system of government called?",
     "options": {
-      "a": "Dictatorship.",
-      "b": "Parliamentary government.",
-      "c": "Military Rule.",
-      "d": "Communism."
+      "a": "Dictatorship",
+      "b": "Parliamentary government",
+      "c": "Military Rule",
+      "d": "Communism"
     },
     "answer": "b",
     "note": ""
@@ -1026,10 +1026,10 @@
   "94": {
     "question": "What is meant by the equality of women and men?",
     "options": {
-      "a": "Men and women are equal under the law.",
-      "b": "Men and women must both do housework.",
-      "c": "Women may now go to school and enter the professional workforce.",
-      "d": "A woman may now become Prime Minister."
+      "a": "Men and women are equal under the law",
+      "b": "Men and women must both do housework",
+      "c": "Women may now go to school and enter the professional workforce",
+      "d": "A woman may now become Prime Minister"
     },
     "answer": "a",
     "note": ""
@@ -1037,10 +1037,10 @@
   "95": {
     "question": "What is the 'head tax'?",
     "options": {
-      "a": "Race-based entry fee charged for Chinese entering Canada.",
-      "b": "Fee charged for anyone entering Canada after 1900.",
-      "c": "A tax imposed on beer beginning in 1867.",
-      "d": "Fee charged for moving westward in the early 1900s."
+      "a": "Race-based entry fee charged for Chinese entering Canada",
+      "b": "Fee charged for anyone entering Canada after 1900",
+      "c": "A tax imposed on beer beginning in 1867",
+      "d": "Fee charged for moving westward in the early 1900s"
     },
     "answer": "a",
     "note": ""
@@ -1059,10 +1059,10 @@
   "97": {
     "question": "What is the difference between the role of the Sovereign and that of the Prime Minister?",
     "options": {
-      "a": "The Sovereign is Head of State, the Prime Minister oversees provincial policies.",
-      "b": "The Sovereign is the guardian of Constitutional freedoms, the Prime Minister selects the Cabinet ministers and is responsible for operations and policy of government.",
-      "c": "The Sovereign links Canada to 52 other nations and the Prime Minister is the guardian of Constitutional freedoms.",
-      "d": "The Sovereign is the symbol of Canadian sovereignty and the Prime Minister is her aide."
+      "a": "The Sovereign is Head of State, the Prime Minister oversees provincial policies",
+      "b": "The Sovereign is the guardian of Constitutional freedoms, the Prime Minister selects the Cabinet ministers and is responsible for operations and policy of government",
+      "c": "The Sovereign links Canada to 52 other nations and the Prime Minister is the guardian of Constitutional freedoms",
+      "d": "The Sovereign is the symbol of Canadian sovereignty and the Prime Minister is her aide"
     },
     "answer": "b",
     "note": ""
@@ -1070,10 +1070,10 @@
   "98": {
     "question": "What is the government of all of Canada called?",
     "options": {
-      "a": "National assembly.",
-      "b": "Legislature.",
-      "c": "Federal.",
-      "d": "Council."
+      "a": "National assembly",
+      "b": "Legislature",
+      "c": "Federal",
+      "d": "Council"
     },
     "answer": "c",
     "note": ""
@@ -1092,10 +1092,10 @@
   "100": {
     "question": "What is the highest military honour a Canadian can receive?",
     "options": {
-      "a": "Purple Cross.",
-      "b": "Badge of Courage.",
-      "c": "Order of Merit.",
-      "d": "Victoria Cross."
+      "a": "Purple Cross",
+      "b": "Badge of Courage",
+      "c": "Order of Merit",
+      "d": "Victoria Cross"
     },
     "answer": "d",
     "note": ""
@@ -1103,10 +1103,10 @@
   "101": {
     "question": "What is the largest religious affiliation in Canada?",
     "options": {
-      "a": "Catholic.",
-      "b": "Muslim.",
-      "c": "Jewish.",
-      "d": "Hindu."
+      "a": "Catholic",
+      "b": "Muslim",
+      "c": "Jewish",
+      "d": "Hindu"
     },
     "answer": "a",
     "note": ""
@@ -1114,10 +1114,10 @@
   "102": {
     "question": "What is the meaning of the Remembrance Day poppy?",
     "options": {
-      "a": "To remember our Sovereign, Queen Elizabeth II.",
-      "b": "To celebrate Confederation.",
-      "c": "To honour Prime Ministers who have died.",
-      "d": "To remember the sacrifice of Canadians who have served or died in wars up to the present day."
+      "a": "To remember our Sovereign, Queen Elizabeth II",
+      "b": "To celebrate Confederation",
+      "c": "To honour Prime Ministers who have died",
+      "d": "To remember the sacrifice of Canadians who have served or died in wars up to the present day"
     },
     "answer": "d",
     "note": ""
@@ -1125,9 +1125,9 @@
   "103": {
     "question": "What is the name of the Governor General?",
     "options": {
-      "a": "David Johnston.",
-      "b": "Mary Simon.",
-      "c": "Richard Wagner.",
+      "a": "David Johnston",
+      "b": "Mary Simon",
+      "c": "Richard Wagner",
       "d": "Julie Payette"
     },
     "answer": "b",
@@ -1137,10 +1137,10 @@
   "104": {
     "question": "What is the name of the Prime Minister of Canada and his/her party?",
     "options": {
-      "a": "Justin Trudeau (Liberal Party).",
-      "b": "Pierre Poilievre (Conservative Party).",
-      "c": "Jagmeet Singh (New Democratic Party).",
-      "d": "Pierre Trudeau (Liberal Party)."
+      "a": "Justin Trudeau (Liberal Party)",
+      "b": "Pierre Poilievre (Conservative Party)",
+      "c": "Jagmeet Singh (New Democratic Party)",
+      "d": "Pierre Trudeau (Liberal Party)"
     },
     "answer": "a",
     "note": "",
@@ -1149,10 +1149,10 @@
   "105": {
     "question": "What is the name of the Royal Anthem of Canada?",
     "options": {
-      "a": "O Canada.",
-      "b": "God Save the Queen (or King).",
+      "a": "O Canada",
+      "b": "God Save the Queen (or King)",
       "c": "La Marseillaise",
-      "d": "The Star-Spangled Banner."
+      "d": "The Star-Spangled Banner"
     },
     "answer": "b",
     "note": ""
@@ -1160,10 +1160,10 @@
   "106": {
     "question": "What is the role of the courts in Canada?",
     "options": {
-      "a": "To enforce the law.",
-      "b": "To guide people in our society.",
-      "c": "To settle disputes.",
-      "d": "To express values and beliefs of Canadians."
+      "a": "To enforce the law",
+      "b": "To guide people in our society",
+      "c": "To settle disputes",
+      "d": "To express values and beliefs of Canadians"
     },
     "answer": "c",
     "note": ""
@@ -1171,10 +1171,10 @@
   "107": {
     "question": "What is the role of the Opposition parties?",
     "options": {
-      "a": "To assist the Prime Minister.",
-      "b": "To sign bills.",
-      "c": "To oppose or try to improve government proposals.",
-      "d": "To put forward bills to be passed."
+      "a": "To assist the Prime Minister",
+      "b": "To sign bills",
+      "c": "To oppose or try to improve government proposals",
+      "d": "To put forward bills to be passed"
     },
     "answer": "c",
     "note": ""
@@ -1182,10 +1182,10 @@
   "108": {
     "question": "What is the significance of the discovery of insulin by Sir Frederick Banting and Charles Best?",
     "options": {
-      "a": "Insulin is a hormone that permits you to eat anything you wish.",
-      "b": "Insulin has saved 16 million lives worldwide.",
-      "c": "Discovering insulin opened the doors to more discoveries.",
-      "d": "Discovering insulin made Drs. Banting and Best famous."
+      "a": "Insulin is a hormone that permits you to eat anything you wish",
+      "b": "Insulin has saved 16 million lives worldwide",
+      "c": "Discovering insulin opened the doors to more discoveries",
+      "d": "Discovering insulin made Drs. Banting and Best famous"
     },
     "answer": "b",
     "note": ""
@@ -1193,10 +1193,10 @@
   "109": {
     "question": "What part of the Constitution legally protects the basic rights and freedoms of all Canadians?",
     "options": {
-      "a": "The British Charter of Rights and Freedoms.",
-      "b": "The Canadian Charter of Rights.",
-      "c": "The Canadian Charter of Freedoms.",
-      "d": "The Canadian Charter of Rights and Freedoms."
+      "a": "The British Charter of Rights and Freedoms",
+      "b": "The Canadian Charter of Rights",
+      "c": "The Canadian Charter of Freedoms",
+      "d": "The Canadian Charter of Rights and Freedoms"
     },
     "answer": "d",
     "note": ""
@@ -1204,10 +1204,10 @@
   "110": {
     "question": "What percentage of Aboriginal people are First Nations?",
     "options": {
-      "a": "30%.",
-      "b": "6%.",
-      "c": "50%.",
-      "d": "65%."
+      "a": "30%",
+      "b": "6%",
+      "c": "50%",
+      "d": "65%"
     },
     "answer": "d",
     "note": ""
@@ -1215,10 +1215,10 @@
   "111": {
     "question": "What should you do if you do not receive a voter information card telling you when and where to vote?",
     "options": {
-      "a": "Go to the police station.",
-      "b": "Call your Member of Parliament.",
-      "c": "Assume you cannot vote.",
-      "d": "Call Elections Canada or visit their website."
+      "a": "Go to the police station",
+      "b": "Call your Member of Parliament",
+      "c": "Assume you cannot vote",
+      "d": "Call Elections Canada or visit their website"
     },
     "answer": "d",
     "note": ""
@@ -1226,10 +1226,10 @@
   "112": {
     "question": "What song is Canada's national anthem?",
     "options": {
-      "a": "God Save the King.",
-      "b": "O Canada.",
-      "c": "Star Spangled Banner.",
-      "d": "Amazing Grace."
+      "a": "God Save the King",
+      "b": "O Canada",
+      "c": "Star Spangled Banner",
+      "d": "Amazing Grace"
     },
     "answer": "b",
     "note": ""
@@ -1237,10 +1237,10 @@
   "113": {
     "question": "What three oceans border Canada?",
     "options": {
-      "a": "Atlantic, Arctic and Bering.",
-      "b": "Atlantic, Arctic and Pacific.",
-      "c": "Pacific, Indian and Atlantic.",
-      "d": "Hudson, Pacific and Atlantic."
+      "a": "Atlantic, Arctic and Bering",
+      "b": "Atlantic, Arctic and Pacific",
+      "c": "Pacific, Indian and Atlantic",
+      "d": "Hudson, Pacific and Atlantic"
     },
     "answer": "b",
     "note": ""
@@ -1259,10 +1259,10 @@
   "115": {
     "question": "What was the significance of June 6, 1944 invasion of Normandy?",
     "options": {
-      "a": "It led to the establishment of the Juno Awards.",
-      "b": "It liberated North Africa from Nazi occupation.",
-      "c": "Canadians made a significant contribution to the defeat of Nazism and Fascism in Europe during the Second World War.",
-      "d": "It resulted in the forcible relocation of Canadians of Japanese origin."
+      "a": "It led to the establishment of the Juno Awards",
+      "b": "It liberated North Africa from Nazi occupation",
+      "c": "Canadians made a significant contribution to the defeat of Nazism and Fascism in Europe during the Second World War",
+      "d": "It resulted in the forcible relocation of Canadians of Japanese origin"
     },
     "answer": "c",
     "note": ""
@@ -1270,10 +1270,10 @@
   "116": {
     "question": "What was the Women's Suffrage Movement?",
     "options": {
-      "a": "The effort by women to achieve the right to vote.",
-      "b": "The effort by women to participate in military service.",
-      "c": "An unsuccessful movement to get husbands to do housework.",
-      "d": "The effort by women to be in Parliament."
+      "a": "The effort by women to achieve the right to vote",
+      "b": "The effort by women to participate in military service",
+      "c": "An unsuccessful movement to get husbands to do housework",
+      "d": "The effort by women to be in Parliament"
     },
     "answer": "a",
     "note": ""
@@ -1281,10 +1281,10 @@
   "117": {
     "question": "What will you promise when you take the Oath of Citizenship?",
     "options": {
-      "a": "Pledge allegiance to the King, observe the laws of Canada and fulfil the duties of a Canadian.",
-      "b": "Pledge to be faithful to the King.",
-      "c": "Promise to observe the laws of Canada.",
-      "d": "Fulfil duties as a Canadian citizen."
+      "a": "Pledge allegiance to the King, observe the laws of Canada and fulfil the duties of a Canadian",
+      "b": "Pledge to be faithful to the King",
+      "c": "Promise to observe the laws of Canada",
+      "d": "Fulfil duties as a Canadian citizen"
     },
     "answer": "a",
     "note": ""
@@ -1303,10 +1303,10 @@
   "119": {
     "question": "What year was Confederation?",
     "options": {
-      "a": "1867.",
-      "b": "1871.",
-      "c": "1898.",
-      "d": "1864."
+      "a": "1867",
+      "b": "1871",
+      "c": "1898",
+      "d": "1864"
     },
     "answer": "a",
     "note": ""
@@ -1314,10 +1314,10 @@
   "120": {
     "question": "When asked, who must you tell how you voted in a federal election?",
     "options": {
-      "a": "Your employer.",
-      "b": "No one.",
-      "c": "A police officer.",
-      "d": "An Elections Canada official."
+      "a": "Your employer",
+      "b": "No one",
+      "c": "A police officer",
+      "d": "An Elections Canada official"
     },
     "answer": "b",
     "note": ""
@@ -1325,10 +1325,10 @@
   "121": {
     "question": "When did the British North America Act come into effect?",
     "options": {
-      "a": "1871.",
-      "b": "1898.",
-      "c": "1867.",
-      "d": "1905."
+      "a": "1871",
+      "b": "1898",
+      "c": "1867",
+      "d": "1905"
     },
     "answer": "c",
     "note": ""
@@ -1336,10 +1336,10 @@
   "122": {
     "question": "When did the Canadian Charter of Rights and Freedoms become part of the Canadian Constitution?",
     "options": {
-      "a": "1867.",
-      "b": "1905.",
-      "c": "1982.",
-      "d": "1878."
+      "a": "1867",
+      "b": "1905",
+      "c": "1982",
+      "d": "1878"
     },
     "answer": "c",
     "note": ""
@@ -1347,10 +1347,10 @@
   "123": {
     "question": "When is Canada Day and what does it celebrate?",
     "options": {
-      "a": "June 15 of each year to celebrate the anniversary of Confederation.",
-      "b": "August 8th of each year to celebrate the joining of British Columbia to Confederation.",
-      "c": "We celebrate the anniversary of Confederation July 1st of each year.",
-      "d": "May 21st of each year to remember Queen Victoria."
+      "a": "June 15 of each year to celebrate the anniversary of Confederation",
+      "b": "August 8th of each year to celebrate the joining of British Columbia to Confederation",
+      "c": "We celebrate the anniversary of Confederation July 1st of each year",
+      "d": "May 21st of each year to remember Queen Victoria"
     },
     "answer": "c",
     "note": ""
@@ -1359,8 +1359,8 @@
     "question": "When is Remembrance Day celebrated?",
     "options": {
       "a": "July 1st",
-      "b": "October 1st.",
-      "c": "November 11th.",
+      "b": "October 1st",
+      "c": "November 11th",
       "d": "December 25th"
     },
     "answer": "c",
@@ -1369,10 +1369,10 @@
   "125": {
     "question": "When must federal elections be held?",
     "options": {
-      "a": "About every 4 years.",
-      "b": "On the third Monday in October every four years following the most recent general election.",
-      "c": "Whenever the Prime Minister calls the election.",
-      "d": "When the MPs want a new Prime Minister."
+      "a": "About every 4 years",
+      "b": "On the third Monday in October every four years following the most recent general election",
+      "c": "Whenever the Prime Minister calls the election",
+      "d": "When the MPs want a new Prime Minister"
     },
     "answer": "b",
     "note": ""
@@ -1380,9 +1380,9 @@
   "126": {
     "question": "When you vote on election day, what do you do?",
     "options": {
-      "a": "Go to the voting station, tell them who you are and mark your X.  Give the ballot back to the attendant.",
-      "b": "Go to the voting station, remove 1 ballot and after marking your X deposit it in the ballot box.",
-      "c": "Go to the voting station, take your voter's card with proof if identity, highlight your choice on the ballot and deposit it in the box.",
+      "a": "Go to the voting station, tell them who you are and mark your X.  Give the ballot back to the attendant",
+      "b": "Go to the voting station, remove 1 ballot and after marking your X deposit it in the ballot box",
+      "c": "Go to the voting station, take your voter's card with proof if identity, highlight your choice on the ballot and deposit it in the box",
       "d": "Go to the voting station with your voter's card and ID, mark an X next to your chosen candidate, fold the ballot and present it to the poll officials who will tear off the ballot number and give you the ballot to deposit in the box"
     },
     "answer": "d",
@@ -1392,9 +1392,9 @@
     "question": "Where are the Great Lakes?",
     "options": {
       "a": "Between Ontario and the United States",
-      "b": "Manitoba.",
-      "c": "Northern Quebec.",
-      "d": "Atlantic Canada."
+      "b": "Manitoba",
+      "c": "Northern Quebec",
+      "d": "Atlantic Canada"
     },
     "answer": "a",
     "note": ""
@@ -1413,10 +1413,10 @@
   "129": {
     "question": "Where do most French-speaking Canadians live?",
     "options": {
-      "a": "Ontario.",
-      "b": "Nova Scotia.",
-      "c": "Quebec.",
-      "d": "Prince Edward Island."
+      "a": "Ontario",
+      "b": "Nova Scotia",
+      "c": "Quebec",
+      "d": "Prince Edward Island"
     },
     "answer": "c",
     "note": ""
@@ -1435,10 +1435,10 @@
   "131": {
     "question": "Which Act granted, for the first time in Canada, legislative assemblies elected by the people?",
     "options": {
-      "a": "The Constitutional Act of 1867.",
-      "b": "The Constitutional Act of 1791.",
-      "c": "The Constitutional Act of 1982.",
-      "d": "The Constitutional Act of 2010."
+      "a": "The Constitutional Act of 1867",
+      "b": "The Constitutional Act of 1791",
+      "c": "The Constitutional Act of 1982",
+      "d": "The Constitutional Act of 2010"
     },
     "answer": "b",
     "note": ""
@@ -1446,10 +1446,10 @@
   "132": {
     "question": "Which animal is an official symbol of Canada?",
     "options": {
-      "a": "The moose.",
-      "b": "The hawk.",
-      "c": "The beaver.",
-      "d": "The deer."
+      "a": "The moose",
+      "b": "The hawk",
+      "c": "The beaver",
+      "d": "The deer"
     },
     "answer": "c",
     "note": ""
@@ -1457,10 +1457,10 @@
   "133": {
     "question": "Which country borders Canada on the south?",
     "options": {
-      "a": "United States of America.",
-      "b": "Central America.",
-      "c": "Mexico.",
-      "d": "Washington."
+      "a": "United States of America",
+      "b": "Central America",
+      "c": "Mexico",
+      "d": "Washington"
     },
     "answer": "a",
     "note": ""
@@ -1468,10 +1468,10 @@
   "134": {
     "question": "Which federal political party is in power?",
     "options": {
-      "a": "Green Party.",
-      "b": "New Democratic Party.",
-      "c": "Liberal Party.",
-      "d": "Conservative Party."
+      "a": "Green Party",
+      "b": "New Democratic Party",
+      "c": "Liberal Party",
+      "d": "Conservative Party"
     },
     "answer": "c",
     "note": "",
@@ -1480,10 +1480,10 @@
   "135": {
     "question": "Which of the following is NOT a feature of Canada's system of government?",
     "options": {
-      "a": "A federal state.",
-      "b": "Parliamentary democracy.",
-      "c": "Constitutional Monarchy.",
-      "d": "Dictatorship."
+      "a": "A federal state",
+      "b": "Parliamentary democracy",
+      "c": "Constitutional Monarchy",
+      "d": "Dictatorship"
     },
     "answer": "d",
     "note": ""
@@ -1491,10 +1491,10 @@
   "136": {
     "question": "Which of the following sentences best describes the War of 1812?",
     "options": {
-      "a": "Napoleon's fleet was defeated by the Royal Navy in the war.",
-      "b": "The USA became independent from the British Empire after the war.",
-      "c": "The USA invaded Canada and was defeated, which ensured that Canada would remain independent of the United States.",
-      "d": "Canada joined the United States after the war."
+      "a": "Napoleon's fleet was defeated by the Royal Navy in the war",
+      "b": "The USA became independent from the British Empire after the war",
+      "c": "The USA invaded Canada and was defeated, which ensured that Canada would remain independent of the United States",
+      "d": "Canada joined the United States after the war"
     },
     "answer": "c",
     "note": ""
@@ -1502,10 +1502,10 @@
   "137": {
     "question": "Which of the following statements about residential schools is NOT true?",
     "options": {
-      "a": "The federal government placed many Aboriginal children in residential schools to educate and assimilate them into mainstream Canadian culture.",
-      "b": "The schools were poorly funded and inflicted hardship on the students.",
-      "c": "The schools were welcomed by the Aboriginal people.",
-      "d": "Aboriginal language and cultural practices were mostly prohibited."
+      "a": "The federal government placed many Aboriginal children in residential schools to educate and assimilate them into mainstream Canadian culture",
+      "b": "The schools were poorly funded and inflicted hardship on the students",
+      "c": "The schools were welcomed by the Aboriginal people",
+      "d": "Aboriginal language and cultural practices were mostly prohibited"
     },
     "answer": "c",
     "note": ""
@@ -1513,10 +1513,10 @@
   "138": {
     "question": "Which party becomes the Official Opposition?",
     "options": {
-      "a": "The party with the second most MPs.",
-      "b": "The party receiving the least votes.",
-      "c": "Any independent candidate.",
-      "d": "The party the Prime Minister selects."
+      "a": "The party with the second most MPs",
+      "b": "The party receiving the least votes",
+      "c": "Any independent candidate",
+      "d": "The party the Prime Minister selects"
     },
     "answer": "a",
     "note": ""
@@ -1524,10 +1524,10 @@
   "139": {
     "question": "Which party is the Official Opposition at the federal level?",
     "options": {
-      "a": "The New Democratic Party.",
-      "b": "The Liberal Party.",
-      "c": "The Independent Party.",
-      "d": "The Conservative Party."
+      "a": "The New Democratic Party",
+      "b": "The Liberal Party",
+      "c": "The Independent Party",
+      "d": "The Conservative Party"
     },
     "answer": "d",
     "note": "",
@@ -1558,10 +1558,10 @@
   "142": {
     "question": "Which province in Canada is the smallest in land size?",
     "options": {
-      "a": "Nova Scotia.",
-      "b": "Prince Edward Island.",
-      "c": "Yukon Territory.",
-      "d": "Newfoundland and Labrador."
+      "a": "Nova Scotia",
+      "b": "Prince Edward Island",
+      "c": "Yukon Territory",
+      "d": "Newfoundland and Labrador"
     },
     "answer": "b",
     "note": ""
@@ -1580,10 +1580,10 @@
   "144": {
     "question": "Which province is the only officially bilingual province?",
     "options": {
-      "a": "New Brunswick.",
-      "b": "Quebec.",
-      "c": "Ontario.",
-      "d": "Prince Edward Island."
+      "a": "New Brunswick",
+      "b": "Quebec",
+      "c": "Ontario",
+      "d": "Prince Edward Island"
     },
     "answer": "a",
     "note": ""
@@ -1624,10 +1624,10 @@
   "148": {
     "question": "Which region covers more than one-third of Canada?",
     "options": {
-      "a": "Central Canada.",
-      "b": "Prairies.",
-      "c": "Atlantic Canada.",
-      "d": "Northern Territories."
+      "a": "Central Canada",
+      "b": "Prairies",
+      "c": "Atlantic Canada",
+      "d": "Northern Territories"
     },
     "answer": "d",
     "note": ""
@@ -1635,10 +1635,10 @@
   "149": {
     "question": "Which region is known as the industrial and manufacturing heartland of Canada?",
     "options": {
-      "a": "Atlantic provinces.",
-      "b": "Prairie provinces.",
-      "c": "Central Canada.",
-      "d": "West Coast."
+      "a": "Atlantic provinces",
+      "b": "Prairie provinces",
+      "c": "Central Canada",
+      "d": "West Coast"
     },
     "answer": "c",
     "note": ""
@@ -1646,10 +1646,10 @@
   "150": {
     "question": "Which region of Canada is known for both its fertile agricultural land and valuable energy resources?",
     "options": {
-      "a": "British Columbia.",
-      "b": "Prairie provinces.",
-      "c": "Ontario.",
-      "d": "Manitoba."
+      "a": "British Columbia",
+      "b": "Prairie provinces",
+      "c": "Ontario",
+      "d": "Manitoba"
     },
     "answer": "b",
     "note": ""
@@ -1657,10 +1657,10 @@
   "151": {
     "question": "Which three countries are signatories to NAFTA?",
     "options": {
-      "a": "Canada, the United Kingdom and the United States.",
-      "b": "Canada, the United States and Japan.",
-      "c": "Canada, Mexico and the United States.",
-      "d": "Canada, Denmark and Andorra."
+      "a": "Canada, the United Kingdom and the United States",
+      "b": "Canada, the United States and Japan",
+      "c": "Canada, Mexico and the United States",
+      "d": "Canada, Denmark and Andorra"
     },
     "answer": "c",
     "note": ""
@@ -1668,10 +1668,10 @@
   "152": {
     "question": "Which was the last province to join Canada?",
     "options": {
-      "a": "Newfoundland.",
-      "b": "Alberta.",
-      "c": "Saskatchewan.",
-      "d": "British Columbia."
+      "a": "Newfoundland",
+      "b": "Alberta",
+      "c": "Saskatchewan",
+      "d": "British Columbia"
     },
     "answer": "a",
     "note": ""
@@ -1690,10 +1690,10 @@
   "154": {
     "question": "Who are the Acadians?",
     "options": {
-      "a": "Aboriginal people of the arctic.",
-      "b": "French-speaking Catholics living in Ontario.",
-      "c": "The descendants of French colonists who began settling in what are now the Maritime provinces in 1604.",
-      "d": "English speaking refugees who settled in Louisiana."
+      "a": "Aboriginal people of the arctic",
+      "b": "French-speaking Catholics living in Ontario",
+      "c": "The descendants of French colonists who began settling in what are now the Maritime provinces in 1604",
+      "d": "English speaking refugees who settled in Louisiana"
     },
     "answer": "c",
     "note": ""
@@ -1701,10 +1701,10 @@
   "155": {
     "question": "Who are the founding peoples of Canada?",
     "options": {
-      "a": "Métis, French and British.",
-      "b": "Aboriginal, Métis and British.",
-      "c": "Inuit, Aboriginal and British.",
-      "d": "Aboriginal, French and British."
+      "a": "Métis, French and British",
+      "b": "Aboriginal, Métis and British",
+      "c": "Inuit, Aboriginal and British",
+      "d": "Aboriginal, French and British"
     },
     "answer": "d",
     "note": ""
@@ -1712,10 +1712,10 @@
   "156": {
     "question": "Who are the Métis?",
     "options": {
-      "a": "The distinct aboriginal people of Atlantic Canada.",
-      "b": "A people of mixed Inuit/First Nations ancestry most of whom live on the Prairies.",
-      "c": "First Nations people speaking the Michif dialect.",
-      "d": "A distinct people of mixed Aboriginal and European ancestry."
+      "a": "The distinct aboriginal people of Atlantic Canada",
+      "b": "A people of mixed Inuit/First Nations ancestry most of whom live on the Prairies",
+      "c": "First Nations people speaking the Michif dialect",
+      "d": "A distinct people of mixed Aboriginal and European ancestry"
     },
     "answer": "d",
     "note": ""
@@ -1723,10 +1723,10 @@
   "157": {
     "question": "Who are the Quebecers?",
     "options": {
-      "a": "European settlers in the 1600s.",
-      "b": "Descendants of the French colonists.",
-      "c": "Descendants of the Anglophones.",
-      "d": "People of Quebec."
+      "a": "European settlers in the 1600s",
+      "b": "Descendants of the French colonists",
+      "c": "Descendants of the Anglophones",
+      "d": "People of Quebec"
     },
     "answer": "d",
     "note": ""
@@ -1734,10 +1734,10 @@
   "158": {
     "question": "Who do Canadians vote for in a federal election?",
     "options": {
-      "a": "The best speaker running in the election.",
-      "b": "A candidate they want to represent them in Parliament.",
-      "c": "Someone to become the Premier.",
-      "d": "All of the candidates in their electoral district."
+      "a": "The best speaker running in the election",
+      "b": "A candidate they want to represent them in Parliament",
+      "c": "Someone to become the Premier",
+      "d": "All of the candidates in their electoral district"
     },
     "answer": "b",
     "note": ""
@@ -1745,10 +1745,10 @@
   "159": {
     "question": "Who do Members of Parliament represent?",
     "options": {
-      "a": "All of the Canadians living in the north.",
-      "b": "Only Canadians living in Central Canada.",
-      "c": "Everyone who lives in his or her electoral district.",
-      "d": "Canadians living in the province in which he/she was elected."
+      "a": "All of the Canadians living in the north",
+      "b": "Only Canadians living in Central Canada",
+      "c": "Everyone who lives in his or her electoral district",
+      "d": "Canadians living in the province in which he/she was elected"
     },
     "answer": "c",
     "note": ""
@@ -1756,10 +1756,10 @@
   "160": {
     "question": "Who had played an important part in building the Canadian Pacific Railway (CPR)?",
     "options": {
-      "a": "American railroad engineers.",
-      "b": "Acadian railroad workers.",
-      "c": "Chinese railroad workers.",
-      "d": "African American slaves."
+      "a": "American railroad engineers",
+      "b": "Acadian railroad workers",
+      "c": "Chinese railroad workers",
+      "d": "African American slaves"
     },
     "answer": "c",
     "note": ""
@@ -1767,10 +1767,10 @@
   "161": {
     "question": "Who has the right to run as a candidate in federal elections?",
     "options": {
-      "a": "Anyone.",
-      "b": "A Canadian citizen who is 16 years old.",
-      "c": "Any man who is at least 18 years old.",
-      "d": "Any Canadian citizen who is at least 18 years old."
+      "a": "Anyone",
+      "b": "A Canadian citizen who is 16 years old",
+      "c": "Any man who is at least 18 years old",
+      "d": "Any Canadian citizen who is at least 18 years old"
     },
     "answer": "d",
     "note": ""
@@ -1778,10 +1778,10 @@
   "162": {
     "question": "Who has the right to vote in federal elections?",
     "options": {
-      "a": "A Canadian citizen, 18 years or older, and on voters' list.",
-      "b": "A Canadian citizen, 18 years or older and must work for the federal government.",
-      "c": "A landed immigrant, 18 years old and a memberof the Canadian Forces.",
-      "d": "A Canadian citizen, over 25 years and a member of the Canadian Forces."
+      "a": "A Canadian citizen, 18 years or older, and on voters' list",
+      "b": "A Canadian citizen, 18 years or older and must work for the federal government",
+      "c": "A landed immigrant, 18 years old and a memberof the Canadian Forces",
+      "d": "A Canadian citizen, over 25 years and a member of the Canadian Forces"
     },
     "answer": "a",
     "note": ""
@@ -1789,10 +1789,10 @@
   "163": {
     "question": "Who have major responsibilities on First Nations reserves?",
     "options": {
-      "a": "Band chiefs and councillors.",
-      "b": "Municipal governments.",
-      "c": "Provincial and territorial governments.",
-      "d": "Federal government."
+      "a": "Band chiefs and councillors",
+      "b": "Municipal governments",
+      "c": "Provincial and territorial governments",
+      "d": "Federal government"
     },
     "answer": "a",
     "note": ""
@@ -1800,10 +1800,10 @@
   "164": {
     "question": "Who is Canada's Head of State?",
     "options": {
-      "a": "Governor General of Canada.",
-      "b": "His Majesty King Charles III.",
-      "c": "Prime Minister.",
-      "d": "Lieutenant Governor."
+      "a": "Governor General of Canada",
+      "b": "His Majesty King Charles III",
+      "c": "Prime Minister",
+      "d": "Lieutenant Governor"
     },
     "answer": "b",
     "note": ""
@@ -1822,10 +1822,10 @@
   "166": {
     "question": "Who is General Sir Arthur Currie?",
     "options": {
-      "a": "A military leader of the Métis in the 19th century.",
-      "b": "A great frontier hero.",
-      "c": "An explorer of western Canada.",
-      "d": "Canada's greatest soldier in the First World War."
+      "a": "A military leader of the Métis in the 19th century",
+      "b": "A great frontier hero",
+      "c": "An explorer of western Canada",
+      "d": "Canada's greatest soldier in the First World War"
     },
     "answer": "d",
     "note": ""
@@ -1844,10 +1844,10 @@
   "168": {
     "question": "Who is the King's representative in Canada?",
     "options": {
-      "a": "Prime Minister of Canada.",
-      "b": "Premier.",
-      "c": "Lieutenant-Governor.",
-      "d": "Governor General of Canada."
+      "a": "Prime Minister of Canada",
+      "b": "Premier",
+      "c": "Lieutenant-Governor",
+      "d": "Governor General of Canada"
     },
     "answer": "d",
     "note": ""
@@ -1889,10 +1889,10 @@
   "172": {
     "question": "Who was Sir Louis-Hippolyte La Fontaine?",
     "options": {
-      "a": "A champion of democracy and Aboriginal rights.",
-      "b": "A champion of democracy and French language rights and the first leader of a responsible government in the Canadas.",
-      "c": "The first Head of State.",
-      "d": "The first French speaking Prime Minister."
+      "a": "A champion of democracy and Aboriginal rights",
+      "b": "A champion of democracy and French language rights and the first leader of a responsible government in the Canadas",
+      "c": "The first Head of State",
+      "d": "The first French speaking Prime Minister"
     },
     "answer": "b",
     "note": ""
@@ -1900,10 +1900,10 @@
   "173": {
     "question": "Who was Sir Sam Steele?",
     "options": {
-      "a": "A great frontier hero, Mounted Policeman and soldier.",
-      "b": "A military leader of the Métis in the 19th century.",
-      "c": "The first Prime Minister of Canada.",
-      "d": "The Father of Manitoba."
+      "a": "A great frontier hero, Mounted Policeman and soldier",
+      "b": "A military leader of the Métis in the 19th century",
+      "c": "The first Prime Minister of Canada",
+      "d": "The Father of Manitoba"
     },
     "answer": "a",
     "note": ""
@@ -1911,10 +1911,10 @@
   "174": {
     "question": "Who was the first leader of a responsible government in the Canadas in 1849?",
     "options": {
-      "a": "Sir John A. Macdonald.",
-      "b": "Robert Baldwin.",
-      "c": "Louis Riel.",
-      "d": "Sir Louis-Hippolyte La Fontaine."
+      "a": "Sir John A. Macdonald",
+      "b": "Robert Baldwin",
+      "c": "Louis Riel",
+      "d": "Sir Louis-Hippolyte La Fontaine"
     },
     "answer": "d",
     "note": ""
@@ -1922,10 +1922,10 @@
   "175": {
     "question": "Who was the first Prime Minister of Canada?",
     "options": {
-      "a": "Louis Riel.",
-      "b": "Sir John A. Macdonald.",
-      "c": "Lester B. Pearson.",
-      "d": "Abraham Lincoln."
+      "a": "Louis Riel",
+      "b": "Sir John A. Macdonald",
+      "c": "Lester B. Pearson",
+      "d": "Abraham Lincoln"
     },
     "answer": "b",
     "note": ""
@@ -1933,10 +1933,10 @@
   "176": {
     "question": "Who were the United Empire Loyalists?",
     "options": {
-      "a": "Settlers who came to Canada from the United States during the American Revolution.",
-      "b": "Aboriginal peoples.",
+      "a": "Settlers who came to Canada from the United States during the American Revolution",
+      "b": "Aboriginal peoples",
       "c": "Métis",
-      "d": "Inuit."
+      "d": "Inuit"
     },
     "answer": "a",
     "note": ""
@@ -1955,10 +1955,10 @@
   "178": {
     "question": "Why is the battle of Vimy Ridge important?",
     "options": {
-      "a": "It was a key position of the German line in Northern Spain.",
-      "b": "Canadian Corps secured its reputation for valour and bravery.",
-      "c": "It was the 'hinge' of the German line as it protected the newly constructed Hindenburg line.",
-      "d": "Once Canadians fought at Vimy they knew they would be heading home."
+      "a": "It was a key position of the German line in Northern Spain",
+      "b": "Canadian Corps secured its reputation for valour and bravery",
+      "c": "It was the 'hinge' of the German line as it protected the newly constructed Hindenburg line",
+      "d": "Once Canadians fought at Vimy they knew they would be heading home"
     },
     "answer": "b",
     "note": ""
@@ -1966,10 +1966,10 @@
   "179": {
     "question": "Why is trade with other countries important to Canada?",
     "options": {
-      "a": "It enhances our standard of living.",
-      "b": "It makes it easier for us to travel to foreign countries.",
-      "c": "It enhances our economy and raises our standard of living.",
-      "d": "It brings in cheaper goods."
+      "a": "It enhances our standard of living",
+      "b": "It makes it easier for us to travel to foreign countries",
+      "c": "It enhances our economy and raises our standard of living",
+      "d": "It brings in cheaper goods"
     },
     "answer": "c",
     "note": ""
@@ -2003,10 +2003,10 @@
   "182": {
     "question": "What is the capital city of Alberta?",
     "options": {
-      "a": "Medicine Hat.",
-      "b": "Red Deer.",
-      "c": "Calgary.",
-      "d": "Edmonton."
+      "a": "Medicine Hat",
+      "b": "Red Deer",
+      "c": "Calgary",
+      "d": "Edmonton"
     },
     "answer": "d",
     "note": "",
@@ -2015,10 +2015,10 @@
   "183": {
     "question": "What is the name of the leader of the Opposition in Alberta?",
     "options": {
-      "a": "Rachel Notley.",
-      "b": "Brian Jean.",
-      "c": "Heather Forsyth.",
-      "d": "Jim Prentice."
+      "a": "Rachel Notley",
+      "b": "Brian Jean",
+      "c": "Heather Forsyth",
+      "d": "Jim Prentice"
     },
     "answer": "a",
     "note": "",
@@ -2028,10 +2028,10 @@
   "184": {
     "question": "What is the name of the Lieutenant-Governor of Alberta?",
     "options": {
-      "a": "Donald S. Ethell.",
-      "b": "Salma Lakhani.",
-      "c": "Adrienne Clarkson.",
-      "d": "Lois Mitchell."
+      "a": "Donald S. Ethell",
+      "b": "Salma Lakhani",
+      "c": "Adrienne Clarkson",
+      "d": "Lois Mitchell"
     },
     "answer": "b",
     "note": "",
@@ -2041,9 +2041,9 @@
   "185": {
     "question": "What is the name of the Premier of Alberta?",
     "options": {
-      "a": "Premier Rachel Notley.",
-      "b": "Premier Jason Kenney.",
-      "c": "Premier Danielle Smith.",
+      "a": "Premier Rachel Notley",
+      "b": "Premier Jason Kenney",
+      "c": "Premier Danielle Smith",
       "d": "Premier Stephen Harper"
     },
     "answer": "c",
@@ -2054,9 +2054,9 @@
   "186": {
     "question": "Which political party is in power in Alberta?",
     "options": {
-      "a": "New Democratic Party.",
-      "b": "Liberal Party.",
-      "c": "Green Party.",
+      "a": "New Democratic Party",
+      "b": "Liberal Party",
+      "c": "Green Party",
       "d": "United Conservative Party"
     },
     "answer": "d",
@@ -2067,10 +2067,10 @@
   "187": {
     "question": "Which three natural resources are important to Alberta's economy today?",
     "options": {
-      "a": "Oil, agriculture, and forestry.",
-      "b": "Oil, tourism, and fishing.",
-      "c": "Oil, coal, and hydroelectricity.",
-      "d": "Oil, coal, and forestry."
+      "a": "Oil, agriculture, and forestry",
+      "b": "Oil, tourism, and fishing",
+      "c": "Oil, coal, and hydroelectricity",
+      "d": "Oil, coal, and forestry"
     },
     "answer": "a",
     "note": ""
@@ -2080,7 +2080,7 @@
     "options": {
       "a": "Richmond has two federal electoral districts: Richmond North and Richmond South",
       "b": "Richmond has two federal electoral districts: Richmond East and Richmond West",
-      "c": "Richmond has two federal electoral districts: Richmond and Richmond South.",
+      "c": "Richmond has two federal electoral districts: Richmond and Richmond South",
       "d": "Richmond has two federal electoral districts: Richmond Centre and Steveston-Richmond East"
     },
     "answer": "d",
@@ -2106,7 +2106,7 @@
       "a": "Rob Howard (Richmond North Centre), Linda Reid (Richmond South Centre), John Cummins (Richmond-Steveston), and Malcolm Brodie (Richmond-Queensborough)",
       "b": "Teresa Wat (Richmond North Centre), Linda Reid (Richmond South Centre), John Yap (Richmond-Steveston), and Jas Johal (Richmond-Queensborough)",
       "c": "Olga Ilich (Richmond North Centre), Rob Howard (Richmond South Centre), Jas Johal (Richmond-Steveston), and John Yap (Richmond-Queensborough)",
-      "d": "Teresa Wat (Richmond North Centre), Henry Yao (Richmond South Centre), Kelly Greene(Richmond-Steveston), Aman Singh (Richmond-Queensborough)."
+      "d": "Teresa Wat (Richmond North Centre), Henry Yao (Richmond South Centre), Kelly Greene(Richmond-Steveston), Aman Singh (Richmond-Queensborough)"
     },
     "answer": "d",
     "note": "",
@@ -2129,10 +2129,10 @@
   "192": {
     "question": "What is the capital city of British Columbia?",
     "options": {
-      "a": "Vancouver.",
-      "b": "Prince George.",
-      "c": "Victoria.",
-      "d": "New Westminster."
+      "a": "Vancouver",
+      "b": "Prince George",
+      "c": "Victoria",
+      "d": "New Westminster"
     },
     "answer": "c",
     "note": "",
@@ -2206,10 +2206,10 @@
   "198": {
     "question": "Which three natural resources are important to British Columbia's economy today?",
     "options": {
-      "a": "Forests, water and grain crops.",
-      "b": "Forests, fish and water.",
-      "c": "Fish, oil and water.",
-      "d": "Coal, water and shipbuilding."
+      "a": "Forests, water and grain crops",
+      "b": "Forests, fish and water",
+      "c": "Fish, oil and water",
+      "d": "Coal, water and shipbuilding"
     },
     "answer": "b",
     "note": ""
@@ -2217,10 +2217,10 @@
   "199": {
     "question": "Why is British Columbia known as Canada's Pacific Gateway?",
     "options": {
-      "a": "Most new immigrants arrive at Vancouver International Airport.",
-      "b": "British Columbia is the closest province to the Far East.",
-      "c": "Billions of dollars in trade goods are handled through the Port of Vancouver.",
-      "d": "British Columbia borders the Pacific Ocean."
+      "a": "Most new immigrants arrive at Vancouver International Airport",
+      "b": "British Columbia is the closest province to the Far East",
+      "c": "Billions of dollars in trade goods are handled through the Port of Vancouver",
+      "d": "British Columbia borders the Pacific Ocean"
     },
     "answer": "c",
     "note": ""
@@ -3039,8 +3039,8 @@
   "265": {
     "question": "Who has the right to vote in federal elections?",
     "options": {
-      "a": "Canadian citizens who are at least 19 years of age and on the voters' list.",
-      "b": "Canadian citizens who are at least 18 years of age and on the voters' list.",
+      "a": "Canadian citizens who are at least 19 years of age and on the voters' list",
+      "b": "Canadian citizens who are at least 18 years of age and on the voters' list",
       "c": "Canadian citizens and landed immigrants who are at least 18 years of age",
       "d": "Canadian citizens and landed immigrants who are at least 19 years of age"
     },
@@ -3176,7 +3176,7 @@
     "options": {
       "a": "The written proof that you have voted",
       "b": "A list of all the candidates running in a federal election",
-      "c": "A form that tells you your name is on the voters' list and where you vote.",
+      "c": "A form that tells you your name is on the voters' list and where you vote",
       "d": "A form that tells you who to vote for"
     },
     "answer": "c",
@@ -3208,7 +3208,7 @@
     "question": "What is written on a federal election ballot?",
     "options": {
       "a": "The list of candidates for Prime Minister in alphabetical order from A to Z",
-      "b": "The names of the candidates in your electoral district in alphabetical order from A to Z.",
+      "b": "The names of the candidates in your electoral district in alphabetical order from A to Z",
       "c": "The election results",
       "d": "Your name and address"
     },
@@ -3218,7 +3218,7 @@
   "281": {
     "question": "What do you mark on a federal election ballot?",
     "options": {
-      "a": "Write an X in the circle beside the name of your chosen candidate.",
+      "a": "Write an X in the circle beside the name of your chosen candidate",
       "b": "Write your name beside your chosen candidate",
       "c": "Write the name of your chosen candidate",
       "d": "Draw a line under the name of your chosen candidate"
@@ -3229,10 +3229,10 @@
   "282": {
     "question": "How is a government formed after a federal election?",
     "options": {
-      "a": "The party with the most elected representatives becomes the party in power. The leader of the party is chosen by the King.",
+      "a": "The party with the most elected representatives becomes the party in power. The leader of the party is chosen by the King",
       "b": "The Governor General chooses a party and a Prime Minister to run the government",
-      "c": "Each province elects one representative, one of whom is chosen by the King to be Prime Minister.",
-      "d": "The party with the most elected representatives becomes the party in power. The leader of the party becomes the Prime Minister."
+      "c": "Each province elects one representative, one of whom is chosen by the King to be Prime Minister",
+      "d": "The party with the most elected representatives becomes the party in power. The leader of the party becomes the Prime Minister"
     },
     "answer": "d",
     "note": ""
@@ -3240,7 +3240,7 @@
   "283": {
     "question": "Which party becomes His Majesty's Loyal Opposition?",
     "options": {
-      "a": "The party with the second most elected representatives.",
+      "a": "The party with the second most elected representatives",
       "b": "The party the King selects",
       "c": "The party with the fewest number of elected representatives",
       "d": "The party with the third most elected representatives"
@@ -3406,10 +3406,10 @@
   "297": {
     "question": "Who are the Métis?",
     "options": {
-      "a": "The distinct Aboriginal people of Atlantic Canada.",
-      "b": "A people of mixed Inuit/First Nations ancestry most of whom live on the Prairies.",
-      "c": "First Nations people speaking the Michif dialect.",
-      "d": "A distinct people of mixed Aboriginal and European ancestry."
+      "a": "The distinct Aboriginal people of Atlantic Canada",
+      "b": "A people of mixed Inuit/First Nations ancestry most of whom live on the Prairies",
+      "c": "First Nations people speaking the Michif dialect",
+      "d": "A distinct people of mixed Aboriginal and European ancestry"
     },
     "answer": "d",
     "note": ""
@@ -3475,7 +3475,7 @@
       "a": "O Canada! Our home and native land! With glowing hearts we see thee rise",
       "b": "O Canada! Our home and native land! True patriot love in all of us command",
       "c": "O Canada! Our home and native land! God keep our land glorious and free",
-      "d": "God keep our land glorious and free. O Canada, we stand on guard for thee."
+      "d": "God keep our land glorious and free. O Canada, we stand on guard for thee"
     },
     "answer": "b",
     "note": ""
@@ -4427,10 +4427,10 @@
   "391": {
     "question": "Which two countries battled on Plains of Abraham between 1700 to 1759?",
     "options": {
-      "a": "In the 1700s France and Spain battled for control of North America.",
-      "b": "In the 1700s Spain and Great Britain battled for control of North America.",
-      "c": "In the 1700s France and Great Britain battled for control of North America.",
-      "d": "In the 1700s Spain and Portugal battled for control of North America."
+      "a": "In the 1700s France and Spain battled for control of North America",
+      "b": "In the 1700s Spain and Great Britain battled for control of North America",
+      "c": "In the 1700s France and Great Britain battled for control of North America",
+      "d": "In the 1700s Spain and Portugal battled for control of North America"
     },
     "answer": "c",
     "note": "In 1759, the British defeated the French in the Battle of the Plains of Abraham at Québec City - marking the end of France's empire in America."
@@ -4477,7 +4477,9 @@
       "d": "Henry Joseph Clarke"
     },
     "answer": "a",
-    "note": "Louis Riel is the Father of Manitoba."
+    "note": "Louis Riel is the Father of Manitoba.",
+    "update": true,
+    "region": "manitoba"
   },
   "396": {
     "question": "Who led the Canadian Corps in the last hundred days of World War I?",
@@ -5056,7 +5058,8 @@
       "d": "New Democratic Party"
     },
     "answer": "c",
-    "note": "Currently, the Liberal Party of Canada is the party in power whereas the Conservative Party of Canada is Her Majesty's Loyal Opposition."
+    "note": "Currently, the Liberal Party of Canada is the party in power whereas the Conservative Party of Canada is Her Majesty's Loyal Opposition.",
+    "update": true
   },
   "449": {
     "question": "During election time, what is a polling station?",
@@ -5123,17 +5126,6 @@
     },
     "answer": "c",
     "note": "The citizens in each electoral district elect one MP who sits in the House of Commons to represent them, as well as all Canadians."
-  },
-  "455": {
-    "question": "Name the official federal political parties represented in the House of Commons and their respective leaders",
-    "options": {
-      "a": "Conservative Party (Andrew Scheer), Liberal Party (Justin Trudeau), New Democratic Party (Jagmeet Singh)",
-      "b": "Conservative Party (Stephen Harper), Liberal Party (Michael Ignatieff), Parti Quebecois (Gilles Duceppe)",
-      "c": "Conservative Party (Stephen Harper), Liberal Party (Michael Ignatieff), Green Party (Elizabeth May)",
-      "d": "Conservative Party (Rona Ambrose), Liberal Party (Justin Trudeau), New Democratic Party (Tom Mulcair)"
-    },
-    "answer": "a",
-    "note": "The three official federal political parties represented in the House of Commons and their respective leaders are Conservative Party (Andrew Scheer), Liberal Party (Justin Trudeau), and the New Democratic Party (Jameet Singh)."
   },
   "456": {
     "question": "No one, including family members, your employer or union representative has the right to insist that you tell them how you voted",
@@ -5307,15 +5299,16 @@
       "d": "Conservative Party of Canada"
     },
     "answer": "a",
-    "note": "The party with the most elected representatives becomes the party in power. The federal party in power is the Liberal Party of Canada."
+    "note": "The party with the most elected representatives becomes the party in power. The federal party in power is the Liberal Party of Canada.",
+    "update": true
   },
   "472": {
     "question": "Who has the right to run as a candidate in federal elections?",
     "options": {
-      "a": "Any Canadian citizen who is at least 21 years old.",
-      "b": "Any Canadian citizen who is at least 18 years old.",
-      "c": "Any Canadian citizen who is at least 25 years old.",
-      "d": "Any Canadian citizen who is at least 50 years old."
+      "a": "Any Canadian citizen who is at least 21 years old",
+      "b": "Any Canadian citizen who is at least 18 years old",
+      "c": "Any Canadian citizen who is at least 25 years old",
+      "d": "Any Canadian citizen who is at least 50 years old"
     },
     "answer": "b",
     "note": "Any Canadian citizen who is at least 18 years old can run as a candidate in federal elections."
@@ -5329,20 +5322,10 @@
       "d": "Justin Trudeau"
     },
     "answer": "d",
-    "note": "Justin Trudeau is the Prime Minister of Canada. He is also the leader of the party in power."
+    "note": "Justin Trudeau is the Prime Minister of Canada. He is also the leader of the party in power.",
+    "update": true
   },
   "474": {
-    "question": "Who is the leader of the federal Opposition party?",
-    "options": {
-      "a": "Rona Ambrose",
-      "b": "Stephen Harper",
-      "c": "Andrew Scheer",
-      "d": "Thomas Mulcair"
-    },
-    "answer": "c",
-    "note": "The party with the second most elected representatives is the official opposition party."
-  },
-  "475": {
     "question": "Who's in charge of First Nation reserves?",
     "options": {
       "a": "Band Chiefs",
