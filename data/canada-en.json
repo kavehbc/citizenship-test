@@ -4204,17 +4204,6 @@
     "answer": "c",
     "note": "The Hudson Bay Company chose the beaver as their official symbol."
   },
-  "371": {
-    "question": "What wars did Canada participate in as a country?",
-    "options": {
-      "a": "WW1, WW2, the Zulu war",
-      "b": "WW1, WW2, the South African war",
-      "c": "WW1, WW2, the war of 1812",
-      "d": "WW1, WW2, the American revolution?"
-    },
-    "answer": "b",
-    "note": "Canada participated in World War I, World War II, and the South African war as a country."
-  },
   "372": {
     "question": "What was one of the reasons the United States invaded Canada in 1812?",
     "options": {
@@ -4478,7 +4467,6 @@
     },
     "answer": "a",
     "note": "Louis Riel is the Father of Manitoba.",
-    "update": true,
     "region": "manitoba"
   },
   "396": {
@@ -4517,7 +4505,7 @@
   "399": {
     "question": "Who suggested the term 'Dominion of Canada'?",
     "options": {
-      "a": "Sir John A McDonald",
+      "a": "Sir John A. McDonald",
       "b": "Sir Leonard Tilley",
       "c": "Sir Louis-Hippolyte La Fontaine",
       "d": "Sir George-Etienne Cartier"
@@ -4562,7 +4550,7 @@
     "question": "Who's on a $10 Note?",
     "options": {
       "a": "Sir Wilfred Laurier",
-      "b": "John A Macdonald or Viola Desmond",
+      "b": "John A. Macdonald or Viola Desmond",
       "c": "Her Majesty Queen Elizabeth II",
       "d": "Sir Robert Laird Borden"
     },
@@ -4573,7 +4561,7 @@
     "question": "Who's on a $100 Note?",
     "options": {
       "a": "Sir Wilfred Laurier",
-      "b": "John A Macdonald",
+      "b": "John A. Macdonald",
       "c": "Her Majesty Queen Elizabeth II",
       "d": "Sir Robert Laird Borden"
     },
