@@ -37,6 +37,7 @@ def main():
                                                 min_value=1,
                                                 value=20)
     st.sidebar.caption(f"Total questions: {total_questions_in_db}")
+    chk_shuffle = st.sidebar.checkbox("Shuffle Answers", value=True)
 
     # if the given number is greater than total questions,
     # set the given number to the maximum questions
@@ -71,7 +72,8 @@ def main():
             question_text = f"Q{counter}. {db[question]['question']}"
             question_options = ['-']
             question_options.extend(db[question]["options"].values())
-            # random.shuffle(question_options)
+            if chk_shuffle:
+                random.shuffle(question_options)
             user_answers[question] = st.radio(question_text, options=question_options, key=question_key)
             results[question] = st.empty()
 
@@ -115,6 +117,8 @@ if __name__ == '__main__':
             'Report a bug': "https://github.com/kavehbc/citizenship-test",
             'About': """
                 # Citizenship Test
+                
+                Version 1.0.0
                 
                 Developed by [Kaveh Bakhtiyari](https://bakhtiyari.com)
             """
