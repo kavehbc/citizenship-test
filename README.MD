@@ -4,6 +4,10 @@ This is a public repository of the citizenship questions for the following count
 
 - Australia
 - Canada (English)
+  - *365 questions reviewed*
+  - *safe to shuffle the answers*
+  - **Known Issues:**
+    - Since the questions are from multiple sources, we might have duplicated questions.
 - Canada (French)
 - United Kingdom (UK)
 - United States of America (U.S.A)
@@ -14,7 +18,7 @@ Please feel free to contribute to this repo by providing more questions and addi
 
 ### Contribution to the questions
 Find and edit the data file inside the `data` folder with the name of country.
-For example, to add questions for Canada, edit `data/canada.json`.
+For example, to add questions for Canada (English), edit `data/canada-en.json`.
 
 ### Contribution to the countries
 If you want to introduce new countries, make a copy of the template data file `data/template.json`.
@@ -35,11 +39,6 @@ This application is available on [Docker Hub](https://hub.docker.com/r/kavehbc/c
     docker run -p 80:8501 kavehbc/citizenship-test
 
 Once you run it, you can open it in your browser on [http://127.0.0.1](http://127.0.0.1).
-
-> **Apple M1 Silicon - Arm64**
-> 
-> As of today (`Dec 2021`), this Docker Image is not compatible with `Apple M1 Silicon`.
-> Instead, the source code can be run using `conda` on `Rosetta 2`.
 
 ### Live demo
 You can check its live demo here:
@@ -64,7 +63,6 @@ Questions are collected from the following resources:
   - https://citizenshiptests.org/
 - Australia
   - https://citizenshiptests.org/
-
 
 ___
 ## GitHub Repo

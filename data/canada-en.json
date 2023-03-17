@@ -165,7 +165,7 @@
     "note": ""
   },
   "16": {
-    "question": "What is \"La Francophonie\"?",
+    "question": "What is 'La Francophonie'?",
     "options": {
       "a": "A region in Quebec",
       "b": "A French music instrument",
@@ -257,7 +257,7 @@
     "options": {
       "a": "Religious Tradition",
       "b": "Dignity and Worth of Human Person",
-      "c": "Both A & B",
+      "c": "Religious Tradition, Dignity and Worth of Human Person",
       "d": "None of These"
     },
     "answer": "c",
@@ -297,7 +297,7 @@
     "note": "Habeas corpus, the right to challenge unlawful detention by the state, comes from English common law."
   },
   "28": {
-    "question": "Who is Canada’s representative?",
+    "question": "Who is Canada's representative?",
     "options": {
       "a": "The People",
       "b": "The sovereign",
@@ -324,7 +324,7 @@
       "a": "English",
       "b": "Metis",
       "c": "French",
-      "d": "Both A & C"
+      "d": "English and French"
     },
     "answer": "d",
     "note": "Those willing to become the part Canadian Culture, between the ages of 18 and 54 must have adequate knowledge of French and English."
@@ -334,11 +334,11 @@
     "options": {
       "a": "Individuals",
       "b": "Governments",
-      "c": "Both A & B",
+      "c": "Individuals and Governments",
       "d": "None of Them"
     },
     "answer": "c",
-    "note": "One of Canada’s founding principles is the rule of law. Individuals and governments are regulated by laws and not by arbitrary actions."
+    "note": "One of Canada's founding principles is the rule of law. Individuals and governments are regulated by laws and not by arbitrary actions."
   },
   "32": {
     "question": "To become a part of Canada, what is the age limit for a person that must have adequate knowledge of French and English?",
@@ -407,12 +407,12 @@
     "note": ""
   },
   "38": {
-    "question": "Fatima is a new immigrant in Canada.  What law allows her to take a job at par with a man?",
+    "question": "Fatima is a new immigrant in Canada. What law allows her to take a job at par with a man?",
     "options": {
       "a": "Equality of women and men",
-      "b": "Equality of all races.",
-      "c": "Equal pay for equal work.",
-      "d": "Equal rights."
+      "b": "Equality of all races",
+      "c": "Equal pay for equal work",
+      "d": "Equal rights"
     },
     "answer": "a",
     "note": ""
@@ -420,10 +420,10 @@
   "39": {
     "question": "From where does the name 'Canada' come from?",
     "options": {
-      "a": "From the Inuit word meaning country.",
-      "b": "From the French word meaning joining.",
-      "c": "From the Métis word meaning rivers.",
-      "d": "From \"Kanata\", the Huron-Iroquois word for village."
+      "a": "From the Inuit word meaning country",
+      "b": "From the French word meaning joining",
+      "c": "From the Métis word meaning rivers",
+      "d": "From 'Kanata', the Huron-Iroquois word for village"
     },
     "answer": "d",
     "note": ""
@@ -431,10 +431,10 @@
   "40": {
     "question": "Give an example of how you can show responsibility by participating in your community.",
     "options": {
-      "a": "Mind your own business.",
-      "b": "Have a party.",
-      "c": "Keep your property tidy.",
-      "d": "Volunteer."
+      "a": "Mind your own business",
+      "b": "Have a party",
+      "c": "Keep your property tidy",
+      "d": "Volunteer"
     },
     "answer": "d",
     "note": ""
@@ -451,12 +451,12 @@
     "note": ""
   },
   "42": {
-    "question": "Give the first line of Canada’s national anthem?",
+    "question": "Give the first line of Canada's national anthem?",
     "options": {
-      "a": "O Canada!  Our home and native land!",
-      "b": "O Canada!  Our province and native land!",
-      "c": "O Canada!  From far and wide, O Canada,",
-      "d": "O Canada!  We stand on guard for thee."
+      "a": "O Canada! Our home and native land!",
+      "b": "O Canada! Our province and native land!",
+      "c": "O Canada! From far and wide, O Canada,",
+      "d": "O Canada! We stand on guard for thee."
     },
     "answer": "a",
     "note": ""
@@ -497,9 +497,9 @@
   "46": {
     "question": "How is a Cabinet Minister chosen?",
     "options": {
-      "a": "By the King.",
-      "b": "By the voters.",
-      "c": "By other Cabinet Ministers.",
+      "a": "By the King",
+      "b": "By the voters",
+      "c": "By other Cabinet Ministers",
       "d": "By the Prime Minister"
     },
     "answer": "d",
@@ -552,10 +552,10 @@
   "51": {
     "question": "In the 1960s, Quebec experienced an era of rapid change. What is this called?",
     "options": {
-      "a": "The West Movement.",
-      "b": "The Revolution.",
-      "c": "The Quiet Revolution.",
-      "d": "La Francophonie."
+      "a": "The West Movement",
+      "b": "The Revolution",
+      "c": "The Quiet Revolution",
+      "d": "La Francophonie"
     },
     "answer": "c",
     "note": ""
@@ -564,9 +564,9 @@
     "question": "In what industry do most Canadians work?",
     "options": {
       "a": "Natural resources",
-      "b": "Tourism.",
-      "c": "Service.",
-      "d": "Manufacturing."
+      "b": "Tourism",
+      "c": "Service",
+      "d": "Manufacturing"
     },
     "answer": "c",
     "note": ""
@@ -574,10 +574,10 @@
   "53": {
     "question": "In which region do more than half the people in Canada live?",
     "options": {
-      "a": "Central Canada.",
-      "b": "Prairies.",
-      "c": "Atlantic Canada.",
-      "d": "Northern Canada."
+      "a": "Central Canada",
+      "b": "Prairies",
+      "c": "Atlantic Canada",
+      "d": "Northern Canada"
     },
     "answer": "a",
     "note": ""
@@ -591,7 +591,8 @@
       "d": "Liberal (Ignatieff), Conservative (Ambrose), NDP (Turmel), Green (May)"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "55": {
     "question": "Name six responsibilities of citizenship.",
@@ -684,10 +685,10 @@
   "63": {
     "question": "One third of all Canadians live in which province?",
     "options": {
-      "a": "Quebec.",
-      "b": "Ontario.",
-      "c": "Northwest Territories.",
-      "d": "Manitoba."
+      "a": "Quebec",
+      "b": "Ontario",
+      "c": "Northwest Territories",
+      "d": "Manitoba"
     },
     "answer": "b",
     "note": ""
@@ -772,10 +773,10 @@
   "71": {
     "question": "What are the three main groups of Aboriginal peoples?",
     "options": {
-      "a": "First Nations, Métis and Inuit.",
-      "b": "Acadians, Métis and Inuit.",
-      "c": "United Empire Loyalists, Métis and Inuit.",
-      "d": "Inuit, Métis and Acadians."
+      "a": "First Nations, Métis and Inuit",
+      "b": "Acadians, Métis and Inuit",
+      "c": "United Empire Loyalists, Métis and Inuit",
+      "d": "Inuit, Métis and Acadians"
     },
     "answer": "a",
     "note": ""
@@ -783,10 +784,10 @@
   "72": {
     "question": "What are the three main types of industry in Canada?",
     "options": {
-      "a": "Natural resources, tourism and service industries..",
-      "b": "Tourism, services and manufacturing.",
-      "c": "Natural resources, tourism and manufacturing.",
-      "d": "Natural resources, manufacturing and services."
+      "a": "Natural resources, tourism and service industries",
+      "b": "Tourism, services and manufacturing",
+      "c": "Natural resources, tourism and manufacturing",
+      "d": "Natural resources, manufacturing and services"
     },
     "answer": "d",
     "note": ""
@@ -816,10 +817,10 @@
   "75": {
     "question": "What country is Canada's largest trading partner?",
     "options": {
-      "a": "Mexico.",
-      "b": "United States of America.",
-      "c": "China.",
-      "d": "Japan."
+      "a": "Mexico",
+      "b": "United States of America",
+      "c": "China",
+      "d": "Japan"
     },
     "answer": "b",
     "note": ""
@@ -871,10 +872,10 @@
   "80": {
     "question": "What do you mark on a federal election ballot?",
     "options": {
-      "a": "The candidate's name.",
-      "b": "The number for the candidate.",
-      "c": "An \"X\".",
-      "d": "The voter's name."
+      "a": "The candidate's name",
+      "b": "The number for the candidate",
+      "c": "An 'X'",
+      "d": "The voter's name"
     },
     "answer": "c",
     "note": ""
@@ -937,10 +938,10 @@
   "86": {
     "question": "What does the word 'Inuit' mean?",
     "options": {
-      "a": "\"Eskimo\" in Inuktitut language.",
-      "b": "\"Home\" in English.",
-      "c": "\"The people\" in the Inuktitut language.",
-      "d": "\"The Arctic Land\" in Inuktitut language."
+      "a": "'Eskimo' in Inuktitut language.",
+      "b": "'Home' in English.",
+      "c": "'The people' in the Inuktitut language.",
+      "d": "'The Arctic Land' in Inuktitut language."
     },
     "answer": "c",
     "note": ""
@@ -1080,7 +1081,7 @@
   "99": {
     "question": "What is the highest court in Canada?",
     "options": {
-      "a": "The King\\'s Bench",
+      "a": "The King's Bench",
       "b": "The Senate Court of Canada",
       "c": "The Supreme Court of Canada",
       "d": "The Crown Court of Canada"
@@ -1130,7 +1131,8 @@
       "d": "Julie Payette"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "104": {
     "question": "What is the name of the Prime Minister of Canada and his/her party?",
@@ -1141,7 +1143,8 @@
       "d": "Pierre Trudeau (Liberal Party)."
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "105": {
     "question": "What is the name of the Royal Anthem of Canada?",
@@ -1221,7 +1224,7 @@
     "note": ""
   },
   "112": {
-    "question": "What song is Canada’s national anthem?",
+    "question": "What song is Canada's national anthem?",
     "options": {
       "a": "God Save the King.",
       "b": "O Canada.",
@@ -1379,8 +1382,8 @@
     "options": {
       "a": "Go to the voting station, tell them who you are and mark your X.  Give the ballot back to the attendant.",
       "b": "Go to the voting station, remove 1 ballot and after marking your X deposit it in the ballot box.",
-      "c": "Go to the voting station, take your voter\\'s card with proof if identity, highlight your choice on the ballot and deposit it in the box.",
-      "d": "Go to the voting station with your voter\\'s card and ID, mark an X next to your chosen candidate, fold the ballot and present it to the poll officials who will tear off the ballot number and give you the ballot to deposit in the box"
+      "c": "Go to the voting station, take your voter's card with proof if identity, highlight your choice on the ballot and deposit it in the box.",
+      "d": "Go to the voting station with your voter's card and ID, mark an X next to your chosen candidate, fold the ballot and present it to the poll officials who will tear off the ballot number and give you the ballot to deposit in the box"
     },
     "answer": "d",
     "note": ""
@@ -1471,7 +1474,8 @@
       "d": "Conservative Party."
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "135": {
     "question": "Which of the following is NOT a feature of Canada's system of government?",
@@ -1526,7 +1530,8 @@
       "d": "The Conservative Party."
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "140": {
     "question": "Which port is the largest and busiest in Canada?",
@@ -1793,7 +1798,7 @@
     "note": ""
   },
   "164": {
-    "question": "Who is Canada’s Head of State?",
+    "question": "Who is Canada's Head of State?",
     "options": {
       "a": "Governor General of Canada.",
       "b": "His Majesty King Charles III.",
@@ -1837,7 +1842,7 @@
     "note": ""
   },
   "168": {
-    "question": "Who is the King’s representative in Canada?",
+    "question": "Who is the King's representative in Canada?",
     "options": {
       "a": "Prime Minister of Canada.",
       "b": "Premier.",
@@ -1856,7 +1861,8 @@
       "d": "Elizabeth May"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "170": {
     "question": "Who led an armed uprising and seized Fort Garry?",
@@ -1951,7 +1957,7 @@
     "options": {
       "a": "It was a key position of the German line in Northern Spain.",
       "b": "Canadian Corps secured its reputation for valour and bravery.",
-      "c": "It was the \"hinge\" of the German line as it protected the newly constructed Hindenburg line.",
+      "c": "It was the 'hinge' of the German line as it protected the newly constructed Hindenburg line.",
       "d": "Once Canadians fought at Vimy they knew they would be heading home."
     },
     "answer": "b",
@@ -1977,7 +1983,9 @@
       "d": "Philippe Couillard"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "quebec"
   },
   "181": {
     "question": "What is the name of the Lieutenant-Governor of Quebec?",
@@ -1988,7 +1996,9 @@
       "d": "Honourable J. Michel Doyon"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "quebec"
   },
   "182": {
     "question": "What is the capital city of Alberta?",
@@ -1999,7 +2009,8 @@
       "d": "Edmonton."
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "region": "alberta"
   },
   "183": {
     "question": "What is the name of the leader of the Opposition in Alberta?",
@@ -2010,7 +2021,9 @@
       "d": "Jim Prentice."
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "alberta"
   },
   "184": {
     "question": "What is the name of the Lieutenant-Governor of Alberta?",
@@ -2021,7 +2034,9 @@
       "d": "Lois Mitchell."
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "alberta"
   },
   "185": {
     "question": "What is the name of the Premier of Alberta?",
@@ -2032,7 +2047,9 @@
       "d": "Premier Stephen Harper"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "alberta"
   },
   "186": {
     "question": "Which political party is in power in Alberta?",
@@ -2043,7 +2060,9 @@
       "d": "United Conservative Party"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "alberta"
   },
   "187": {
     "question": "Which three natural resources are important to Alberta's economy today?",
@@ -2065,7 +2084,8 @@
       "d": "Richmond has two federal electoral districts: Richmond Centre and Steveston-Richmond East"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "region": "british columbia"
   },
   "189": {
     "question": "Name the members of Parliament for Richmond, British Columbia and the parties they belong to (Richmond Centre, Steveston-Richmond East respectively).",
@@ -2076,7 +2096,9 @@
       "d": "Greg Halsey-Brandt (Liberal), Geoff Plant (Liberal)"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "british columbia"
   },
   "190": {
     "question": "Name the Members of the Legislative Assembly for Richmond, British Columbia and the parties they belong to (Richmond North Centre, Richmond South Centre, Richmond-Steveston, and Richmond-Queensborough respectively).",
@@ -2087,7 +2109,9 @@
       "d": "Teresa Wat (Richmond North Centre), Henry Yao (Richmond South Centre), Kelly Greene(Richmond-Steveston), Aman Singh (Richmond-Queensborough)."
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "british columbia"
   },
   "191": {
     "question": "Name three city councillors for Richmond, British Columbia.",
@@ -2098,7 +2122,9 @@
       "d": "Ken Johnston, Bill McNulty and Harold Steves"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "british columbia"
   },
   "192": {
     "question": "What is the capital city of British Columbia?",
@@ -2109,7 +2135,8 @@
       "d": "New Westminster."
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "region": "british columbia"
   },
   "193": {
     "question": "What is the name of the leader of the Opposition in British Columbia?",
@@ -2120,7 +2147,9 @@
       "d": "Andrew Wilkinson"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "british columbia"
   },
   "194": {
     "question": "What is the name of the Lieutenant-Governor of British Columbia?",
@@ -2131,7 +2160,9 @@
       "d": "Judith Guichon"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "british columbia"
   },
   "195": {
     "question": "What is the name of the Mayor of Richmond, British Columbia?",
@@ -2142,7 +2173,9 @@
       "d": "Mayor Malcolm Brodie"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "british columbia"
   },
   "196": {
     "question": "What is the name of the Premier of British Columbia?",
@@ -2153,7 +2186,9 @@
       "d": "Premier Christy Clark"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "british columbia"
   },
   "197": {
     "question": "Which political party is in power in British Columbia?",
@@ -2164,7 +2199,9 @@
       "d": "Green Party"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "british columbia"
   },
   "198": {
     "question": "Which three natural resources are important to British Columbia's economy today?",
@@ -2180,7 +2217,7 @@
   "199": {
     "question": "Why is British Columbia known as Canada's Pacific Gateway?",
     "options": {
-      "a": "Most new imigrants arrive at Vancouver International Airport.",
+      "a": "Most new immigrants arrive at Vancouver International Airport.",
       "b": "British Columbia is the closest province to the Far East.",
       "c": "Billions of dollars in trade goods are handled through the Port of Vancouver.",
       "d": "British Columbia borders the Pacific Ocean."
@@ -2197,7 +2234,8 @@
       "d": "Brandon"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "region": "manitoba"
   },
   "201": {
     "question": "What is the name of the leader of the Opposition in Manitoba?",
@@ -2208,7 +2246,9 @@
       "d": "Brian Pallister"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "manitoba"
   },
   "202": {
     "question": "What is the name of the Lieutenant-Governor of Manitoba?",
@@ -2219,7 +2259,9 @@
       "d": "Honourable Janice Filmon"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "manitoba"
   },
   "203": {
     "question": "What is the name of the Premier of Manitoba?",
@@ -2230,7 +2272,9 @@
       "d": "Premier Sterling Lyon"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "manitoba"
   },
   "204": {
     "question": "What three industries are important to Manitoba's economy today?",
@@ -2252,7 +2296,9 @@
       "d": "New Democrats"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "manitoba"
   },
   "206": {
     "question": "What is the capital city of New Brunswick?",
@@ -2263,7 +2309,8 @@
       "d": "Montreal"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "region": "brunswick"
   },
   "207": {
     "question": "What is the name of the leader of the Opposition in New Brunswick?",
@@ -2274,7 +2321,9 @@
       "d": "David Alward"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "brunswick"
   },
   "208": {
     "question": "What is the name of the Lieutenant-Governor of New Brunswick?",
@@ -2285,7 +2334,9 @@
       "d": "Honourable Graydon Nicholas"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "brunswick"
   },
   "209": {
     "question": "What is the name of the Premier of New Brunswick?",
@@ -2296,7 +2347,9 @@
       "d": "Premier Brian Gallant"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "brunswick"
   },
   "210": {
     "question": "What three industries are important to New Brunswick's economy today?",
@@ -2318,7 +2371,9 @@
       "d": "Progressive Conservative"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "brunswick"
   },
   "212": {
     "question": "What is the capital city of Newfoundland and Labrador?",
@@ -2329,7 +2384,9 @@
       "d": "St. Pierre et Miquelon"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "brunswick"
   },
   "213": {
     "question": "What is the name of the leader of the Opposition in Newfoundland and Labrador?",
@@ -2340,7 +2397,9 @@
       "d": "Dwight Ball"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "newfoundland-labrador"
   },
   "214": {
     "question": "What is the name of the Lieutenant-Governor of Newfoundland and Labrador?",
@@ -2351,7 +2410,9 @@
       "d": "Honourable Judy May Foote"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "newfoundland-labrador"
   },
   "215": {
     "question": "What is the name of the Premier of Newfoundland and Labrador?",
@@ -2362,7 +2423,9 @@
       "d": "Premier Tom Marshall"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "newfoundland-labrador"
   },
   "216": {
     "question": "What three industries are important to Newfoundland and Labrador's economy today?",
@@ -2384,7 +2447,9 @@
       "d": "Progressive Conservative"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "newfoundland-labrador"
   },
   "218": {
     "question": "What is the capital City of Nova Scotia?",
@@ -2395,7 +2460,8 @@
       "d": "Devon"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "region": "nova-scotia"
   },
   "219": {
     "question": "What is the name of the leader of the Opposition in Nova Scotia?",
@@ -2406,7 +2472,9 @@
       "d": "Jamie Baillie"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "nova-scotia"
   },
   "220": {
     "question": "What is the name of the Lieutenant-Governor of Nova Scotia?",
@@ -2417,7 +2485,9 @@
       "d": "Honourable Arthur J. LeBlanc"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "nova-scotia"
   },
   "221": {
     "question": "What is the name of the Premier of Nova Scotia?",
@@ -2428,7 +2498,9 @@
       "d": "Premier Rodney MacDonald"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "nova-scotia"
   },
   "222": {
     "question": "What three industries are important to Nova Scotia's economy today?",
@@ -2450,7 +2522,9 @@
       "d": "Nova Scotia Party"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "nova-scotia"
   },
   "224": {
     "question": "What is the capital City of the Northwest Territories?",
@@ -2461,7 +2535,8 @@
       "d": "Yellowknife"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "region": "northwest-territories"
   },
   "225": {
     "question": "What is the name of the Commissioner of the Northwest Territories?",
@@ -2472,7 +2547,9 @@
       "d": "Honourable Glenna Hansen"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "northwest-territories"
   },
   "226": {
     "question": "What is the name of the leader of the Opposition in the Northwest Territories?",
@@ -2483,7 +2560,9 @@
       "d": "Nellie Cournoyea"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "northwest-territories"
   },
   "227": {
     "question": "What is the name of the Premier of the Northwest Territories?",
@@ -2494,7 +2573,9 @@
       "d": "Premier Jim Antoine"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "northwest-territories"
   },
   "228": {
     "question": "Which political party is in power in the Northwest Territories?",
@@ -2505,7 +2586,9 @@
       "d": "New Democrats"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "northwest-territories"
   },
   "229": {
     "question": "What is the capital City of the Nunavut?",
@@ -2516,7 +2599,8 @@
       "d": "Mivvik"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "region": "nunavut"
   },
   "230": {
     "question": "What is the name of the Commissioner of Nunavut?",
@@ -2527,7 +2611,9 @@
       "d": "Honourable Nellie Taptaqut Kusugak"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "nunavut"
   },
   "231": {
     "question": "What is the name of the leader of the Opposition in Nunavut?",
@@ -2538,7 +2624,9 @@
       "d": "Eva Aariak"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "nunavut"
   },
   "232": {
     "question": "What is the name of the Premier of Nunavut?",
@@ -2549,7 +2637,9 @@
       "d": "Premier P.J. Akeeagok"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "nunavut"
   },
   "233": {
     "question": "Which political party is in power in Nunavut?",
@@ -2560,7 +2650,9 @@
       "d": "Governed by consensus"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "nunavut"
   },
   "234": {
     "question": "What is the capital city of Ontario?",
@@ -2571,7 +2663,8 @@
       "d": "London"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "region": "ontario"
   },
   "235": {
     "question": "What is the name of the leader of the Opposition in Ontario?",
@@ -2582,7 +2675,9 @@
       "d": "Dalton McGuinty"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "ontario"
   },
   "236": {
     "question": "What is the name of the Lieutenant-Governor of Ontario?",
@@ -2593,7 +2688,9 @@
       "d": "Belinda Stronach"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "ontario"
   },
   "237": {
     "question": "What is the name of the Premier of Ontario?",
@@ -2604,7 +2701,9 @@
       "d": "Premier Mike Harris"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "ontario"
   },
   "238": {
     "question": "What three industries are important to Ontario's economy today?",
@@ -2626,10 +2725,12 @@
       "d": "New Democratic Party"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "ontario"
   },
   "240": {
-    "question": "Which three are Members of Ontario’s Legislative Assembly?",
+    "question": "Which three are Members of Ontario's Legislative Assembly?",
     "options": {
       "a": "Brian Kilrea, Marlene Catterall, Tom Green",
       "b": "Howard Hampton, Maurice Richard, Daniel Poliquin",
@@ -2637,7 +2738,9 @@
       "d": "Paul Calandra, Todd Smith, Lisa Gretzky"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "ontario"
   },
   "241": {
     "question": "What is the capital City of the Prince Edward Island?",
@@ -2648,7 +2751,8 @@
       "d": "Georgetown"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "region": "prince-edward-island"
   },
   "242": {
     "question": "What is the name of the leader of the Opposition in Prince Edward Island?",
@@ -2659,7 +2763,9 @@
       "d": "Peter Bevan-Baker"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "prince-edward-island"
   },
   "243": {
     "question": "What is the name of the Lieutenant-Governor of Prince Edward Island?",
@@ -2670,7 +2776,9 @@
       "d": "Honourable Léonce Barnard"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "prince-edward-island"
   },
   "244": {
     "question": "What is the name of the Premier of Prince Edward Island?",
@@ -2681,7 +2789,9 @@
       "d": "Premier Joe Ghiz"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "prince-edward-island"
   },
   "245": {
     "question": "Which political party is in power in Prince Edward Island?",
@@ -2692,7 +2802,9 @@
       "d": "Union Nationale"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "prince-edward-island"
   },
   "246": {
     "question": "What is the capital City of the Quebec?",
@@ -2703,10 +2815,11 @@
       "d": "Chicoutimi"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "region": "quebec"
   },
   "247": {
-    "question": "What is the name of the Premier of Quebec ?",
+    "question": "What is the name of the Premier of Quebec?",
     "options": {
       "a": "Premier Lucien Bouchard",
       "b": "Premier Pauline Marois",
@@ -2714,7 +2827,9 @@
       "d": "Premier Philippe Couillard"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "quebec"
   },
   "248": {
     "question": "What three industries are important to Quebec's economy today?",
@@ -2736,7 +2851,9 @@
       "d": "Union Nationale"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "quebec"
   },
   "250": {
     "question": "What is the capital city of Saskatchewan?",
@@ -2747,7 +2864,8 @@
       "d": "Fort Qu'Appelle"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "region": "saskatchewan"
   },
   "251": {
     "question": "What is the name of the leader of the Opposition in Saskatchewan?",
@@ -2758,7 +2876,9 @@
       "d": "Cam Broten"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "saskatchewan"
   },
   "252": {
     "question": "What is the name of the Lieutenant-Governor of Saskatchewan?",
@@ -2769,7 +2889,9 @@
       "d": "Honourable Lynda Maureen Haverstock"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "saskatchewan"
   },
   "253": {
     "question": "What is the name of the Premier of Saskatchewan?",
@@ -2780,7 +2902,9 @@
       "d": "Premier Len Taylor"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "saskatchewan"
   },
   "254": {
     "question": "What three industries are important to Saskatchewan's economy today?",
@@ -2802,7 +2926,9 @@
       "d": "Social Credit"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "saskatchewan"
   },
   "256": {
     "question": "What is the capital city of Yukon Territory?",
@@ -2813,7 +2939,8 @@
       "d": "Riverdale"
     },
     "answer": "c",
-    "note": ""
+    "note": "",
+    "region": "yukon"
   },
   "257": {
     "question": "What is the name of the Commissioner of Yukon Territory?",
@@ -2824,7 +2951,9 @@
       "d": "Honourable Douglas Bell"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "yukon"
   },
   "258": {
     "question": "What is the name of the leader of the Opposition in Yukon Territory?",
@@ -2835,7 +2964,9 @@
       "d": "Arthur Mitchell"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "yukon"
   },
   "259": {
     "question": "What is the name of the Premier of Yukon Territory?",
@@ -2846,7 +2977,9 @@
       "d": "Premier Sandy Silver"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "yukon"
   },
   "260": {
     "question": "Name two fundamental freedoms under Canadian law.",
@@ -2893,7 +3026,7 @@
     "note": ""
   },
   "264": {
-    "question": "What is meant by the \"equality of women and men\"?",
+    "question": "What is meant by the 'equality of women and men'?",
     "options": {
       "a": "Men and women are treated equally under the law.",
       "b": "Men and women are the same",
@@ -2926,7 +3059,7 @@
     "note": ""
   },
   "267": {
-    "question": "What does \"due process\" mean?",
+    "question": "What does 'due process' mean?",
     "options": {
       "a": "You must prove your innocence in court",
       "b": "The government must respect all the legal rights a person is entitled to under the law",
@@ -2945,7 +3078,8 @@
       "d": "To pledge your loyalty to Canada from sea to sea"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "269": {
     "question": "Name the three levels of government in Canada",
@@ -2978,7 +3112,8 @@
       "d": "The Sovereign, His Majesty King Charles III"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "272": {
     "question": "What are the three parts of Parliament?",
@@ -3000,7 +3135,8 @@
       "d": "The Premier, Doug Ford"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "274": {
     "question": "Who do Canadians vote for in a federal election?",
@@ -3058,7 +3194,7 @@
     "note": ""
   },
   "279": {
-    "question": "What is meant by a \"secret ballot\"?",
+    "question": "What is meant by a 'secret ballot'?",
     "options": {
       "a": "An unknown voting location",
       "b": "A private candidates' meeting",
@@ -3071,7 +3207,7 @@
   "280": {
     "question": "What is written on a federal election ballot?",
     "options": {
-      "a": "The list of candidates for Prime Minister in alphabetical order  from A to Z",
+      "a": "The list of candidates for Prime Minister in alphabetical order from A to Z",
       "b": "The names of the candidates in your electoral district in alphabetical order from A to Z.",
       "c": "The election results",
       "d": "Your name and address"
@@ -3121,7 +3257,8 @@
       "d": "Conservative Party of Canada (Pierre Poilievre), Liberal Party of Canada (Justin Trudeau), New Democratic Party (Jagmeet Singh), Green Party (Elizabeth May and Mike Morrice)"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "285": {
     "question": "Which federal political party is in power?",
@@ -3132,7 +3269,8 @@
       "d": "New Democratic Party"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "286": {
     "question": "Who is Canada's Prime Minister?",
@@ -3143,7 +3281,8 @@
       "d": "Justin Trudeau"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "287": {
     "question": "Which federal political party is His Majesty's Loyal Opposition?",
@@ -3154,7 +3293,8 @@
       "d": "Conservative Party"
     },
     "answer": "d",
-    "note": ""
+    "note": "",
+    "update": true
   },
   "288": {
     "question": "What do you call a law before it is passed?",
@@ -3187,7 +3327,9 @@
       "d": "The Green Party"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "ontario"
   },
   "291": {
     "question": "Who is the Premier of Ontario?",
@@ -3198,7 +3340,9 @@
       "d": "Steven Del Duca"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "ontario"
   },
   "292": {
     "question": "Who is the Lieutenant Governor of Ontario?",
@@ -3209,7 +3353,9 @@
       "d": "David Miller"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "ontario"
   },
   "293": {
     "question": "Who is the mayor of Toronto?",
@@ -3220,7 +3366,9 @@
       "d": "David Miller"
     },
     "answer": "b",
-    "note": ""
+    "note": "",
+    "update": true,
+    "region": "ontario"
   },
   "294": {
     "question": "Which level of government is responsible for by-laws?",
@@ -3324,10 +3472,10 @@
   "303": {
     "question": "What are the first two lines of the National Anthem, O Canada?",
     "options": {
-      "a": "O Canada! Our home and native land!\nWith glowing hearts we see thee rise",
-      "b": "O Canada! Our home and native land!\nTrue patriot love in all of us command",
-      "c": "O Canada! Our home and native land!\nGod keep our land glorious and free",
-      "d": "God keep our land glorious and free\nO Canada, we stand on guard for thee."
+      "a": "O Canada! Our home and native land! With glowing hearts we see thee rise",
+      "b": "O Canada! Our home and native land! True patriot love in all of us command",
+      "c": "O Canada! Our home and native land! God keep our land glorious and free",
+      "d": "God keep our land glorious and free. O Canada, we stand on guard for thee."
     },
     "answer": "b",
     "note": ""
@@ -3407,7 +3555,8 @@
       "d": "Mississauga"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "region": "ontario"
   },
   "311": {
     "question": "Name the five Great lakes.",
@@ -3566,10 +3715,10 @@
   "325": {
     "question": "Approximately how many Canadian soldiers served in the second World War?",
     "options": {
-      "a": "100000",
-      "b": "500000",
-      "c": "800000",
-      "d": "1000000"
+      "a": "100,000",
+      "b": "500,000",
+      "c": "800,000",
+      "d": "1,000,000"
     },
     "answer": "d",
     "note": "More than one million Canadians and Newfoundlanders served in the Second World War, out of a population of 11.5 million."
@@ -3641,7 +3790,7 @@
       "b": "False"
     },
     "answer": "a",
-    "note": "Canadian volunteers and First Nations, including Shawnee led by Chief Tecumseh, supported British soldiers in Canada’s defence."
+    "note": "Canadian volunteers and First Nations, including Shawnee led by Chief Tecumseh, supported British soldiers in Canada's defence."
   },
   "333": {
     "question": "Due to the effort of which Canadian, Quebec granted women the right to vote in 1940.",
@@ -3712,8 +3861,8 @@
   "339": {
     "question": "Is current Canada - US border outcome of Second World War?",
     "options": {
-      "a": "TRUE",
-      "b": "FALSE"
+      "a": "True",
+      "b": "False"
     },
     "answer": "b",
     "note": "The present-day Canada-U.S.A. border is partly an outcome of the War of 1812, which ensured that Canada would remain independent of the United States."
@@ -3932,7 +4081,7 @@
       "d": "Battle of Amiens"
     },
     "answer": "b",
-    "note": "The Canadian Corps captured Vimy Ridge in April 1917, with 10,000 killed or wounded, securing the Canadians’ reputation for valour as the “shock troops of the British Empire.”"
+    "note": "The Canadian Corps captured Vimy Ridge in April 1917, with 10,000 killed or wounded, securing the Canadians' reputation for valour as the “shock troops of the British Empire.”"
   },
   "360": {
     "question": "What beach did Canadians storm and capture during the D-Day Invasion?",
@@ -3973,7 +4122,7 @@
       "a": "Religious Freedom for Catholics",
       "b": "Allowed citizens to hold public office",
       "c": "Accommodated the principles of British institutions to the reality of the province",
-      "d": "All of the above"
+      "d": "All of these"
     },
     "answer": "d",
     "note": "To better govern the French Roman Catholic majority, the British Parliament passed the Quebec Act of 1774. One of the constitutional foundations of Canada, the Quebec Act accommodated the principles of British institutions to the reality of the province."
@@ -4075,7 +4224,7 @@
       "d": "Because they believed it would be easy to conquer Canada"
     },
     "answer": "d",
-    "note": "The British Empire, which included Canada, fought to resist Bonaparte’s bid to dominate Europe. This led to American resentment at British interference with their shipping. Believing it would be easy to conquer Canada, the United States launched an invasion in June 1812."
+    "note": "The British Empire, which included Canada, fought to resist Bonaparte's bid to dominate Europe. This led to American resentment at British interference with their shipping. Believing it would be easy to conquer Canada, the United States launched an invasion in June 1812."
   },
   "373": {
     "question": "What was the Head Tax?",
@@ -4339,7 +4488,7 @@
       "d": "Gabriel Dumont"
     },
     "answer": "a",
-    "note": "In 1918, under the command of General Sir Arthur Currie, Canada’s greatest soldier, the Canadian Corps advanced alongside the French and British Empire troops in the last hundred days."
+    "note": "In 1918, under the command of General Sir Arthur Currie, Canada's greatest soldier, the Canadian Corps advanced alongside the French and British Empire troops in the last hundred days."
   },
   "397": {
     "question": "Who led thousands of Loyalist Mohawk Indians into Canada?",
@@ -4405,7 +4554,7 @@
       "d": "Aboriginal peoples"
     },
     "answer": "b",
-    "note": "European exploration began in earnest in 1497 with the expedition of John Cabot, who was the first to draw a map of Canada’s East Coast."
+    "note": "European exploration began in earnest in 1497 with the expedition of John Cabot, who was the first to draw a map of Canada's East Coast."
   },
   "403": {
     "question": "Who's on a $10 Note?",
@@ -4480,7 +4629,7 @@
       "b": "False"
     },
     "answer": "a",
-    "note": "The Clarkson Cup, established in 2005 by Adrienne Clarkson, the 26th Governor General (and the first of Asian origin), is awarded for women’s hockey."
+    "note": "The Clarkson Cup, established in 2005 by Adrienne Clarkson, the 26th Governor General (and the first of Asian origin), is awarded for women's hockey."
   },
   "410": {
     "question": "How many Canadians have been awarded the Victoria Cross?",
@@ -4799,7 +4948,7 @@
       "d": "Tourism industries"
     },
     "answer": "c",
-    "note": "Today, the economy of many areas of the country still depends on developing natural resources, and a large percentage of Canada’s exports are natural resources commodities."
+    "note": "Today, the economy of many areas of the country still depends on developing natural resources, and a large percentage of Canada's exports are natural resources commodities."
   },
   "439": {
     "question": "Where is the Peace Arch located?",
@@ -4885,7 +5034,7 @@
       "b": "False"
     },
     "answer": "b",
-    "note": "Even if you choose not to be listed in the National Register of Electors or do not receive a voter information card, you can still be added to the voters’ list at any time, including on election day."
+    "note": "Even if you choose not to be listed in the National Register of Electors or do not receive a voter information card, you can still be added to the voters' list at any time, including on election day."
   },
   "447": {
     "question": "By-laws are the responsibility of which level of government?",
