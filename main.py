@@ -71,7 +71,7 @@ def main():
             question_key = f"q_{counter}_{question}"
             question_text = f"Q{counter}. {db[question]['question']}"
             question_options = ['-']
-            question_answers = db[question]["options"].values()
+            question_answers = list(db[question]["options"].values())
             if chk_shuffle:
                 random.shuffle(question_answers)
             question_options.extend(question_answers)
