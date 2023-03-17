@@ -71,9 +71,10 @@ def main():
             question_key = f"q_{counter}_{question}"
             question_text = f"Q{counter}. {db[question]['question']}"
             question_options = ['-']
-            question_options.extend(db[question]["options"].values())
+            question_answers = db[question]["options"].values()
             if chk_shuffle:
-                random.shuffle(question_options)
+                random.shuffle(question_answers)
+            question_options.extend(question_answers)
             user_answers[question] = st.radio(question_text, options=question_options, key=question_key)
             results[question] = st.empty()
 
