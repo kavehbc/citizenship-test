@@ -3,14 +3,22 @@
 This is a public repository of the citizenship questions for the following countries:
 
 - Australia
+  - 105 Questions
 - Canada (English)
-  - *365 questions reviewed*
-  - *safe to shuffle the answers*
+  - *472 / 472 Questions Reviewed - Mar. 2023*
+  - *Safe to shuffle the answers*
   - **Known Issues:**
-    - Since the questions are from multiple sources, we might have duplicated questions.
+    - Since the questions are from multiple sources, there might be duplicated questions.
 - Canada (French)
+  - 226 Questions
 - United Kingdom (UK)
+  - 680 Questions
 - United States of America (U.S.A)
+  - 152 Questions
+
+## Screenshot
+
+![App Screenshot - Canada (English)](screenshots/v1.0.0.canada-en.png)
 
 ## CONTRIBUTION
 
