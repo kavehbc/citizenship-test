@@ -1985,7 +1985,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "quebec"
+    "region": "Quebec"
   },
   "181": {
     "question": "What is the name of the Lieutenant-Governor of Quebec?",
@@ -1998,7 +1998,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "quebec"
+    "region": "Quebec"
   },
   "182": {
     "question": "What is the capital city of Alberta?",
@@ -2010,7 +2010,7 @@
     },
     "answer": "d",
     "note": "",
-    "region": "alberta"
+    "region": "Alberta"
   },
   "183": {
     "question": "What is the name of the leader of the Opposition in Alberta?",
@@ -2023,7 +2023,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "alberta"
+    "region": "Alberta"
   },
   "184": {
     "question": "What is the name of the Lieutenant-Governor of Alberta?",
@@ -2036,7 +2036,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "alberta"
+    "region": "Alberta"
   },
   "185": {
     "question": "What is the name of the Premier of Alberta?",
@@ -2049,7 +2049,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "alberta"
+    "region": "Alberta"
   },
   "186": {
     "question": "Which political party is in power in Alberta?",
@@ -2062,7 +2062,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "alberta"
+    "region": "Alberta"
   },
   "187": {
     "question": "Which three natural resources are important to Alberta's economy today?",
@@ -2085,7 +2085,7 @@
     },
     "answer": "d",
     "note": "",
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "189": {
     "question": "Name the members of Parliament for Richmond, British Columbia and the parties they belong to (Richmond Centre, Steveston-Richmond East respectively).",
@@ -2098,7 +2098,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "190": {
     "question": "Name the Members of the Legislative Assembly for Richmond, British Columbia and the parties they belong to (Richmond North Centre, Richmond South Centre, Richmond-Steveston, and Richmond-Queensborough respectively).",
@@ -2111,7 +2111,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "191": {
     "question": "Name three city councillors for Richmond, British Columbia.",
@@ -2124,7 +2124,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "192": {
     "question": "What is the capital city of British Columbia?",
@@ -2136,7 +2136,7 @@
     },
     "answer": "c",
     "note": "",
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "193": {
     "question": "What is the name of the leader of the Opposition in British Columbia?",
@@ -2149,7 +2149,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "194": {
     "question": "What is the name of the Lieutenant-Governor of British Columbia?",
@@ -2162,7 +2162,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "195": {
     "question": "What is the name of the Mayor of Richmond, British Columbia?",
@@ -2175,7 +2175,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "196": {
     "question": "What is the name of the Premier of British Columbia?",
@@ -2188,7 +2188,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "197": {
     "question": "Which political party is in power in British Columbia?",
@@ -2201,7 +2201,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "british columbia"
+    "region": "British Columbia"
   },
   "198": {
     "question": "Which three natural resources are important to British Columbia's economy today?",
@@ -2235,7 +2235,7 @@
     },
     "answer": "a",
     "note": "",
-    "region": "manitoba"
+    "region": "Manitoba"
   },
   "201": {
     "question": "What is the name of the leader of the Opposition in Manitoba?",
@@ -2248,7 +2248,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "manitoba"
+    "region": "Manitoba"
   },
   "202": {
     "question": "What is the name of the Lieutenant-Governor of Manitoba?",
@@ -2261,7 +2261,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "manitoba"
+    "region": "Manitoba"
   },
   "203": {
     "question": "What is the name of the Premier of Manitoba?",
@@ -2274,7 +2274,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "manitoba"
+    "region": "Manitoba"
   },
   "204": {
     "question": "What three industries are important to Manitoba's economy today?",
@@ -2298,7 +2298,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "manitoba"
+    "region": "Manitoba"
   },
   "206": {
     "question": "What is the capital city of New Brunswick?",
@@ -2310,7 +2310,7 @@
     },
     "answer": "c",
     "note": "",
-    "region": "brunswick"
+    "region": "New Brunswick"
   },
   "207": {
     "question": "What is the name of the leader of the Opposition in New Brunswick?",
@@ -2323,7 +2323,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "brunswick"
+    "region": "New Brunswick"
   },
   "208": {
     "question": "What is the name of the Lieutenant-Governor of New Brunswick?",
@@ -2336,7 +2336,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "brunswick"
+    "region": "New Brunswick"
   },
   "209": {
     "question": "What is the name of the Premier of New Brunswick?",
@@ -2349,7 +2349,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "brunswick"
+    "region": "New Brunswick"
   },
   "210": {
     "question": "What three industries are important to New Brunswick's economy today?",
@@ -2373,7 +2373,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "brunswick"
+    "region": "New Brunswick"
   },
   "212": {
     "question": "What is the capital city of Newfoundland and Labrador?",
@@ -2386,7 +2386,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "brunswick"
+    "region": "New Brunswick"
   },
   "213": {
     "question": "What is the name of the leader of the Opposition in Newfoundland and Labrador?",
@@ -2399,7 +2399,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "newfoundland-labrador"
+    "region": "Newfoundland & Labrador"
   },
   "214": {
     "question": "What is the name of the Lieutenant-Governor of Newfoundland and Labrador?",
@@ -2412,7 +2412,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "newfoundland-labrador"
+    "region": "Newfoundland & Labrador"
   },
   "215": {
     "question": "What is the name of the Premier of Newfoundland and Labrador?",
@@ -2425,7 +2425,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "newfoundland-labrador"
+    "region": "Newfoundland & Labrador"
   },
   "216": {
     "question": "What three industries are important to Newfoundland and Labrador's economy today?",
@@ -2449,7 +2449,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "newfoundland-labrador"
+    "region": "Newfoundland & Labrador"
   },
   "218": {
     "question": "What is the capital City of Nova Scotia?",
@@ -2461,7 +2461,7 @@
     },
     "answer": "b",
     "note": "",
-    "region": "nova-scotia"
+    "region": "Nova Scotia"
   },
   "219": {
     "question": "What is the name of the leader of the Opposition in Nova Scotia?",
@@ -2474,7 +2474,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "nova-scotia"
+    "region": "Nova Scotia"
   },
   "220": {
     "question": "What is the name of the Lieutenant-Governor of Nova Scotia?",
@@ -2487,7 +2487,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "nova-scotia"
+    "region": "Nova Scotia"
   },
   "221": {
     "question": "What is the name of the Premier of Nova Scotia?",
@@ -2500,7 +2500,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "nova-scotia"
+    "region": "Nova Scotia"
   },
   "222": {
     "question": "What three industries are important to Nova Scotia's economy today?",
@@ -2524,7 +2524,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "nova-scotia"
+    "region": "Nova Scotia"
   },
   "224": {
     "question": "What is the capital City of the Northwest Territories?",
@@ -2536,7 +2536,7 @@
     },
     "answer": "d",
     "note": "",
-    "region": "northwest-territories"
+    "region": "Northwest Territories"
   },
   "225": {
     "question": "What is the name of the Commissioner of the Northwest Territories?",
@@ -2549,7 +2549,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "northwest-territories"
+    "region": "Northwest Territories"
   },
   "226": {
     "question": "What is the name of the leader of the Opposition in the Northwest Territories?",
@@ -2562,7 +2562,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "northwest-territories"
+    "region": "Northwest Territories"
   },
   "227": {
     "question": "What is the name of the Premier of the Northwest Territories?",
@@ -2575,7 +2575,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "northwest-territories"
+    "region": "Northwest Territories"
   },
   "228": {
     "question": "Which political party is in power in the Northwest Territories?",
@@ -2588,7 +2588,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "northwest-territories"
+    "region": "Northwest Territories"
   },
   "229": {
     "question": "What is the capital City of the Nunavut?",
@@ -2600,7 +2600,7 @@
     },
     "answer": "b",
     "note": "",
-    "region": "nunavut"
+    "region": "Nunavut"
   },
   "230": {
     "question": "What is the name of the Commissioner of Nunavut?",
@@ -2613,7 +2613,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "nunavut"
+    "region": "Nunavut"
   },
   "231": {
     "question": "What is the name of the leader of the Opposition in Nunavut?",
@@ -2626,7 +2626,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "nunavut"
+    "region": "Nunavut"
   },
   "232": {
     "question": "What is the name of the Premier of Nunavut?",
@@ -2639,7 +2639,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "nunavut"
+    "region": "Nunavut"
   },
   "233": {
     "question": "Which political party is in power in Nunavut?",
@@ -2652,7 +2652,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "nunavut"
+    "region": "Nunavut"
   },
   "234": {
     "question": "What is the capital city of Ontario?",
@@ -2664,7 +2664,7 @@
     },
     "answer": "c",
     "note": "",
-    "region": "ontario"
+    "region": "Ontario"
   },
   "235": {
     "question": "What is the name of the leader of the Opposition in Ontario?",
@@ -2677,7 +2677,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "ontario"
+    "region": "Ontario"
   },
   "236": {
     "question": "What is the name of the Lieutenant-Governor of Ontario?",
@@ -2690,7 +2690,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "ontario"
+    "region": "Ontario"
   },
   "237": {
     "question": "What is the name of the Premier of Ontario?",
@@ -2703,7 +2703,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "ontario"
+    "region": "Ontario"
   },
   "238": {
     "question": "What three industries are important to Ontario's economy today?",
@@ -2727,7 +2727,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "ontario"
+    "region": "Ontario"
   },
   "240": {
     "question": "Which three are Members of Ontario's Legislative Assembly?",
@@ -2740,7 +2740,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "ontario"
+    "region": "Ontario"
   },
   "241": {
     "question": "What is the capital City of the Prince Edward Island?",
@@ -2752,7 +2752,7 @@
     },
     "answer": "c",
     "note": "",
-    "region": "prince-edward-island"
+    "region": "Prince Edward Island"
   },
   "242": {
     "question": "What is the name of the leader of the Opposition in Prince Edward Island?",
@@ -2765,7 +2765,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "prince-edward-island"
+    "region": "Prince Edward Island"
   },
   "243": {
     "question": "What is the name of the Lieutenant-Governor of Prince Edward Island?",
@@ -2778,7 +2778,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "prince-edward-island"
+    "region": "Prince Edward Island"
   },
   "244": {
     "question": "What is the name of the Premier of Prince Edward Island?",
@@ -2791,7 +2791,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "prince-edward-island"
+    "region": "Prince Edward Island"
   },
   "245": {
     "question": "Which political party is in power in Prince Edward Island?",
@@ -2804,7 +2804,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "prince-edward-island"
+    "region": "Prince Edward Island"
   },
   "246": {
     "question": "What is the capital City of the Quebec?",
@@ -2816,7 +2816,7 @@
     },
     "answer": "b",
     "note": "",
-    "region": "quebec"
+    "region": "Quebec"
   },
   "247": {
     "question": "What is the name of the Premier of Quebec?",
@@ -2829,7 +2829,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "quebec"
+    "region": "Quebec"
   },
   "248": {
     "question": "What three industries are important to Quebec's economy today?",
@@ -2853,7 +2853,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "quebec"
+    "region": "Quebec"
   },
   "250": {
     "question": "What is the capital city of Saskatchewan?",
@@ -2865,7 +2865,7 @@
     },
     "answer": "a",
     "note": "",
-    "region": "saskatchewan"
+    "region": "Saskatchewan"
   },
   "251": {
     "question": "What is the name of the leader of the Opposition in Saskatchewan?",
@@ -2878,7 +2878,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "saskatchewan"
+    "region": "Saskatchewan"
   },
   "252": {
     "question": "What is the name of the Lieutenant-Governor of Saskatchewan?",
@@ -2891,7 +2891,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "saskatchewan"
+    "region": "Saskatchewan"
   },
   "253": {
     "question": "What is the name of the Premier of Saskatchewan?",
@@ -2904,7 +2904,7 @@
     "answer": "c",
     "note": "",
     "update": true,
-    "region": "saskatchewan"
+    "region": "Saskatchewan"
   },
   "254": {
     "question": "What three industries are important to Saskatchewan's economy today?",
@@ -2928,7 +2928,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "saskatchewan"
+    "region": "Saskatchewan"
   },
   "256": {
     "question": "What is the capital city of Yukon Territory?",
@@ -2940,7 +2940,7 @@
     },
     "answer": "c",
     "note": "",
-    "region": "yukon"
+    "region": "Yukon"
   },
   "257": {
     "question": "What is the name of the Commissioner of Yukon Territory?",
@@ -2953,7 +2953,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "yukon"
+    "region": "Yukon"
   },
   "258": {
     "question": "What is the name of the leader of the Opposition in Yukon Territory?",
@@ -2966,7 +2966,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "yukon"
+    "region": "Yukon"
   },
   "259": {
     "question": "What is the name of the Premier of Yukon Territory?",
@@ -2979,7 +2979,7 @@
     "answer": "d",
     "note": "",
     "update": true,
-    "region": "yukon"
+    "region": "Yukon"
   },
   "260": {
     "question": "Name two fundamental freedoms under Canadian law.",
@@ -3329,7 +3329,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "ontario"
+    "region": "Ontario"
   },
   "291": {
     "question": "Who is the Premier of Ontario?",
@@ -3342,7 +3342,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "ontario"
+    "region": "Ontario"
   },
   "292": {
     "question": "Who is the Lieutenant Governor of Ontario?",
@@ -3355,7 +3355,7 @@
     "answer": "a",
     "note": "",
     "update": true,
-    "region": "ontario"
+    "region": "Ontario"
   },
   "293": {
     "question": "Who is the mayor of Toronto?",
@@ -3368,7 +3368,7 @@
     "answer": "b",
     "note": "",
     "update": true,
-    "region": "ontario"
+    "region": "Ontario"
   },
   "294": {
     "question": "Which level of government is responsible for by-laws?",
@@ -3556,7 +3556,7 @@
     },
     "answer": "a",
     "note": "",
-    "region": "ontario"
+    "region": "Ontario"
   },
   "311": {
     "question": "Name the five Great lakes.",
@@ -4467,7 +4467,7 @@
     },
     "answer": "a",
     "note": "Louis Riel is the Father of Manitoba.",
-    "region": "manitoba"
+    "region": "Manitoba"
   },
   "396": {
     "question": "Who led the Canadian Corps in the last hundred days of World War I?",
