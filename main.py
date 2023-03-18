@@ -9,15 +9,37 @@ lst_countries = {"canada-en": "Canada (English)",
                  "uk": "United Kingdom"}
 
 
-def get_random_questions_ids(db, questions_to_pick):
+def get_random_questions_ids(db, questions_to_pick, region=None):
     lst_questions_in_db = list(db.keys())
 
     selected_questions = []
-    for i in range(questions_to_pick):
+    i = 0
+    while i < questions_to_pick:
         random_index = random.randint(0, len(lst_questions_in_db) - 1)
         question_id = lst_questions_in_db.pop(random_index)
-        selected_questions.append(question_id)
+
+        pick = False
+        if "region" in db[question_id] and region is not None:
+            if db[question_id]["region"] == region:
+                pick = True
+        else:
+            pick = True
+
+        if pick:
+            i += 1
+            selected_questions.append(question_id)
+
     return selected_questions
+
+
+def get_regions_list(db):
+    regions = []
+    for q in db.keys():
+        if "region" in db[q]:
+            regions.append(db[q]["region"])
+    regions = list(set(regions))
+    regions.sort()
+    return regions
 
 
 def main():
@@ -30,6 +52,9 @@ def main():
     # load json data
     json_file = open(f"data/{country}.json")
     db = json.load(json_file)
+
+    regions = get_regions_list(db)
+    region = st.sidebar.selectbox("Region", options=regions)
 
     total_questions_in_db = len(db)
     questions_to_pick = st.sidebar.number_input("Number of Questions",
@@ -51,11 +76,11 @@ def main():
 
     if "questions" in st.session_state:
         if st.session_state["questions_to_pick"] != questions_to_pick or st.session_state["country"] != country:
-            selected_questions = get_random_questions_ids(db, questions_to_pick)
+            selected_questions = get_random_questions_ids(db, questions_to_pick, region)
         else:
             selected_questions = st.session_state["questions"]
     else:
-        selected_questions = get_random_questions_ids(db, questions_to_pick)
+        selected_questions = get_random_questions_ids(db, questions_to_pick, region)
 
     st.session_state["questions"] = selected_questions
     st.session_state["questions_to_pick"] = questions_to_pick
@@ -76,6 +101,8 @@ def main():
             #     random.shuffle(question_answers)
             question_options.extend(question_answers)
             user_answers[question] = st.radio(question_text, options=question_options, key=question_key)
+            if "region" in db[question]:
+                st.info(f"Regional Question: {db[question]['region']}")
             results[question] = st.empty()
 
         submit_button = st.form_submit_button(label='Submit and Check')
