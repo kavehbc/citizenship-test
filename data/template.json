@@ -8,7 +8,9 @@
       "d": "Vancouver"
     },
     "answer": "c",
-    "note": "Ottawa is the capital of Canada."
+    "note": "Ottawa is the capital of Canada.",
+    "update": false,
+    "region": "federal"
   },
   "2": {
     "question": "What is the capital of Quebec?",
@@ -19,6 +21,8 @@
       "d": "Toronto"
     },
     "answer": "a",
-    "note": ""
+    "note": "",
+    "update": false,
+    "region": "quebec"
   }
 }
