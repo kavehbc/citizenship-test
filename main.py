@@ -37,7 +37,7 @@ def main():
                                                 min_value=1,
                                                 value=20)
     st.sidebar.caption(f"Total questions: {total_questions_in_db}")
-    chk_shuffle = st.sidebar.checkbox("Shuffle Answers", value=True)
+    # chk_shuffle = st.sidebar.checkbox("Shuffle Answers", value=True)
 
     # if the given number is greater than total questions,
     # set the given number to the maximum questions
@@ -72,8 +72,8 @@ def main():
             question_text = f"Q{counter}. {db[question]['question']}"
             question_options = ['-']
             question_answers = list(db[question]["options"].values())
-            if chk_shuffle:
-                random.shuffle(question_answers)
+            # if chk_shuffle:
+            #     random.shuffle(question_answers)
             question_options.extend(question_answers)
             user_answers[question] = st.radio(question_text, options=question_options, key=question_key)
             results[question] = st.empty()
@@ -92,7 +92,7 @@ def main():
                 correct_answers += 1
                 results[answer].success(f"""
                 **Correct**
-                
+                                
                 {db[answer]["note"]}
                 """)
             else:
