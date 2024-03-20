@@ -17,8 +17,7 @@ This is a public repository of the citizenship questions for the following count
   - 152 Questions
 
 ## Screenshot
-
-![App Screenshot - Canada (English)](https://github.com/kavehbc/citizenship-test/raw/master/screenshots/v1.0.0.canada-en.png)
+![App Screenshot](screenshot/citizenship.png "App Screenshot")
 
 ## CONTRIBUTION
 
